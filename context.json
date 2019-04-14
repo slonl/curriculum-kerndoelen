@@ -1,0 +1,130 @@
+{
+	"definitions": {
+		"uuid": {
+			"type": "string",
+			"anyOf": [
+				{ "format": "uuid" },
+				{ "pattern": "^bk:[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-4[0-9a-fA-F]{3}-[89abAB][0-9a-fA-F]{3}-[0-9a-fA-F]{12}$" }
+			]
+		},
+		"uuidArray": {
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/uuid"
+			},
+			"uniqueItems": true
+		},
+		"base": {
+			"properties": {
+				"id": {
+					"$ref": "#/definitions/uuid"
+				},
+				"title": {
+					"type": "string"
+				},
+				"description": {
+					"type": "string"
+				},
+				"replacedBy": {
+					"$ref": "#/definitions/uuidArray"
+				},
+				"replaces" : {
+					"$ref": "#/definitions/uuidArray"
+				}
+			},
+			"required": ["id","title"]
+		},
+		"inhoud": {
+			"allOf": [ { "$ref": "#/definitions/base" } ],
+			"properties": {
+				"kerndoel_id": {
+					"allOf": [
+						{
+							"$ref": "#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/kerndoel"
+							}
+						}
+					]
+				}
+			}
+		},
+		"kerndoel": {
+			"$ref": "#/definitions/base"
+		},
+		"kerndoel_domein": {
+			"$ref": "#/definitions/inhoud"
+		},
+		"kerndoel_uitstroomprofiel": {
+			"$ref": "#/definitions/base"
+		},
+		"kerndoel_vakleergebied": {
+			"allOf": [
+				{
+					"$ref" : "#/definitions/inhoud"
+				},
+				{
+					"properties": {
+						"kerndoel_domein_id": {
+							"allOf": [
+								{ "$ref": "#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/kerndoel_domein" } }
+							]
+						},
+						"kerndoel_uitstroomprofiel_id": {
+							"allOf": [
+								{ "$ref": "#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "#/definitions/kerndoel_uitstroomprofiel" } }
+							]
+						}
+					}
+				}
+			],
+			"anyOf": [
+				{ "required": ["id","title","kerndoel_domein_id"] },
+				{ "required": ["id","title","kerndoel_id"] },
+				{ "required": ["id","title","kerndoel_uitstroomprofiel_id"] }
+			]				
+		}
+	},
+	"$id": "http://curriculum.slo.nl/schemas/kerndoel",
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"kerndoel": {
+			"#file": "data/kerndoelen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel"
+			}
+		},
+		"kerndoel_domein": {
+			"#file": "data/domeinen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel_domein"
+			}
+		},
+		"kerndoel_vakleergebied": {
+			"#file": "data/vakleergebieden.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel_vakleergebied"
+			}
+		},
+		"kerndoel_uitstroomprofiel": {
+			"#file": "data/uitstroomprofielen.json",
+			"type": "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel_uitstroomprofiel"
+			}
+		},
+		"deprecated": {
+			"#file": "data/deprecated.json",
+			"type" : "array"
+		}
+	},
+	"required": ["kerndoel_vakleergebied","kerndoel_domein","kerndoel","kerndoel_uitstroomprofiel"]
+}

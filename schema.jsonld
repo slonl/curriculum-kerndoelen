@@ -1,0 +1,31 @@
+{
+	"@context": {
+		"kerndoel": "http://opendata.slo.nl/curriculum/schemas/kerndoel.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"description": {
+			"@id": "http://purl.org/dc/terms/description",
+			"@type": "@id"
+		},
+		"Kerndoel": {
+			"@id": "kerndoel:#Doel"
+		},
+		"Domein": {
+			"@id": "kerndoel:#Domein"
+		},
+		"Uitstroomprofiel": {
+			"@id": "kerndoel:#Uitstroomprofiel"
+		},
+		"Vakleergebied": {
+			"@id": "kerndoel:#Vakleergebied"
+		},
+		"Deprecated": {
+			"@id": "kerndoel:#Deprecated"
+		}
+	}
+}
