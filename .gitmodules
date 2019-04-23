@@ -1,0 +1,3 @@
+[submodule "curriculum-doelen"]
+	path = curriculum-doelen
+	url = https://github.com/slonl/curriculum-doelen.git
