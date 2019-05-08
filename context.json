@@ -1,34 +1,42 @@
 {
 	"definitions": {
 		"inhoud": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
-            "properties": {
-                "kerndoel_id": {
-                    "allOf": [
-                        {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
-                        },
-                        {
-                            "items": {
-                                "itemTypeReference": "#/definitions/kerndoel"
-                            }
-                        }
-                    ]
-                }
-            }
-        },
+			"allOf": [
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" }
+				{
+					"properties": {
+						"kerndoel_id": {
+							"allOf": [
+								{
+									"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+								},
+								{
+									"items": {
+										"itemTypeReference": "#/definitions/kerndoel"
+									}
+								}
+							]
+						}
+					}
+				}
+			]
+		},
 		"kerndoel": {
-			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
-			"properties": {
-				"description": { "type": "string" },
-				"prefix": { "type": "string" }
-			},
-			"niveau_id": {
-				"allOf": [
-					{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
-					{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
-				]
-			}
+			"allOf": [
+				{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" }
+				{
+					"properties": {
+						"description": { "type": "string" },
+						"prefix": { "type": "string" }
+						"niveau_id": {
+							"allOf": [
+								{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray" },
+								{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/niveau" } }
+							]
+						}
+					}
+				}
+			]
 		},
 		"kerndoel_domein": {
 			"$ref": "#/definitions/inhoud"
