@@ -114,7 +114,7 @@
 		]
 	},
 	{
-		"id": "bk:afae9f70-1823-415a-be58-35289f5b116d",
+		"id": "02d2f065-3527-4001-99b6-52a9080f943f",
 		"title": "Mens en maatschappij",
 		"kerndoel_domein_id": [
 			"35e64e7b-2a0b-4002-b045-f3dccba8bf2f",
@@ -123,10 +123,13 @@
 			"ed75700c-aefa-4a9b-9589-19f524920782"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:afae9f70-1823-415a-be58-35289f5b116d"
+		]
 	},
 	{
-		"id": "bk:3a8e841e-ee9a-4790-b6ac-747f54d19ea1",
+		"id": "661346ca-7ca3-4da9-90a4-35f8103f38c3",
 		"title": "Mens en natuur",
 		"kerndoel_domein_id": [
 			"897c3e21-7119-476c-b6ce-df39ca8c4cdd",
@@ -138,27 +141,39 @@
 			"2c2e0463-910c-4039-8e6b-84f140d54e9d"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:3a8e841e-ee9a-4790-b6ac-747f54d19ea1"
+		]
 	},
 	{
-		"id": "bk:ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51",
-		"title": "zintuigelijke ontwikkeling"
+		"id": "4810278a-93c7-4234-bbb0-da027b16e84d",
+		"title": "zintuigelijke ontwikkeling",
+		"vak_id": [
+			"bk:ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+		]
 	},
 	{
-		"id": "bk:1f73da5d-4118-4330-9e3d-597693bd8e10",
+		"id": "a080da93-258e-4802-aafb-cddfd6f34a87",
 		"title": "leren leren",
 		"kerndoel_domein_id": [
 			"6907960d-8d80-4f59-9efe-1a9514ed6c7a"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:1f73da5d-4118-4330-9e3d-597693bd8e10"
+		]
 	},
 	{
-		"id": "bk:e22b9776-4e4a-4c39-be4e-1cb47b24fd49",
-		"title": "motorische ontwikkeling"
+		"id": "0610cb30-e394-4420-8281-ad5edcfd9140",
+		"title": "motorische ontwikkeling",
+		"vak_id": [
+			"bk:e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+		]
 	},
 	{
-		"id": "bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39",
+		"id": "0ed2e256-da25-44e2-876e-9c3e357a2a79",
 		"title": "bewegen en sport",
 		"kerndoel_domein_id": [
 			"448d83be-f820-4ca4-af13-57599827f0ab",
@@ -166,10 +181,13 @@
 			"8cb16faf-3173-4988-898b-a9936be47821"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
+		]
 	},
 	{
-		"id": "bk:3401cf6e-82e4-404c-b216-b980ff407159",
+		"id": "41236270-1d6f-46e4-bb9c-1e0f06726437",
 		"title": "Nederlands",
 		"kerndoel_domein_id": [
 			"183cc03d-0441-4e29-bc99-7a63973b29bc",
@@ -179,10 +197,13 @@
 			"d6ffbf14-08e6-43c0-9312-22f62ec140b2"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:3401cf6e-82e4-404c-b216-b980ff407159"
+		]
 	},
 	{
-		"id": "bk:b48fa351-4561-44c7-a071-ebfd6103eec3",
+		"id": "545b1f8a-77e7-480c-bd0f-623ece62faee",
 		"title": "rekenen en wiskunde",
 		"kerndoel_domein_id": [
 			"3dfcefa2-3a4e-4d36-bd3e-861b34bfbeac",
@@ -192,20 +213,26 @@
 			"c14b051a-6665-46b2-b7b9-7e4a267828c5"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:b48fa351-4561-44c7-a071-ebfd6103eec3"
+		]
 	},
 	{
-		"id": "bk:93a7126d-7307-4b6a-b55a-f4f78e92f680",
+		"id": "68bc0428-d73f-40aa-9a11-676ed996c4a1",
 		"title": "Fries",
 		"kerndoel_domein_id": [
 			"e585df14-6802-47e7-a19a-e69688892754",
 			"c1951ee9-63b2-4638-9dfc-a3696396f291"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:93a7126d-7307-4b6a-b55a-f4f78e92f680"
+		]
 	},
 	{
-		"id": "bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d",
+		"id": "e27097a1-ef9e-4768-b3f1-030c5ab67b81",
 		"title": "kunst en cultuur",
 		"kerndoel_domein_id": [
 			"3f958bf9-6f1c-4d3b-93b5-e84b9124cb8f",
@@ -217,19 +244,25 @@
 			"cffcabf5-4473-4100-8a6d-c0008f2fb3c5"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d"
+		]
 	},
 	{
-		"id": "bk:18f53978-1118-4051-a778-b8d7f60ca982",
+		"id": "87456ff4-d1f1-4c45-89f0-ec9623210819",
 		"title": "Engels",
 		"kerndoel_domein_id": [
 			"0934e203-f8f9-44c8-b8c5-c03d91f46af7"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:18f53978-1118-4051-a778-b8d7f60ca982"
+		]
 	},
 	{
-		"id": "bk:35d0e3ed-d62e-40a5-8bff-46f1de51e47a",
+		"id": "52488897-49d6-41f4-9127-ff903593485b",
 		"title": "sociaal-emotionele ontwikkeling",
 		"kerndoel_domein_id": [
 			"25ad50ab-bf09-4449-bdf1-7e818cac1c61",
@@ -237,17 +270,23 @@
 			"5180ff07-6896-4609-9fa6-0b2114d48a08"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:35d0e3ed-d62e-40a5-8bff-46f1de51e47a"
+		]
 	},
 	{
-		"id": "bk:04058361-4e9e-4c02-a057-41605a7f37b5",
+		"id": "af315551-d4d1-437c-b896-54f80c4799d6",
 		"title": "praktische redzaamheid",
 		"kerndoel_domein_id": [
 			"34b38772-411e-4df9-a1cd-007ec4887a9d",
 			"2386176a-920c-40ec-8329-7ed842b53ed4"
 		],
 		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
+		"kerndoel_id": [],
+		"vak_id": [
+			"bk:04058361-4e9e-4c02-a057-41605a7f37b5"
+		]
 	},
 	{
 		"id": "f3630665-d033-4dd4-a9f0-fc1c14cdf3c7",
