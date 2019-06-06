@@ -1,6 +1,6 @@
 [
 	{
-		"id": "bk:9f47a004-8a83-4108-8d10-0fc282837b1c",
+		"id": 9f47a004-8a83-4108-8d10-0fc282837b1c",
 		"title": "Vervolgonderwijs",
 		"description": "Leerlingen in dit kerndoel-uitstroomprofiel worden geacht in staat te zijn een diploma voortgezet onderwijs te behalen (vwo, havo, vmbo) of een diploma op het niveau mbo-1. Het onderwijs is inhoudelijk geënt op het reguliere onderwijs, zowel in de onderbouw (kerndoelen) als in de bovenbouw (examenprogramma`s). Daarnaast is het gericht op een succesvcolle doorstroom, zo mogelijk naar vervolgonderwijs (mbo, hbo of wo) of, in enkele gevallen, op terugstroom van de leerling naar het regulier voortgezet onderwijs.",
 		"tag_id": [
@@ -8,7 +8,7 @@
 		]
 	},
 	{
-		"id": "bk:14066279-b193-4704-b377-2a1cf639943f",
+		"id": 14066279-b193-4704-b377-2a1cf639943f",
 		"title": "Arbeidsmarkt",
 		"description": "Bij leerlingen in dit kerndoel-uitstroomprofiel wordt ingeschat dat zij toeleidbaar zijn naar loonvormende arbeid, maar niet in staat zullen zijn een volledig diploma vo of mbo-1 te behalen. Binnen dit kerndoel-uitstroomprofiel onderscheiden we: \n•arbeid in een regulier bedrijf, in combinatie met landelijk erkend(e) certificaat/certificaten \n•arbeid in een regulier bedrijf, zonder certificaten \n•(beschermde) arbeid in sociale werkvoorziening",
 		"tag_id": [
@@ -16,7 +16,7 @@
 		]
 	},
 	{
-		"id": "bk:4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
+		"id": 4bad9adc-f69d-4ff4-8ac6-11d671bd0b96",
 		"title": "Dagbesteding",
 		"description": "Leerlingen in dit kerndoel-uitstroomprofiel worden vanuit het vso toegeleid naar een voorziening voor dagbesteding. Er wordt een onderscheid gemaakt naar: \n•arbeidsmatige dagbesteding \n•taak- of activiteitsgerichte dagbesteding \n•belevingsgerichte dagbesteding",
 		"tag_id": [
