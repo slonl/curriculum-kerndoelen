@@ -9,14 +9,14 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:be381023-63d8-4526-b630-90bf7453c51a",
-			"bk:c5700f90-543e-4ef1-b48a-f19dbc74f87f",
-			"bk:d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
-			"bk:bde4c581-cc04-439e-a08d-d95ff744216a",
-			"bk:e79198ce-df12-45c2-bf40-db070246ad0a",
-			"bk:13f08f75-1c7c-402e-a7de-149082a9e5af",
-			"bk:10dabe59-616c-40d5-a3fd-271c23b65edd",
-			"bk:417ed529-bee9-486d-b49a-320acbe76267"
+			"be381023-63d8-4526-b630-90bf7453c51a",
+			"c5700f90-543e-4ef1-b48a-f19dbc74f87f",
+			"d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
+			"bde4c581-cc04-439e-a08d-d95ff744216a",
+			"e79198ce-df12-45c2-bf40-db070246ad0a",
+			"13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"417ed529-bee9-486d-b49a-320acbe76267"
 		]
 	},
 	{
@@ -25,11 +25,11 @@
 		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:ce98fc41-bfc3-4cf4-b954-722184f55437",
-			"bk:5eb46bd5-3188-4465-beab-156c27f7b1dc",
-			"bk:0d98aa7e-ac35-4999-abcd-bbaf6c3883ae",
-			"bk:1ba16f88-9221-4812-9288-0b5206ad7213",
-			"bk:a3c12add-d27b-4ad4-8d10-dd8820433385"
+			"ce98fc41-bfc3-4cf4-b954-722184f55437",
+			"5eb46bd5-3188-4465-beab-156c27f7b1dc",
+			"0d98aa7e-ac35-4999-abcd-bbaf6c3883ae",
+			"1ba16f88-9221-4812-9288-0b5206ad7213",
+			"a3c12add-d27b-4ad4-8d10-dd8820433385"
 		]
 	},
 	{
@@ -40,7 +40,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:4eb7b7d7-086d-48b4-8b84-cbb8d3cae3de"
+			"4eb7b7d7-086d-48b4-8b84-cbb8d3cae3de"
 		]
 	},
 	{
@@ -48,9 +48,9 @@
 		"title": "kerndoel-uitstroomprofiel VSO",
 		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [
-			"bk:9f47a004-8a83-4108-8d10-0fc282837b1c",
-			"bk:14066279-b193-4704-b377-2a1cf639943f",
-			"bk:4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
+			"9f47a004-8a83-4108-8d10-0fc282837b1c",
+			"14066279-b193-4704-b377-2a1cf639943f",
+			"4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
 		],
 		"kerndoel_id": []
 	},
@@ -60,17 +60,17 @@
 		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
-			"bk:df68701e-38c2-4566-8090-d7d77ff97a83",
-			"bk:ac7ef88b-8488-4063-b469-ee6617f8ee63",
-			"bk:70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc",
-			"bk:3502e44e-78e7-4766-aaf5-5a7cbc8ab330",
-			"bk:70101196-23ec-4bf8-917e-2886436b2b35",
-			"bk:e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0",
-			"bk:161a016a-7115-4127-aa63-1074a434b181",
-			"bk:5b90f4ab-71bc-4951-9099-2f9ff166c41d",
-			"bk:121ca959-3df5-43b7-bd4a-1134ea7dcaf6",
-			"bk:77185597-05d1-42b2-9488-39917a061673"
+			"ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"df68701e-38c2-4566-8090-d7d77ff97a83",
+			"ac7ef88b-8488-4063-b469-ee6617f8ee63",
+			"70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc",
+			"3502e44e-78e7-4766-aaf5-5a7cbc8ab330",
+			"70101196-23ec-4bf8-917e-2886436b2b35",
+			"e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0",
+			"161a016a-7115-4127-aa63-1074a434b181",
+			"5b90f4ab-71bc-4951-9099-2f9ff166c41d",
+			"121ca959-3df5-43b7-bd4a-1134ea7dcaf6",
+			"77185597-05d1-42b2-9488-39917a061673"
 		]
 	},
 	{
@@ -79,18 +79,18 @@
 		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:a59a0231-58c7-4ffb-8dd0-2a27dceba148",
-			"bk:444d60d6-c7f8-40d7-a537-53b7850fd0ca",
-			"bk:f239727f-1891-4389-9e2b-6ff89787a133",
-			"bk:46d5adcb-6368-45c3-ae8e-2e2f9411b4fc",
-			"bk:3a4b64df-1883-48cb-b6d6-a72545f87995",
-			"bk:6c90d90a-a598-486f-a42c-8dc85de5c5f7",
-			"bk:5f513091-b8d8-4cf3-b3d3-6e3da8970c0e",
-			"bk:924d3dd0-0d2c-4616-8a26-88c1b1d4c886",
-			"bk:c7085ea6-b56e-4bdb-8542-162cc952c6b8",
-			"bk:cc951cdd-2479-4c01-bab3-5ef2767d56d9",
-			"bk:219c8742-0e04-4bfc-a610-003ebb236dd3",
-			"bk:c4a535ed-e4dc-4ba3-a253-110b31427eed"
+			"a59a0231-58c7-4ffb-8dd0-2a27dceba148",
+			"444d60d6-c7f8-40d7-a537-53b7850fd0ca",
+			"f239727f-1891-4389-9e2b-6ff89787a133",
+			"46d5adcb-6368-45c3-ae8e-2e2f9411b4fc",
+			"3a4b64df-1883-48cb-b6d6-a72545f87995",
+			"6c90d90a-a598-486f-a42c-8dc85de5c5f7",
+			"5f513091-b8d8-4cf3-b3d3-6e3da8970c0e",
+			"924d3dd0-0d2c-4616-8a26-88c1b1d4c886",
+			"c7085ea6-b56e-4bdb-8542-162cc952c6b8",
+			"cc951cdd-2479-4c01-bab3-5ef2767d56d9",
+			"219c8742-0e04-4bfc-a610-003ebb236dd3",
+			"c4a535ed-e4dc-4ba3-a253-110b31427eed"
 		]
 	},
 	{
@@ -99,18 +99,18 @@
 		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
-			"bk:02088a74-17e5-48bd-86ac-8097584c6113",
-			"bk:837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
-			"bk:51ff659e-08af-4e8c-915c-6ff2b45642e6",
-			"bk:08bcd4cd-813b-43c8-881f-8a03de167f6e",
-			"bk:e870c7d5-01bc-4025-bc67-6566af3b54c9",
-			"bk:a81f32cb-1472-4ae7-8b83-b54a18f96196",
-			"bk:ca6d611c-dd2f-4129-8a69-82d8fdab7f02",
-			"bk:0a05040a-a2db-448e-a14b-3e256c357121",
-			"bk:f5314859-3655-4c58-b4ca-b88cf98bc5a1",
-			"bk:0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
-			"bk:47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
-			"bk:6c50e054-7e6f-475d-9001-359259a8a6db"
+			"02088a74-17e5-48bd-86ac-8097584c6113",
+			"837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
+			"51ff659e-08af-4e8c-915c-6ff2b45642e6",
+			"08bcd4cd-813b-43c8-881f-8a03de167f6e",
+			"e870c7d5-01bc-4025-bc67-6566af3b54c9",
+			"a81f32cb-1472-4ae7-8b83-b54a18f96196",
+			"ca6d611c-dd2f-4129-8a69-82d8fdab7f02",
+			"0a05040a-a2db-448e-a14b-3e256c357121",
+			"f5314859-3655-4c58-b4ca-b88cf98bc5a1",
+			"0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
+			"47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
+			"6c50e054-7e6f-475d-9001-359259a8a6db"
 		]
 	},
 	{
@@ -125,7 +125,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:afae9f70-1823-415a-be58-35289f5b116d"
+			"afae9f70-1823-415a-be58-35289f5b116d"
 		]
 	},
 	{
@@ -150,7 +150,7 @@
 		"id": "4810278a-93c7-4234-bbb0-da027b16e84d",
 		"title": "zintuigelijke ontwikkeling",
 		"vak_id": [
-			"bk:ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
+			"ec9ee0df-7dbe-4ef9-8e7a-f26e18dc7a51"
 		]
 	},
 	{
@@ -162,14 +162,14 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:1f73da5d-4118-4330-9e3d-597693bd8e10"
+			"1f73da5d-4118-4330-9e3d-597693bd8e10"
 		]
 	},
 	{
 		"id": "0610cb30-e394-4420-8281-ad5edcfd9140",
 		"title": "motorische ontwikkeling",
 		"vak_id": [
-			"bk:e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
+			"e22b9776-4e4a-4c39-be4e-1cb47b24fd49"
 		]
 	},
 	{
@@ -183,7 +183,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
+			"bc7cb521-bdfe-46ab-b635-f2d2189bdd39"
 		]
 	},
 	{
@@ -228,7 +228,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:93a7126d-7307-4b6a-b55a-f4f78e92f680"
+			"93a7126d-7307-4b6a-b55a-f4f78e92f680"
 		]
 	},
 	{
@@ -246,7 +246,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:4aa16ae7-48c6-4f96-b48d-a67389a7050d"
+			"4aa16ae7-48c6-4f96-b48d-a67389a7050d"
 		]
 	},
 	{
@@ -272,7 +272,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:35d0e3ed-d62e-40a5-8bff-46f1de51e47a"
+			"35d0e3ed-d62e-40a5-8bff-46f1de51e47a"
 		]
 	},
 	{
@@ -285,7 +285,7 @@
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
 		"vak_id": [
-			"bk:04058361-4e9e-4c02-a057-41605a7f37b5"
+			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		]
 	},
 	{

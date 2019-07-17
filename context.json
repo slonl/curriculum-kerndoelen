@@ -1,22 +1,22 @@
 {
 	"definitions": {
 		"inhoud": {
-            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
-            "properties": {
-                "kerndoel_id": {
-                    "allOf": [
-                        {
-                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
-                        },
-                        {
-                            "items": {
-                                "itemTypeReference": "#/definitions/kerndoel"
-                            }
-                        }
-                    ]
-                }
-            }
-        },
+			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
+			"properties": {
+				"kerndoel_id": {
+					"allOf": [
+						{
+							"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"
+						},
+						{
+							"items": {
+								"itemTypeReference": "#/definitions/kerndoel"
+							}
+						}
+					]
+				}
+			}
+		},
 		"kerndoel": {
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/base" } ],
 			"properties": {
