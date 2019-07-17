@@ -22,7 +22,10 @@
 	{
 		"id": "f6948462-136d-4920-b71d-9c870abf2e2b",
 		"title": "Tekenen en handvaardigheid",
-		"kerndoel_domein_id": [],
+		"kerndoel_domein_id": [
+			"fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
+			"b3dd1292-fe41-4637-a00e-3f911fb2e157"
+		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"ce98fc41-bfc3-4cf4-b954-722184f55437",
@@ -30,6 +33,9 @@
 			"0d98aa7e-ac35-4999-abcd-bbaf6c3883ae",
 			"1ba16f88-9221-4812-9288-0b5206ad7213",
 			"a3c12add-d27b-4ad4-8d10-dd8820433385"
+		],
+		"vak_id": [
+			"f3630665-d033-4dd4-a9f0-fc1c14cdf3c7"
 		]
 	},
 	{
@@ -287,15 +293,5 @@
 		"vak_id": [
 			"04058361-4e9e-4c02-a057-41605a7f37b5"
 		]
-	},
-	{
-		"id": "f3630665-d033-4dd4-a9f0-fc1c14cdf3c7",
-		"title": "Missing",
-		"kerndoel_domein_id": [
-			"fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
-			"b3dd1292-fe41-4637-a00e-3f911fb2e157"
-		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": []
 	}
 ]
