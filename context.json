@@ -57,12 +57,7 @@
 						}
 					}
 				}
-			],
-			"anyOf": [
-				{ "required": ["id","title","kerndoel_domein_id"] },
-				{ "required": ["id","title","kerndoel_id"] },
-				{ "required": ["id","title","kerndoel_uitstroomprofiel_id"] }
-			]				
+			]
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",
