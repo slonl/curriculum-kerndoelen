@@ -358,7 +358,7 @@
 	},
 	{
 		"id": "156d3f88-03e0-458f-87f1-c624219ec99f",
-		"title": "De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen.",
+		"title": "De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen, en ze leren respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
 		"description": "Geestelijke stromingen",
 		"prefix": "PO Kerndoel 38: Geestelijke stromingen",
 		"niveau_id": [
@@ -369,7 +369,9 @@
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"dirty": 0,
+		"commit": "1"
 	},
 	{
 		"id": "7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
@@ -526,12 +528,14 @@
 	},
 	{
 		"id": "e2a2a741-5b36-4aff-8acc-9523fba6af5e",
-		"title": "De leerlingen leren over kenmerkende aspecten van de volgende tijdvakken: jagers en boeren; Grieken en Romeinen; monniken en ridders; steden en staten; ontdekkers en hervormers; regenten en vorsten; pruiken en revoluties; burgers en stoommachines; wereldoorlogen en holocaust; televisie en computer.",
+		"title": "De leerlingen leren over kenmerkende aspecten van de volgende tijdvakken: jagers en boeren; Grieken en Romeinen; monniken en ridders; steden en staten; ontdekkers en hervormers; regenten en vorsten; pruiken en revoluties; burgers en stoommachines; wereldoorlogen en holocaust; televisie en computer. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.",
 		"description": "Tijdvakken",
 		"prefix": "PO Kerndoel 52: Tijdvakken",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"dirty": 0,
+		"commit": "1"
 	},
 	{
 		"id": "c6af9dc7-efee-4cb3-83b2-bf5c54512238",
@@ -1112,7 +1116,7 @@
 	},
 	{
 		"id": "4fd020d4-272c-46c8-a35a-ca2539d040a7",
-		"title": "De leerling leert een kader van tien tijdvakken te gebruiken om gebeurtenissen, ontwikkelingen en personen in hun tijd te plaatsen. De leerling leert hierbij over belangrijke historische personen en gebeurtenissen en over kenmerkende aspecten van de volgende tijdvakken: tijd van jagers en boeren (prehistorie tot 50 v. Chr.), tijd van Grieken en Romeinen (3000 v. Chr. - 500 na Chr.), tijd van monniken en ridders (500 - 1000), tijd van steden en staten (1000 - 1500), tijd van ontdekkers en hervormers (1500 - 1600), tijd van regenten en vorsten (1600 - 1700), tijd van pruiken en revoluties (1700 - 1800), tijd van burgers en stoommachines (1800 - 1900), tijd van wereldoorlogen (1900 - 1950), tijd van televisie en computer (1950 - heden).De leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen.",
+		"title": "De leerling leert een kader van tien tijdvakken te gebruiken om gebeurtenissen, ontwikkelingen en personen in hun tijd te plaatsen. De leerling leert hierbij over belangrijke historische personen en gebeurtenissen en over kenmerkende aspecten van de volgende tijdvakken: tijd van jagers en boeren (prehistorie tot 50 v. Chr.), tijd van Grieken en Romeinen (3000 v. Chr. - 500 na Chr.), tijd van monniken en ridders (500 - 1000), tijd van steden en staten (1000 - 1500), tijd van ontdekkers en hervormers (1500 - 1600), tijd van regenten en vorsten (1600 - 1700), tijd van pruiken en revoluties (1700 - 1800), tijd van burgers en stoommachines (1800 - 1900), tijd van wereldoorlogen (1900 - 1950), tijd van televisie en computer (1950 - heden).De leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen.\nDe leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.",
 		"description": "Historische basiskennis",
 		"prefix": "VO Kerndoel 37: Historische basiskennis",
 		"niveau_id": [
@@ -1122,7 +1126,9 @@
 			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		]
+		],
+		"dirty": 0,
+		"commit": "1"
 	},
 	{
 		"id": "27fefa0d-c620-436b-84cb-205af17325ec",
@@ -1200,7 +1206,7 @@
 	},
 	{
 		"id": "cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-		"title": "De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen.",
+		"title": "De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert de betekenis voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met de diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
 		"description": "Cultuurverschillen in Nederland",
 		"prefix": "VO Kerndoel 43: Cultuurverschillen in Nederland",
 		"niveau_id": [
@@ -1213,7 +1219,10 @@
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
 			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		]
+		],
+		"dirty": 0,
+		"deleted": "0",
+		"commit": "1"
 	},
 	{
 		"id": "f63a2618-8cc9-4b37-88da-6446204ce67a",
