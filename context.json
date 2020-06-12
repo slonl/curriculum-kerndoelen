@@ -58,6 +58,34 @@
 					}
 				}
 			]
+		},
+		"allEntities" : {
+			"properties" : {
+				"kerndoel_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/kerndoel"
+					}
+				},
+				"kerndoel_domein_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/kerndoel_domein"
+					}
+				},
+				"kerndoel_uitstroomprofiel_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/kerndoel_uitstroomprofiel"
+					}
+				},
+				"kerndoel_vakleergebied_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/kerndoel_vakleergebied"
+					}
+				}
+			}
 		}
 	},
 	"$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json",

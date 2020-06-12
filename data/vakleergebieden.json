@@ -153,15 +153,15 @@
 		]
 	},
 	{
+		"title": "Zintuigelijke ontwikkeling",
 		"id": "4810278a-93c7-4234-bbb0-da027b16e84d",
-		"title": "zintuigelijke ontwikkeling",
 		"vak_id": [
 			"797c136a-a531-456a-9a74-e6eb5b9464b2"
 		]
 	},
 	{
+		"title": "Leren leren",
 		"id": "a080da93-258e-4802-aafb-cddfd6f34a87",
-		"title": "leren leren",
 		"kerndoel_domein_id": [
 			"6907960d-8d80-4f59-9efe-1a9514ed6c7a"
 		],
@@ -172,15 +172,15 @@
 		]
 	},
 	{
+		"title": "Motorische ontwikkeling",
 		"id": "0610cb30-e394-4420-8281-ad5edcfd9140",
-		"title": "motorische ontwikkeling",
 		"vak_id": [
 			"bc35dcbf-82a2-498f-9836-75c30bd85264"
 		]
 	},
 	{
+		"title": "Bewegen en sport",
 		"id": "0ed2e256-da25-44e2-876e-9c3e357a2a79",
-		"title": "bewegen en sport",
 		"kerndoel_domein_id": [
 			"448d83be-f820-4ca4-af13-57599827f0ab",
 			"f27c2cc5-f5fe-466a-9de8-32b1dad426c6",
@@ -209,8 +209,8 @@
 		]
 	},
 	{
+		"title": "Rekenen en wiskunde",
 		"id": "545b1f8a-77e7-480c-bd0f-623ece62faee",
-		"title": "rekenen en wiskunde",
 		"kerndoel_domein_id": [
 			"3dfcefa2-3a4e-4d36-bd3e-861b34bfbeac",
 			"467b116e-438e-40ca-b310-9657575fed92",
@@ -238,8 +238,8 @@
 		]
 	},
 	{
+		"title": "Kunst en cultuur",
 		"id": "e27097a1-ef9e-4768-b3f1-030c5ab67b81",
-		"title": "kunst en cultuur",
 		"kerndoel_domein_id": [
 			"3f958bf9-6f1c-4d3b-93b5-e84b9124cb8f",
 			"dd0ac0ce-eb43-45da-aa29-e863f6e024a1",
@@ -268,8 +268,8 @@
 		]
 	},
 	{
+		"title": "Sociaal-emotionele ontwikkeling",
 		"id": "52488897-49d6-41f4-9127-ff903593485b",
-		"title": "sociaal-emotionele ontwikkeling",
 		"kerndoel_domein_id": [
 			"25ad50ab-bf09-4449-bdf1-7e818cac1c61",
 			"52a85522-40bf-40a6-9540-17f3682a78e4",
@@ -282,8 +282,8 @@
 		]
 	},
 	{
+		"title": "Praktische redzaamheid",
 		"id": "af315551-d4d1-437c-b896-54f80c4799d6",
-		"title": "praktische redzaamheid",
 		"kerndoel_domein_id": [
 			"34b38772-411e-4df9-a1cd-007ec4887a9d",
 			"2386176a-920c-40ec-8329-7ed842b53ed4"
