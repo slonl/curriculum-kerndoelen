@@ -18,11 +18,11 @@
 	});
 
 	var curriculum     = require('../lib/curriculum.js');
-	var doelenSchema     = curriculum.loadSchema('curriculum-doelen/context.json','curriculum-doelen/');
-	var kerndoelenSchema = curriculum.loadSchema('context.json');
+	var basisSchema     = curriculum.loadSchema('curriculum-basis/context.json','curriculum-basis/');
+	var kernbasisSchema = curriculum.loadSchema('context.json');
 
-	var valid = ajv.addSchema(doelenSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-doelen/context.json')
-				   .addSchema(kerndoelenSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json')
+	var valid = ajv.addSchema(basisSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json')
+			.addSchema(kernbasisSchema, 'https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json')
 	               .validate('https://opendata.slo.nl/curriculum/schemas/curriculum-kerndoelen/context.json', curriculum.data);
 
 	if (!valid) {

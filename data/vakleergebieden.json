@@ -34,7 +34,7 @@
 			"1ba16f88-9221-4812-9288-0b5206ad7213",
 			"a3c12add-d27b-4ad4-8d10-dd8820433385"
 		],
-		"vak_id": [
+		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
 		]
 	},
@@ -130,7 +130,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		]
 	},
@@ -148,14 +148,14 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		]
 	},
 	{
 		"title": "Zintuigelijke ontwikkeling",
 		"id": "4810278a-93c7-4234-bbb0-da027b16e84d",
-		"vak_id": [
+		"vakleergebied_id": [
 			"797c136a-a531-456a-9a74-e6eb5b9464b2"
 		]
 	},
@@ -167,14 +167,14 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"1f73da5d-4118-4330-9e3d-597693bd8e10"
 		]
 	},
 	{
 		"title": "Motorische ontwikkeling",
 		"id": "0610cb30-e394-4420-8281-ad5edcfd9140",
-		"vak_id": [
+		"vakleergebied_id": [
 			"bc35dcbf-82a2-498f-9836-75c30bd85264"
 		]
 	},
@@ -188,7 +188,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
 		]
 	},
@@ -204,7 +204,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		]
 	},
@@ -220,7 +220,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		]
 	},
@@ -233,7 +233,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
 		]
 	},
@@ -251,7 +251,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		]
 	},
@@ -263,7 +263,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		]
 	},
@@ -277,7 +277,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"35d0e3ed-d62e-40a5-8bff-46f1de51e47a"
 		]
 	},
@@ -290,7 +290,7 @@
 		],
 		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [],
-		"vak_id": [
+		"vakleergebied_id": [
 			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
 		]
 	}
