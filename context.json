@@ -21,7 +21,8 @@
 			"allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base" } ],
 			"properties": {
 				"description": { "type": "string" },
-				"prefix": { "type": "string" }
+				"prefix": { "type": "string" },
+				"kerndoelLabel": { "type": "string" }
 			},
 			"niveau_id": {
 				"allOf": [
