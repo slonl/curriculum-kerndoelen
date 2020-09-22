@@ -2,85 +2,92 @@
 	{
 		"id": "8cd7169b-ec2b-4b1a-bc35-e2d2ac49e902",
 		"title": "De leerlingen leren informatie te verwerven uit gesproken taal. Ze leren tevens die informatie, mondeling of schriftelijk, gestructureerd weer te geven.",
-		"description": "Informatie verwerven",
-		"prefix": "PO Kerndoel 1: Informatie verwerven",
+		"description": "",
+		"prefix": "PO Kerndoel 01: Informatie verwerven",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Informatie verwerven"
 	},
 	{
 		"id": "e5f45cd7-ff7b-4876-a014-9aead5348100",
 		"title": "De leerlingen leren zich naar vorm en inhoud uit te drukken bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren en bij het discussiëren.",
-		"description": "Spreken",
-		"prefix": "PO Kerndoel 2: Spreken",
+		"description": "",
+		"prefix": "PO Kerndoel 02: Spreken",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Spreken"
 	},
 	{
 		"id": "cf478309-4d3b-4e81-9077-764c0793496d",
 		"title": "De leerlingen leren informatie te beoordelen in discussies en in een gesprek dat informatief of opiniërend van karakter is en leren met argumenten te reageren.",
-		"description": "Informatie beoordelen",
-		"prefix": "PO Kerndoel 3: Informatie beoordelen",
+		"description": "",
+		"prefix": "PO Kerndoel 03: Informatie beoordelen",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Informatie beoordelen"
 	},
 	{
 		"id": "396bce44-46c7-4af6-880e-1fc3ace5128a",
 		"title": "De leerlingen leren informatie te achterhalen in informatieve en instructieve teksten, waaronder schema's, tabellen en digitale bronnen.",
-		"description": "Informatie opzoeken",
-		"prefix": "PO Kerndoel 4: Informatie opzoeken",
+		"description": "",
+		"prefix": "PO Kerndoel 04: Informatie opzoeken",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"86d05d5a-8dfa-422b-820c-50019985426d",
-			"d5f99b58-31be-4ffc-89f4-9d7c65526879"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"kerndoelLabel": "Informatie opzoeken"
 	},
 	{
 		"id": "fd1fd0be-25ed-47af-8ed1-15c8f6b2d8e8",
 		"title": "De leerlingen leren naar inhoud en vorm teksten te schrijven met verschillende functies, zoals: informeren, instrueren, overtuigen of plezier verschaffen.",
-		"description": "Teksttypen onderscheiden",
-		"prefix": "PO Kerndoel 5: Teksttypen onderscheiden",
+		"description": "",
+		"prefix": "PO Kerndoel 05: Teksttypen onderscheiden",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Teksttypen onderscheiden"
 	},
 	{
 		"id": "998d290b-5882-43e9-bf38-b41992ff2ce7",
 		"title": "De leerlingen leren informatie en meningen te ordenen bij het lezen van school- en studieteksten en andere instructieve teksten, bij systematisch geordende bronnen, waaronder digitale.",
-		"description": "Informatie ordenen",
-		"prefix": "PO Kerndoel 6: Informatie ordenen",
+		"description": "",
+		"prefix": "PO Kerndoel 06: Informatie ordenen",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Informatie ordenen"
 	},
 	{
 		"id": "a81b68fb-b89b-4654-a27a-e46c2cf7dd98",
 		"title": "De leerlingen leren informatie en meningen te vergelijken en te beoordelen in verschillende teksten.",
-		"description": "Informatie vergelijken",
-		"prefix": "PO Kerndoel 7: Informatie vergelijken",
+		"description": "",
+		"prefix": "PO Kerndoel 07: Informatie vergelijken",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Informatie vergelijken"
 	},
 	{
 		"id": "7c484813-ec13-451f-97b0-ff9b7fbab690",
 		"title": "De leerlingen leren informatie en meningen te ordenen bij het schrijven van een brief, een verslag, een formulier of een werkstuk. Zij besteden daarbij aandacht aan zinsbouw, correcte spelling, een leesbaar handschrift, bladspiegel, eventueel beeldende elementen en kleur.",
-		"description": "Teksten produceren",
-		"prefix": "PO Kerndoel 8: Teksten produceren",
+		"description": "",
+		"prefix": "PO Kerndoel 08: Teksten produceren",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Teksten produceren"
 	},
 	{
 		"id": "7893825b-806a-4850-9870-8cb5f94cf5a6",
 		"title": "De leerlingen krijgen plezier in het lezen en schrijven van voor hen bestemde verhalen, gedichten en informatieve teksten.",
-		"description": "Plezier in lezen en schrijven",
-		"prefix": "PO Kerndoel 9: Plezier in lezen en schrijven",
+		"description": "",
+		"prefix": "PO Kerndoel 09: Plezier in lezen en schrijven",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Plezier in lezen en schrijven"
 	},
 	{
 		"id": "a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
@@ -369,9 +376,7 @@
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		],
-		"dirty": 0,
-		"commit": "1"
+		]
 	},
 	{
 		"id": "7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
@@ -533,9 +538,7 @@
 		"prefix": "PO Kerndoel 52: Tijdvakken",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"dirty": 0,
-		"commit": "1"
+		]
 	},
 	{
 		"id": "c6af9dc7-efee-4cb3-83b2-bf5c54512238",
@@ -552,8 +555,7 @@
 		"description": "Uitdrukken en communiceren",
 		"prefix": "PO Kerndoel 54: Uitdrukken en communiceren",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"670f2ae3-5e65-4458-b0c4-a9f42a7d9531"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -562,8 +564,7 @@
 		"description": "Reflecteren",
 		"prefix": "PO Kerndoel 55: Reflecteren",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"670f2ae3-5e65-4458-b0c4-a9f42a7d9531"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -572,8 +573,7 @@
 		"description": "Cultureel erfgoed",
 		"prefix": "PO Kerndoel 56: Cultureel erfgoed",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"670f2ae3-5e65-4458-b0c4-a9f42a7d9531"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -597,79 +597,86 @@
 	{
 		"id": "fe8cc1d3-38ad-4de9-a3f4-3d820285241a",
 		"title": "De leerling leert zich mondeling en schriftelijk begrijpelijk uit te drukken.",
-		"description": "Spreken en schrijven",
-		"prefix": "VO Kerndoel 1: Spreken en schrijven",
+		"description": "",
+		"prefix": "VO Kerndoel 01: Spreken en schrijven",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Spreken en schrijven"
 	},
 	{
 		"id": "e0e5fddd-99e6-41f7-9556-127943919374",
 		"title": "De leerling leert zich te houden aan conventies (spelling, grammaticaal correcte zinnen, woordgebruik) en leert het belang van die conventies te zien.",
-		"description": "Correct taalgebruik",
-		"prefix": "VO Kerndoel 2: Correct taalgebruik",
+		"description": "",
+		"prefix": "VO Kerndoel 02: Correct taalgebruik",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Correct taalgebruik"
 	},
 	{
 		"id": "87dd91e0-446f-4a5a-870b-74e00dd3b438",
 		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn woordenschat.",
-		"description": "Woordverwerving",
-		"prefix": "VO Kerndoel 3: Woordverwerving",
+		"description": "",
+		"prefix": "VO Kerndoel 03: Woordverwerving",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Woordverwerving"
 	},
 	{
 		"id": "65efb2f8-72b1-44c9-b4e2-eebc87534e92",
 		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven teksten.",
-		"description": "Lezen en luisteren",
-		"prefix": "VO Kerndoel 4: Lezen en luisteren",
+		"description": "",
+		"prefix": "VO Kerndoel 04: Lezen en luisteren",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Lezen en luisteren"
 	},
 	{
 		"id": "460f9814-41e2-4b45-8c8d-32b71590ace8",
 		"title": "De leerling leert in schriftelijke en digitale bronnen informatie te zoeken, deze informatie te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
 		"description": "Omgaan met informatiebronnen",
-		"prefix": "VO Kerndoel 5: Omgaan met informatiebronnen",
+		"prefix": "VO Kerndoel 05: Omgaan met informatiebronnen",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": ""
 	},
 	{
 		"id": "ca8436e3-c9d2-4650-abe1-4a4e410f17ce",
 		"title": "De leerling leert deel te nemen aan overleg, planning, discussie in een groep.",
-		"description": "Overleg, planning, discussie",
-		"prefix": "VO Kerndoel 6: Overleg, planning, discussie",
+		"description": "",
+		"prefix": "VO Kerndoel 06: Overleg, planning, discussie",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Overleg, planning, discussie"
 	},
 	{
 		"id": "2e5a3623-a7c4-4276-a293-7293dbfa9ea5",
 		"title": "De leerling leert een mondelinge presentatie te geven.",
-		"description": "Presenteren",
-		"prefix": "VO Kerndoel 7: Presenteren",
+		"description": "",
+		"prefix": "VO Kerndoel 07: Presenteren",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Presenteren"
 	},
 	{
 		"id": "27f784a1-b3fc-4811-a2cb-1f28d6b08e69",
@@ -685,24 +692,26 @@
 	{
 		"id": "b6a9ddbb-ff6c-49dd-b9a7-8ab59c09176c",
 		"title": "De leerling leert taalactiviteiten (spreken, luisteren, schrijven en lezen) planmatig voor te bereiden en uit te voeren.",
-		"description": "Planmatig werken met taal",
-		"prefix": "VO Kerndoel 9: Planmatig werken met taal",
+		"description": "",
+		"prefix": "VO Kerndoel 09: Planmatig werken met taal",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Planmatig werken met taal"
 	},
 	{
 		"id": "767abc3a-a5b3-4cc9-ab87-c5404cf87e7e",
 		"title": "De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.",
-		"description": "Reflectie op eigen taalgebruik",
+		"description": "",
 		"prefix": "VO Kerndoel 10: Reflectie op eigen taalgebruik",
 		"niveau_id": [
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
-		]
+		],
+		"kerndoelLabel": "Reflectie op eigen taalgebruik"
 	},
 	{
 		"id": "18bd6259-e20b-41da-97c2-09cb9a2f346d",
@@ -991,7 +1000,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1008,7 +1016,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1025,7 +1032,6 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1042,7 +1048,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1059,7 +1064,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1076,7 +1080,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1093,7 +1096,6 @@
 			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1110,7 +1112,6 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1123,12 +1124,9 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		],
-		"dirty": 0,
-		"commit": "1"
+		]
 	},
 	{
 		"id": "27fefa0d-c620-436b-84cb-205af17325ec",
@@ -1143,7 +1141,6 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1200,8 +1197,7 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8"
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -1217,12 +1213,8 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
-		],
-		"dirty": 0,
-		"deleted": "0",
-		"commit": "1"
+		]
 	},
 	{
 		"id": "f63a2618-8cc9-4b37-88da-6446204ce67a",
@@ -1234,8 +1226,7 @@
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8"
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -1251,8 +1242,7 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8"
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -1268,8 +1258,7 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8"
+			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
 	{
@@ -1285,7 +1274,6 @@
 			"01aede69-edcd-4352-97e8-e16cb5d0015e",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826",
 			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2dd57ebb-6142-40e2-8d4f-065309ffe9c8",
 			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
 		]
 	},
@@ -1358,9 +1346,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1375,9 +1360,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1392,9 +1374,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1409,9 +1388,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1426,9 +1402,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1443,9 +1416,6 @@
 			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
 			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
 			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"55bbab6f-73d1-4476-ba25-daf84c8da5e4",
-			"f8ddb369-de86-49f1-b8b9-d62dfb3dd25f",
-			"f68cd217-a703-459f-884f-b095e9f3accc",
 			"b5437183-0c54-4020-bf47-34b83a2ee511",
 			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
 			"553479de-32ba-42b2-a8e7-5ceb19caac42"
@@ -1517,38 +1487,42 @@
 	{
 		"id": "156c4c87-5a09-404b-b84e-2e16773d8da2",
 		"title": "De leerlingen leren informatie te verwerven uit gesproken taal. Ze leren tevens die informatie, mondeling of schriftelijk, gestructureerd weer te geven",
-		"description": "Luisteren",
+		"description": "",
 		"prefix": "SO nl/ml Kerndoel LS 8:  Luisteren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		]
+		],
+		"kerndoelLabel": "Luisteren"
 	},
 	{
 		"id": "f62e4ab8-6af9-46df-9384-ae5d7b269e30",
 		"title": "De leerlingen leren zich naar vorm en inhoud uit te drukken bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren en bij het discussiëren.",
-		"description": "Spreken",
+		"description": "",
 		"prefix": "SO nl/ml Kerndoel LS 9:  Spreken",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		]
+		],
+		"kerndoelLabel": "Spreken"
 	},
 	{
 		"id": "0fad4bea-d9ee-40d2-96aa-42b2a5f46d0c",
 		"title": "De leerlingen leren informatie te beoordelen in discussies en in een gesprek dat informatief of opiniërend van karakter is en leren met argumenten te reageren.",
-		"description": "Gesprekken voeren",
+		"description": "",
 		"prefix": "SO nl/ml Kerndoel LS 10:  Gesprekken voeren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		]
+		],
+		"kerndoelLabel": "Gesprekken voeren"
 	},
 	{
 		"id": "acbe1e48-6818-4535-9355-d0433f6a46b5",
 		"title": "De leerlingen leren informatie te achterhalen in informatieve en instructieve teksten, waaronder schema's, tabellen en digitale bronnen.",
-		"description": "Lezen",
+		"description": "",
 		"prefix": "SO nl/ml Kerndoel LS 11:  Lezen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		]
+		],
+		"kerndoelLabel": "Lezen"
 	},
 	{
 		"id": "53c424ca-7fb5-4014-aa55-0ddf11768b73",
@@ -1652,11 +1626,12 @@
 	{
 		"id": "be381023-63d8-4526-b630-90bf7453c51a",
 		"title": "De leerlingen leren informatie te verwerven uit gebarentaalaanbod en leren deelnemen in gebarencommunicatie in verschillende gespreksituaties.",
-		"description": "Informatie verwerven",
+		"description": "",
 		"prefix": "SO nl/ml Kerndoel LS 20:  Informatie verwerven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		]
+		],
+		"kerndoelLabel": "Informatie verwerven"
 	},
 	{
 		"id": "c5700f90-543e-4ef1-b48a-f19dbc74f87f",
