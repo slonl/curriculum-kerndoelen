@@ -7,7 +7,6 @@
 			"7a3631ee-705a-4aff-95a4-dd155ecd3ef9",
 			"183cc03d-0441-4e29-bc99-7a63973b29bc"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"be381023-63d8-4526-b630-90bf7453c51a",
 			"c5700f90-543e-4ef1-b48a-f19dbc74f87f",
@@ -26,7 +25,6 @@
 			"fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
 			"b3dd1292-fe41-4637-a00e-3f911fb2e157"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"ce98fc41-bfc3-4cf4-b954-722184f55437",
 			"5eb46bd5-3188-4465-beab-156c27f7b1dc",
@@ -44,7 +42,6 @@
 		"kerndoel_domein_id": [
 			"a31f0a25-d987-4d2e-b4cf-3e76e962b2c1"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"4eb7b7d7-086d-48b4-8b84-cbb8d3cae3de"
 		]
@@ -52,19 +49,15 @@
 	{
 		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
 		"title": "kerndoel-uitstroomprofiel VSO",
-		"kerndoel_domein_id": [],
 		"kerndoel_uitstroomprofiel_id": [
 			"9f47a004-8a83-4108-8d10-0fc282837b1c",
 			"14066279-b193-4704-b377-2a1cf639943f",
 			"4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
-		],
-		"kerndoel_id": []
+		]
 	},
 	{
 		"id": "d9b9cc45-14d7-4001-b7e7-e0dc402dce80",
 		"title": "Vervolgonderwijs; Arbeidsmarkt; Dagbesteding",
-		"kerndoel_domein_id": [],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
 			"df68701e-38c2-4566-8090-d7d77ff97a83",
@@ -82,8 +75,6 @@
 	{
 		"id": "7714b401-1470-47ff-ab87-0cf06b9c4fd0",
 		"title": "Voorbereiding op arbeid",
-		"kerndoel_domein_id": [],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"a59a0231-58c7-4ffb-8dd0-2a27dceba148",
 			"444d60d6-c7f8-40d7-a537-53b7850fd0ca",
@@ -102,8 +93,6 @@
 	{
 		"id": "1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
 		"title": "Voorbereiding op dagbesteding",
-		"kerndoel_domein_id": [],
-		"kerndoel_uitstroomprofiel_id": [],
 		"kerndoel_id": [
 			"02088a74-17e5-48bd-86ac-8097584c6113",
 			"837b4c3c-bf6a-498e-887e-f0ceb27c8f59",
@@ -123,34 +112,28 @@
 		"id": "02d2f065-3527-4001-99b6-52a9080f943f",
 		"title": "Mens en maatschappij",
 		"kerndoel_domein_id": [
-			"35e64e7b-2a0b-4002-b045-f3dccba8bf2f",
 			"902e567e-0542-42b5-93e1-788b9c69100a",
 			"2467b2ac-caa7-41fb-b2c7-9d9bb158b6f4",
 			"ed75700c-aefa-4a9b-9589-19f524920782"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "661346ca-7ca3-4da9-90a4-35f8103f38c3",
 		"title": "Mens en natuur",
 		"kerndoel_domein_id": [
-			"897c3e21-7119-476c-b6ce-df39ca8c4cdd",
-			"30c1417d-35a5-48d6-9633-91bbd545bb62",
-			"be63a2e1-85b9-4624-8274-88ab794f58b4",
 			"dd1c227c-2b7c-4b99-b69f-13cd12f42148",
 			"ce2bfdda-a03c-4803-864b-b267d046384a",
 			"34f06215-9423-475a-a53c-b80368e59674",
 			"2c2e0463-910c-4039-8e6b-84f140d54e9d"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"2795bfff-8566-4e69-b70c-12efba965dc8"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Zintuigelijke ontwikkeling",
@@ -165,8 +148,6 @@
 		"kerndoel_domein_id": [
 			"6907960d-8d80-4f59-9efe-1a9514ed6c7a"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"1f73da5d-4118-4330-9e3d-597693bd8e10"
 		]
@@ -186,8 +167,6 @@
 			"f27c2cc5-f5fe-466a-9de8-32b1dad426c6",
 			"8cb16faf-3173-4988-898b-a9936be47821"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
 		]
@@ -202,8 +181,6 @@
 			"cc11787b-7f49-475d-842b-d41953602571",
 			"d6ffbf14-08e6-43c0-9312-22f62ec140b2"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"96b622d6-264d-4f7a-9875-681ded824e21"
 		]
@@ -218,8 +195,6 @@
 			"b18b217e-d9d3-4d64-8b76-f9e3bb4cc107",
 			"c14b051a-6665-46b2-b7b9-7e4a267828c5"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
 		]
@@ -231,8 +206,6 @@
 			"e585df14-6802-47e7-a19a-e69688892754",
 			"c1951ee9-63b2-4638-9dfc-a3696396f291"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
 		]
@@ -249,8 +222,6 @@
 			"7033f8b3-7aaa-4b3f-9647-4eeb2e8fe9d8",
 			"cffcabf5-4473-4100-8a6d-c0008f2fb3c5"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		]
@@ -261,8 +232,6 @@
 		"kerndoel_domein_id": [
 			"0934e203-f8f9-44c8-b8c5-c03d91f46af7"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
 		]
@@ -275,8 +244,6 @@
 			"52a85522-40bf-40a6-9540-17f3682a78e4",
 			"5180ff07-6896-4609-9fa6-0b2114d48a08"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"35d0e3ed-d62e-40a5-8bff-46f1de51e47a"
 		]
@@ -288,10 +255,19 @@
 			"34b38772-411e-4df9-a1cd-007ec4887a9d",
 			"2386176a-920c-40ec-8329-7ed842b53ed4"
 		],
-		"kerndoel_uitstroomprofiel_id": [],
-		"kerndoel_id": [],
 		"vakleergebied_id": [
 			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
+		]
+	},
+	{
+		"id": "41050bb3-7d86-430d-9053-a174b2cfb926",
+		"title": "Oriëntatie op jezelf en de wereld",
+		"description": "",
+		"kerndoel_domein_id": [
+			"897c3e21-7119-476c-b6ce-df39ca8c4cdd",
+			"30c1417d-35a5-48d6-9633-91bbd545bb62",
+			"be63a2e1-85b9-4624-8274-88ab794f58b4",
+			"35e64e7b-2a0b-4002-b045-f3dccba8bf2f"
 		]
 	}
 ]
