@@ -96,7 +96,8 @@
 		"prefix": "PO Kerndoel 10: Strategieen hanteren",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
+		],
+		"kerndoelLabel": "Strategieën hanteren"
 	},
 	{
 		"id": "7b7a5317-c622-423c-b337-b4c656d8d372",
