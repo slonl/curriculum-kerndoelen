@@ -281,5 +281,14 @@
 		"vakleergebied_id": [
 			"86be4684-a214-432b-9622-dd97491e6ce2"
 		]
+	},
+	{
+		"id": "7db219e7-9831-4ad5-9e41-84304fd5b8b1",
+		"dirty": "1",
+		"title": "Leergebied overstijgende vaardigheden",
+		"vakleergebied_id": [
+			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
+		],
+		"description": ""
 	}
 ]
