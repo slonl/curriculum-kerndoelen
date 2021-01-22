@@ -150,7 +150,9 @@
 		],
 		"vakleergebied_id": [
 			"1f73da5d-4118-4330-9e3d-597693bd8e10"
-		]
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"title": "Motorische ontwikkeling",
