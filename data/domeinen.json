@@ -1,7 +1,7 @@
 [
 	{
 		"id": "183cc03d-0441-4e29-bc99-7a63973b29bc",
-		"title": "Taalbeschouwing, waaronder strategie\u00ebn"
+		"title": "Taalbeschouwing, waaronder strategieën"
 	},
 	{
 		"id": "0934e203-f8f9-44c8-b8c5-c03d91f46af7",
@@ -125,7 +125,7 @@
 	},
 	{
 		"id": "3f958bf9-6f1c-4d3b-93b5-e84b9124cb8f",
-		"title": "Kunstzinnige ori\u00ebntatie",
+		"title": "Kunstzinnige oriëntatie",
 		"kerndoel_id": [
 			"c4e8c51c-144b-4a76-bff5-09337c03ab63",
 			"d619232e-394a-4c8c-b607-e94c36bfd48f",
@@ -169,11 +169,11 @@
 	},
 	{
 		"id": "b18b217e-d9d3-4d64-8b76-f9e3bb4cc107",
-		"title": "Rekenen\/wiskunde"
+		"title": "Rekenen/wiskunde"
 	},
 	{
 		"id": "902e567e-0542-42b5-93e1-788b9c69100a",
-		"title": "Ori\u00ebntatie op jezelf en de wereld",
+		"title": "Oriëntatie op jezelf en de wereld",
 		"kerndoel_id": [
 			"8ca31240-728f-4278-a39e-db5854fe4960",
 			"f5aeac1a-6df0-4123-996b-60417ef21c30",
@@ -417,14 +417,14 @@
 	},
 	{
 		"id": "34f06215-9423-475a-a53c-b80368e59674",
-		"title": "Ruimtelijke ori\u00ebntatie en mobiliteit",
+		"title": "Ruimtelijke oriëntatie en mobiliteit",
 		"kerndoel_id": [
 			"61a17d45-c73c-4051-907e-ca5343eaf778"
 		]
 	},
 	{
 		"id": "ed75700c-aefa-4a9b-9589-19f524920782",
-		"title": "Ori\u00ebntatie op mens en wereld",
+		"title": "Oriëntatie op mens en wereld",
 		"kerndoel_id": [
 			"89a9a647-06be-4d64-81a3-ed2a2d389dc4",
 			"53269a75-4f9a-4a7a-b94c-4278c803a297",
@@ -458,7 +458,7 @@
 	},
 	{
 		"id": "d7154bff-93d8-4cf9-834b-c11283c8c3f3",
-		"title": "Kunstzinnige  ori\u00ebntatie",
+		"title": "Kunstzinnige  oriëntatie",
 		"kerndoel_id": [
 			"c846d825-2f59-4c70-94e3-bcd5a77cd6a5",
 			"73393b22-0e24-43c0-9a9b-02f808a6304f",
@@ -534,7 +534,7 @@
 	},
 	{
 		"id": "596821ce-5682-4541-b412-96d6b7807e90",
-		"title": "Culturele ori\u00ebntatie en creatieve expressie",
+		"title": "Culturele oriëntatie en creatieve expressie",
 		"kerndoel_id": [
 			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
 			"11daa22f-87cf-4977-a658-577b6d108897",
@@ -599,5 +599,15 @@
 			"fe5dfcb6-14e7-4772-ac1f-777b9bc1df4f",
 			"c21d6e0f-5553-4a16-b745-b64993b5b845"
 		]
+	},
+	{
+		"id": "1d952e57-02c3-4168-9709-70c2628144dc",
+		"dirty": "1",
+		"title": "Tekenen en handvaardigheid"
+	},
+	{
+		"id": "768baaa6-aa8f-4e9f-807d-8d3524310ced",
+		"dirty": "1",
+		"title": "Dramatische vorming"
 	}
 ]
