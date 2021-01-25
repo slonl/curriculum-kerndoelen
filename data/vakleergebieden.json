@@ -46,7 +46,10 @@
 			"4eb7b7d7-086d-48b4-8b84-cbb8d3cae3de"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
@@ -144,7 +147,10 @@
 			"797c136a-a531-456a-9a74-e6eb5b9464b2"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"title": "Leren leren",
@@ -165,7 +171,10 @@
 		"title": "Motorische ontwikkeling",
 		"id": "0610cb30-e394-4420-8281-ad5edcfd9140",
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"title": "Bewegen en sport",
@@ -253,7 +262,10 @@
 			"5180ff07-6896-4609-9fa6-0b2114d48a08"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"title": "Praktische redzaamheid",
@@ -266,7 +278,10 @@
 			"4de7c3fa-4980-4936-8f33-29c8c6f47d44"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "41050bb3-7d86-430d-9053-a174b2cfb926",
@@ -290,5 +305,30 @@
 			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
 		],
 		"description": ""
+	},
+	{
+		"id": "ae4426b3-ff20-44c5-87da-7d2ac3dbede2",
+		"dirty": "1",
+		"title": "Mens, natuur en techniek",
+		"description": "",
+		"vakleergebied_id": [
+			"319258b1-3b17-4c49-a8a2-bbef7459c908"
+		]
+	},
+	{
+		"id": "e42e3c9a-3c68-4695-abf5-286aba386cf0",
+		"dirty": "1",
+		"title": "Culturele oriëntatie en creatieve expressie",
+		"vakleergebied_id": [
+			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
+		]
+	},
+	{
+		"id": "6b8f39f1-ead6-4aa3-8091-cc35df1269ae",
+		"dirty": "1",
+		"title": "Voorbereiding op arbeid",
+		"vakleergebied_id": [
+			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
+		]
 	}
 ]
