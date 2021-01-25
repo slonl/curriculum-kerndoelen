@@ -53,7 +53,7 @@
 	},
 	{
 		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
-		"title": "kerndoel-uitstroomprofiel VSO",
+		"title": "Uitstroomprofielen vso",
 		"kerndoel_uitstroomprofiel_id": [
 			"9f47a004-8a83-4108-8d10-0fc282837b1c",
 			"14066279-b193-4704-b377-2a1cf639943f",
@@ -329,6 +329,15 @@
 		"title": "Voorbereiding op arbeid",
 		"vakleergebied_id": [
 			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
+		]
+	},
+	{
+		"id": "f1300638-14e7-42f8-8e4f-5b372ff919c5",
+		"dirty": "1",
+		"title": "Kunstzinnige oriëntatie",
+		"description": "",
+		"vakleergebied_id": [
+			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
 		]
 	}
 ]
