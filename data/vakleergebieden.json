@@ -257,5 +257,13 @@
 		"replaces": [
 			"661346ca-7ca3-4da9-90a4-35f8103f38c3"
 		]
+	},
+	{
+		"id": "a77a3196-fae2-47ee-9a0d-54d5b42158e1",
+		"title": "Bewegingsonderwijs",
+		"description": "",
+		"vakleergebied_id": [
+			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
+		]
 	}
 ]
