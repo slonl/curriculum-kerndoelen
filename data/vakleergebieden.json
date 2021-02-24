@@ -16,7 +16,11 @@
 			"13f08f75-1c7c-402e-a7de-149082a9e5af",
 			"10dabe59-616c-40d5-a3fd-271c23b65edd",
 			"417ed529-bee9-486d-b49a-320acbe76267"
-		]
+		],
+		"vakleergebied_id": [
+			"6388017e-b067-474b-b6ed-17fddd7e7fda"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "f6948462-136d-4920-b71d-9c870abf2e2b",
@@ -78,7 +82,11 @@
 			"cc951cdd-2479-4c01-bab3-5ef2767d56d9",
 			"219c8742-0e04-4bfc-a610-003ebb236dd3",
 			"c4a535ed-e4dc-4ba3-a253-110b31427eed"
-		]
+		],
+		"vakleergebied_id": [
+			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
@@ -121,8 +129,9 @@
 			"d6ffbf14-08e6-43c0-9312-22f62ec140b2"
 		],
 		"vakleergebied_id": [
-			"96b622d6-264d-4f7a-9875-681ded824e21"
-		]
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Rekenen en wiskunde",
@@ -172,8 +181,9 @@
 			"0934e203-f8f9-44c8-b8c5-c03d91f46af7"
 		],
 		"vakleergebied_id": [
-			"d8dc1dca-90ee-4d8b-983b-734207cfbee2"
-		]
+			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "41050bb3-7d86-430d-9053-a174b2cfb926",
@@ -186,8 +196,9 @@
 			"35e64e7b-2a0b-4002-b045-f3dccba8bf2f"
 		],
 		"vakleergebied_id": [
-			"86be4684-a214-432b-9622-dd97491e6ce2"
-		]
+			"682218a8-0e89-4d4c-938c-36629a474e7c"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "7db219e7-9831-4ad5-9e41-84304fd5b8b1",
@@ -224,8 +235,9 @@
 		"title": "Kunstzinnige oriëntatie",
 		"description": "",
 		"vakleergebied_id": [
-			"23f4e5a7-fc21-410c-859f-85b99d4ae8f9"
-		]
+			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "cb36e642-f12f-4a19-b349-3b76cfe98bcd",
