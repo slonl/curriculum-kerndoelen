@@ -237,7 +237,11 @@
 		"vakleergebied_id": [
 			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"kerndoel_domein_id": [
+			"768baaa6-aa8f-4e9f-807d-8d3524310ced",
+			"1d952e57-02c3-4168-9709-70c2628144dc"
+		]
 	},
 	{
 		"id": "cb36e642-f12f-4a19-b349-3b76cfe98bcd",
