@@ -38,7 +38,8 @@
 		],
 		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
@@ -47,7 +48,8 @@
 			"9f47a004-8a83-4108-8d10-0fc282837b1c",
 			"14066279-b193-4704-b377-2a1cf639943f",
 			"4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d9b9cc45-14d7-4001-b7e7-e0dc402dce80",
@@ -109,14 +111,32 @@
 	{
 		"title": "Bewegen en sport",
 		"id": "0ed2e256-da25-44e2-876e-9c3e357a2a79",
-		"kerndoel_domein_id": [
-			"448d83be-f820-4ca4-af13-57599827f0ab",
-			"f27c2cc5-f5fe-466a-9de8-32b1dad426c6",
-			"8cb16faf-3173-4988-898b-a9936be47821"
-		],
 		"vakleergebied_id": [
 			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
-		]
+		],
+		"kerndoel_id": [
+			"9d0ed5bd-c111-4d8a-8386-317d5dc2ac5e",
+			"34ec276c-7e3f-4f05-b4e3-3159f931244a",
+			"07861cce-c1cc-4efb-af46-c36a76062ceb",
+			"71a175d5-24a5-4b48-9244-4a8afed1221e",
+			"74b6ba50-c633-48ff-8494-de317a4e18eb",
+			"05abd22d-1e69-4aa1-9d56-f78e63d6e0af",
+			"106f47ba-580f-43fc-acdc-db19fcb29db4",
+			"47b7926b-ae7a-4146-9a2f-7bb86464bd99",
+			"739bc1a0-8a9d-4870-8148-4a7dfea30dbb",
+			"f53bc52f-33be-4c06-aec0-33bfb11d8075",
+			"8e297df8-d1cf-4d31-81bd-327546b5c077",
+			"4191c472-9c4c-440c-a760-c6d09672fa52",
+			"8299f1ed-12bf-4213-9fe1-990a0bda78b6",
+			"768afc79-04a3-4641-8a3d-1f32d0d09c91",
+			"aa189351-3537-4f9f-9c24-33e2c1ee4320",
+			"f76c32db-13d0-4f73-ab82-d4af98eaca62",
+			"045fa60f-abf2-4457-9a4f-616450d0343d",
+			"316b313a-f29e-4b32-adc5-deabbe3b05ea",
+			"9ae6a9fb-0b91-4290-9f01-99d2dacbaaed",
+			"237248d3-ddac-49d4-88f6-a094f7090eb9"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "41236270-1d6f-46e4-bb9c-1e0f06726437",
@@ -280,6 +300,21 @@
 		"description": "",
 		"vakleergebied_id": [
 			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
-		]
+		],
+		"kerndoel_id": [
+			"8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+			"4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+			"3c0b7b5e-31e2-4afd-bda4-0a96ec4c5ce7",
+			"54884ae0-a2fd-4ce8-8daf-fb3e6e3bb157",
+			"c1b66081-6c6e-4095-bcf4-319f24ef70fa",
+			"ae744880-7c0a-43ad-ab1f-aa03b85f69df",
+			"4096fb33-296d-4188-a4c0-f342fa10a453",
+			"85f21855-47e1-48fe-8bd2-3ef92b640bca",
+			"daa55b5d-eeb1-4746-870b-d98188c026ae",
+			"0e7e9529-3399-44e2-abbb-9270a1b44047",
+			"b6e1bb8d-0096-4137-bccd-b1ce50f4717c",
+			"27566350-fb41-40ae-915c-6f4463e3b64d"
+		],
+		"dirty": "1"
 	}
 ]
