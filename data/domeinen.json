@@ -328,7 +328,9 @@
 			"316b313a-f29e-4b32-adc5-deabbe3b05ea",
 			"9ae6a9fb-0b91-4290-9f01-99d2dacbaaed",
 			"237248d3-ddac-49d4-88f6-a094f7090eb9"
-		]
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
@@ -406,7 +408,9 @@
 			"c1b66081-6c6e-4095-bcf4-319f24ef70fa",
 			"ae744880-7c0a-43ad-ab1f-aa03b85f69df",
 			"4096fb33-296d-4188-a4c0-f342fa10a453"
-		]
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "5180ff07-6896-4609-9fa6-0b2114d48a08",
