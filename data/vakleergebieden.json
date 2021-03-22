@@ -1,7 +1,7 @@
 [
 	{
 		"id": "a99bc3e9-0ce4-4b10-aaa6-1248bb32583f",
-		"title": "Nederlandse Gebarentaal (NGT)",
+		"title": "Nederlands gebarentaal",
 		"kerndoel_domein_id": [
 			"43c10a49-7d46-4a21-8547-83cffb353e42",
 			"7a3631ee-705a-4aff-95a4-dd155ecd3ef9",
@@ -19,8 +19,7 @@
 		],
 		"vakleergebied_id": [
 			"6388017e-b067-474b-b6ed-17fddd7e7fda"
-		],
-		"dirty": "1"
+		]
 	},
 	{
 		"id": "f6948462-136d-4920-b71d-9c870abf2e2b",
@@ -39,7 +38,10 @@
 		"vakleergebied_id": [
 			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
@@ -49,7 +51,10 @@
 			"14066279-b193-4704-b377-2a1cf639943f",
 			"4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "d9b9cc45-14d7-4001-b7e7-e0dc402dce80",
@@ -171,12 +176,14 @@
 		"id": "68bc0428-d73f-40aa-9a11-676ed996c4a1",
 		"title": "Fries",
 		"kerndoel_domein_id": [
-			"e585df14-6802-47e7-a19a-e69688892754",
-			"c1951ee9-63b2-4638-9dfc-a3696396f291"
+			"cc11787b-7f49-475d-842b-d41953602571",
+			"d6ffbf14-08e6-43c0-9312-22f62ec140b2",
+			"183cc03d-0441-4e29-bc99-7a63973b29bc"
 		],
 		"vakleergebied_id": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Kunst en cultuur",
@@ -197,13 +204,35 @@
 	{
 		"id": "87456ff4-d1f1-4c45-89f0-ec9623210819",
 		"title": "Engels",
-		"kerndoel_domein_id": [
-			"0934e203-f8f9-44c8-b8c5-c03d91f46af7"
-		],
 		"vakleergebied_id": [
 			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"kerndoel_id": [
+			"f7032363-a75d-4e9e-abc8-6fba2eb976d0",
+			"7ec34151-af9f-46b3-ba7f-841672f00705",
+			"1fa773c2-2e84-41e0-9a45-ab5f6d4af705",
+			"c2071a4a-288d-4bfd-97b8-0cd9d68ff5c2",
+			"18bd6259-e20b-41da-97c2-09cb9a2f346d",
+			"6437bb04-d8e4-42ca-9e7d-62dde3e5f8e6",
+			"6a30268a-1139-4e85-9669-a17ccb6254e0",
+			"beedaf27-e6ff-45c1-9a92-27a21ffb9a65",
+			"3d889c52-dc81-4122-b06a-89fd18c5a04e",
+			"4583fece-09a8-4397-9f5a-fba24a04c346",
+			"dac6e07d-6e4e-4929-a2aa-a577ff8bd866",
+			"220d2156-e2c0-4957-85b3-e11544c64585",
+			"d46ee7dd-0d43-4a93-a9cc-328c534c5182",
+			"7891902e-94ef-46c6-ab20-8ffda18dd7a1",
+			"7d4c4b30-f87e-4dec-bb45-1b3c1ed848d0",
+			"936c729e-5928-468a-8e7b-d1a8b1451d6a",
+			"7be3e4ce-6fa9-41c5-b03a-a697d607ed24",
+			"5a9fbc8a-7726-41f2-a837-d650d00472a0",
+			"151d8e66-1747-4999-99dc-9326ac8a2104",
+			"4c6597be-cb1b-46ce-bdbc-f46c4b60d3b4",
+			"65256452-b22c-4804-a0c9-f42e2398c418",
+			"162c3454-06a7-42ff-b28a-2458e4301635",
+			"b130b3f4-9158-4372-af78-e53730c75c9a"
+		]
 	},
 	{
 		"id": "41050bb3-7d86-430d-9053-a174b2cfb926",
@@ -241,7 +270,19 @@
 		"title": "Culturele oriëntatie en creatieve expressie",
 		"vakleergebied_id": [
 			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
-		]
+		],
+		"kerndoel_id": [
+			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"11daa22f-87cf-4977-a658-577b6d108897",
+			"00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"a75649e7-7c87-4e8c-9319-76b149ee9266"
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "6b8f39f1-ead6-4aa3-8091-cc35df1269ae",
