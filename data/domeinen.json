@@ -1,7 +1,24 @@
 [
 	{
 		"id": "183cc03d-0441-4e29-bc99-7a63973b29bc",
-		"title": "Taalbeschouwing, waaronder strategieën"
+		"title": "Taalbeschouwing, waaronder strategieën",
+		"kerndoel_id": [
+			"a776f9a3-32d3-48cb-bd83-5549c2c8ff49",
+			"7b7a5317-c622-423c-b337-b4c656d8d372",
+			"8990498f-49bb-4e40-8121-0a74b18c7ae7",
+			"49f4b7e6-68b2-4dbe-82e7-3eaa450176bb",
+			"043fbba8-9324-491e-9822-7a6d63214a5f",
+			"f40d3dd3-0c93-4e76-bb6f-478a16639b89",
+			"a07c217e-02fa-4909-908f-8608801e52d7",
+			"e22454b9-8bbb-4399-aaae-5e65d6841d7d",
+			"172f783f-937f-455d-af3d-6048b5874e8f",
+			"45931ece-3f72-42a5-b808-a7819c1872be",
+			"e79198ce-df12-45c2-bf40-db070246ad0a",
+			"13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"10dabe59-616c-40d5-a3fd-271c23b65edd",
+			"417ed529-bee9-486d-b49a-320acbe76267"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "0934e203-f8f9-44c8-b8c5-c03d91f46af7",
@@ -30,7 +47,8 @@
 			"65256452-b22c-4804-a0c9-f42e2398c418",
 			"162c3454-06a7-42ff-b28a-2458e4301635",
 			"b130b3f4-9158-4372-af78-e53730c75c9a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "e585df14-6802-47e7-a19a-e69688892754",
@@ -330,7 +348,10 @@
 			"237248d3-ddac-49d4-88f6-a094f7090eb9"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
@@ -410,7 +431,10 @@
 			"4096fb33-296d-4188-a4c0-f342fa10a453"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "5180ff07-6896-4609-9fa6-0b2114d48a08",
@@ -603,8 +627,11 @@
 			"510c295c-15bd-4f9b-a20c-4a53b59eff01",
 			"576894bf-95a3-4759-bda4-2b006de2af88",
 			"fe5dfcb6-14e7-4772-ac1f-777b9bc1df4f",
-			"c21d6e0f-5553-4a16-b745-b64993b5b845"
-		]
+			"c21d6e0f-5553-4a16-b745-b64993b5b845",
+			"a256864b-e6e0-4341-a09a-313bab72ec07",
+			"f1c6d8e5-5f18-4ef8-8845-1923c71e5edc"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "1d952e57-02c3-4168-9709-70c2628144dc",
