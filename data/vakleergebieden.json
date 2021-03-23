@@ -282,7 +282,10 @@
 			"a75649e7-7c87-4e8c-9319-76b149ee9266"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "6b8f39f1-ead6-4aa3-8091-cc35df1269ae",
@@ -357,5 +360,23 @@
 			"27566350-fb41-40ae-915c-6f4463e3b64d"
 		],
 		"dirty": "1"
+	},
+	{
+		"id": "fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+		"dirty": "1",
+		"title": "Culturele oriëntatie en creatieve expressie",
+		"vakleergebied_id": [
+			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
+		],
+		"kerndoel_id": [
+			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"11daa22f-87cf-4977-a658-577b6d108897",
+			"00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"a75649e7-7c87-4e8c-9319-76b149ee9266"
+		]
 	}
 ]
