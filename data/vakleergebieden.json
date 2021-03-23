@@ -183,7 +183,16 @@
 		"vakleergebied_id": [
 			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"kerndoel_id": [
+			"995032a1-de4a-4a07-988c-b8c7c2de197b",
+			"b2e4a065-2dda-4a1e-aa20-40d0da1cfc45",
+			"7e1f0ed5-e46b-4d3e-b3bd-d412cd4b4031",
+			"875cd9c5-9924-45ff-8cba-d7fac8d97ed2",
+			"d53370af-1b9c-4e00-bf8d-c17f3c078f74",
+			"60dd1636-925e-4de3-a0c7-76fe77816f76",
+			"e1ea3c39-8ecd-48a5-96e9-2d8a2f720397"
+		]
 	},
 	{
 		"title": "Kunst en cultuur",
