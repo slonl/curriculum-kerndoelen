@@ -158,7 +158,10 @@
 			"d619232e-394a-4c8c-b607-e94c36bfd48f",
 			"7555bcba-47e9-41d2-b04a-5a3623062146"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "448d83be-f820-4ca4-af13-57599827f0ab",
@@ -422,8 +425,13 @@
 			"2037b3e6-6909-482e-90c8-16b111a4da5f",
 			"2e4c7812-e038-4793-9d23-0e25bd33b164",
 			"f9e76d6f-d9e3-49fd-8e05-82b29c9d744b",
-			"33f8bb1c-18e2-4a5f-b154-c0626cb2a417"
-		]
+			"33f8bb1c-18e2-4a5f-b154-c0626cb2a417",
+			"3a209a14-76c4-4184-8375-09bfd7e3d334",
+			"ca512da1-94ae-498a-bf5c-3418f2e6f5e8",
+			"a24ca1ba-2a84-42f9-9c76-196145992730",
+			"16027a56-fad6-4d05-9900-5b3a07e55373"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "8cb16faf-3173-4988-898b-a9936be47821",
@@ -614,11 +622,13 @@
 	},
 	{
 		"id": "7033f8b3-7aaa-4b3f-9647-4eeb2e8fe9d8",
-		"title": "Muziek maken"
+		"title": "Muziek maken",
+		"deleted": 1
 	},
 	{
 		"id": "cffcabf5-4473-4100-8a6d-c0008f2fb3c5",
-		"title": "Muziek beluisteren"
+		"title": "Muziek beluisteren",
+		"deleted": 1
 	},
 	{
 		"id": "cc11787b-7f49-475d-842b-d41953602571",
@@ -659,10 +669,22 @@
 	},
 	{
 		"id": "1d952e57-02c3-4168-9709-70c2628144dc",
-		"title": "Tekenen en handvaardigheid"
+		"title": "Tekenen en handvaardigheid",
+		"kerndoel_id": [
+			"c846d825-2f59-4c70-94e3-bcd5a77cd6a5",
+			"73393b22-0e24-43c0-9a9b-02f808a6304f",
+			"b6495430-ecfd-476d-8961-81db16798698",
+			"268a4873-911b-452c-9c03-dea8674c2593"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "768baaa6-aa8f-4e9f-807d-8d3524310ced",
-		"title": "Dramatische vorming"
+		"title": "Dramatische vorming",
+		"kerndoel_id": [
+			"7fcd06d6-6c4a-462e-95a9-778ccd9a05e4",
+			"8ed55602-2dcd-44c0-b480-a382e134bd58"
+		],
+		"dirty": "1"
 	}
 ]
