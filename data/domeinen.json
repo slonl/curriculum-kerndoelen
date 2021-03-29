@@ -286,7 +286,8 @@
 			"0d102eae-8853-43a3-8788-5e26d80564b7",
 			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
 			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2467b2ac-caa7-41fb-b2c7-9d9bb158b6f4",
@@ -320,7 +321,8 @@
 			"418aa20e-7472-4004-af52-16eb838b56bc",
 			"24985cf7-5162-45a4-8e8a-0ca219b323a4",
 			"e8dea3fe-0481-44b6-ae28-b006ca6a73e2"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "dd0ac0ce-eb43-45da-aa29-e863f6e024a1",
@@ -383,7 +385,8 @@
 		"title": "Sociaal gedrag",
 		"kerndoel_id": [
 			"a8dfac42-bfd9-4158-9f70-5e08d5b6e02b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "6907960d-8d80-4f59-9efe-1a9514ed6c7a",
@@ -408,7 +411,8 @@
 		"title": "Ruimtelijke orientatie",
 		"kerndoel_id": [
 			"598910b8-55ed-457d-a732-dc31a6d1f225"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "2386176a-920c-40ec-8329-7ed842b53ed4",
@@ -580,7 +584,8 @@
 			"d83351e9-3647-4ec2-8ef9-4070e966671d",
 			"74f96327-2fce-409c-a950-102d4b728e43",
 			"a4f2be99-b1fe-4de4-8c2f-e1386db3b115"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "596821ce-5682-4541-b412-96d6b7807e90",
