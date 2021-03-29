@@ -25,8 +25,7 @@
 		"id": "f6948462-136d-4920-b71d-9c870abf2e2b",
 		"title": "Tekenen en handvaardigheid",
 		"kerndoel_domein_id": [
-			"fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
-			"b3dd1292-fe41-4637-a00e-3f911fb2e157"
+			"fbe15c7a-e4bf-4870-a08b-a644f8d08be3"
 		],
 		"kerndoel_id": [
 			"ce98fc41-bfc3-4cf4-b954-722184f55437",
@@ -197,18 +196,17 @@
 	{
 		"title": "Kunst en cultuur",
 		"id": "e27097a1-ef9e-4768-b3f1-030c5ab67b81",
-		"kerndoel_domein_id": [
-			"3f958bf9-6f1c-4d3b-93b5-e84b9124cb8f",
-			"dd0ac0ce-eb43-45da-aa29-e863f6e024a1",
-			"577f5d88-e6e2-42fa-bf06-d347aab0f670",
-			"d7154bff-93d8-4cf9-834b-c11283c8c3f3",
-			"596821ce-5682-4541-b412-96d6b7807e90",
-			"7033f8b3-7aaa-4b3f-9647-4eeb2e8fe9d8",
-			"cffcabf5-4473-4100-8a6d-c0008f2fb3c5"
-		],
 		"vakleergebied_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
-		]
+		],
+		"kerndoel_id": [
+			"7da3a86c-29b8-4c65-8a6c-894b2e65c5fc",
+			"61bc5488-34f9-4271-86f3-dca2cba615a3",
+			"563df93f-8f84-4c9a-a10b-8fdbf0773790",
+			"26f2e674-ca2e-489d-b5ee-18b3a9b17065",
+			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "87456ff4-d1f1-4c45-89f0-ec9623210819",
@@ -313,7 +311,13 @@
 		"dirty": "1",
 		"kerndoel_domein_id": [
 			"768baaa6-aa8f-4e9f-807d-8d3524310ced",
-			"1d952e57-02c3-4168-9709-70c2628144dc"
+			"1d952e57-02c3-4168-9709-70c2628144dc",
+			"577f5d88-e6e2-42fa-bf06-d347aab0f670"
+		],
+		"kerndoel_id": [
+			"c4e8c51c-144b-4a76-bff5-09337c03ab63",
+			"d619232e-394a-4c8c-b607-e94c36bfd48f",
+			"7555bcba-47e9-41d2-b04a-5a3623062146"
 		]
 	},
 	{
