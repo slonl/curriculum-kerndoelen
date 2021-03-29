@@ -147,15 +147,47 @@
 		"title": "Nederlands",
 		"kerndoel_domein_id": [
 			"183cc03d-0441-4e29-bc99-7a63973b29bc",
-			"c3e683f2-bc66-457e-84a3-4fd218b034ee",
-			"c92c80e7-a5e5-4d6c-a71d-b0be71364f9a",
 			"cc11787b-7f49-475d-842b-d41953602571",
 			"d6ffbf14-08e6-43c0-9312-22f62ec140b2"
 		],
 		"vakleergebied_id": [
 			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"kerndoel_id": [
+			"fe8cc1d3-38ad-4de9-a3f4-3d820285241a",
+			"e0e5fddd-99e6-41f7-9556-127943919374",
+			"87dd91e0-446f-4a5a-870b-74e00dd3b438",
+			"65efb2f8-72b1-44c9-b4e2-eebc87534e92",
+			"460f9814-41e2-4b45-8c8d-32b71590ace8",
+			"ca8436e3-c9d2-4650-abe1-4a4e410f17ce",
+			"2e5a3623-a7c4-4276-a293-7293dbfa9ea5",
+			"27f784a1-b3fc-4811-a2cb-1f28d6b08e69",
+			"b6a9ddbb-ff6c-49dd-b9a7-8ab59c09176c",
+			"767abc3a-a5b3-4cc9-ab87-c5404cf87e7e",
+			"41f817e1-e743-4e04-819f-76429801c1e9",
+			"3967df0b-be30-4f74-9553-2a63213785c4",
+			"d0fc39a3-71ba-4578-a717-c82af1945e3c",
+			"47842fff-8d08-469c-85b3-5934a5854a76",
+			"e8fd6bb8-5091-4980-a818-593118ac394e",
+			"2db04ce9-02d7-4685-be3a-188d87dfb69b",
+			"4fb8ad0d-26bf-4b66-bb1e-69b36cd9b54a",
+			"6bf1317d-87de-44a2-b8f2-b503b390e157",
+			"3029d34a-7550-417d-ba49-5972996dee81",
+			"56dd5786-6119-4425-9903-0d174a28d19a",
+			"f7275bef-08c2-44b8-9c22-dde0072a155e",
+			"58904b66-44c1-45a2-9f4c-ef2a2f73cf61",
+			"01465efb-c155-4971-a4ab-5d7f6b38df6b",
+			"b20390ef-16c9-4f97-9563-83dc4c8c775d",
+			"15c88e85-ad63-4634-9df4-96296ff0bee9",
+			"56224ecb-f170-4ebb-94dc-55412fc41396",
+			"3515c3cc-19cd-4f04-9795-0ab98c058699",
+			"cc692195-abce-4698-85b2-b7aaa15ee996",
+			"025e27e4-37f1-4f94-a0d4-621fb3114663",
+			"d31d0863-8a7b-48e7-8d21-71643ddfe805",
+			"9ce0a17d-cc6f-4443-8a8b-00567c4c6f12",
+			"d78f6437-c5fb-4fcf-bb13-eccaba72cb85"
+		]
 	},
 	{
 		"title": "Rekenen en wiskunde",
@@ -272,7 +304,10 @@
 			"2386176a-920c-40ec-8329-7ed842b53ed4"
 		],
 		"dirty": "1",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	},
 	{
 		"id": "ae4426b3-ff20-44c5-87da-7d2ac3dbede2",
@@ -356,7 +391,6 @@
 		"title": "Mens en maatschappij",
 		"kerndoel_domein_id": [
 			"902e567e-0542-42b5-93e1-788b9c69100a",
-			"2467b2ac-caa7-41fb-b2c7-9d9bb158b6f4",
 			"ed75700c-aefa-4a9b-9589-19f524920782"
 		],
 		"vakleergebied_id": [
