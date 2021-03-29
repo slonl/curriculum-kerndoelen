@@ -113,8 +113,28 @@
 			"28a9525c-da1f-4b7f-b67f-38a3b96b369f",
 			"45885286-dc4b-4648-b4b3-16f14ebf262f",
 			"156d3f88-03e0-458f-87f1-c624219ec99f",
-			"7f6e0edc-e38f-43bb-a7f8-82d0cab137ad"
-		]
+			"7f6e0edc-e38f-43bb-a7f8-82d0cab137ad",
+			"8ca31240-728f-4278-a39e-db5854fe4960",
+			"f5aeac1a-6df0-4123-996b-60417ef21c30",
+			"70838e01-158d-4291-bf15-5abce76be566",
+			"4070c713-32a9-4468-a6f4-e3fce305d23c",
+			"c3d8baf7-9dad-4ae9-92e5-8aa81ad81a4f",
+			"8444e61d-7b59-4b0a-9f58-fe1c30f0888e",
+			"89a9a647-06be-4d64-81a3-ed2a2d389dc4",
+			"53269a75-4f9a-4a7a-b94c-4278c803a297",
+			"4a61d950-6090-431c-bc2d-1cd0b6d57811",
+			"6f557135-fe74-45d5-8689-9dc2adedec60",
+			"f102d5f2-5f71-47b2-a6f7-32b438942705",
+			"ccf355e0-9787-4277-bd51-8a03cc6189fb",
+			"86a73f57-0dbd-4aee-bf11-e2b8e8b3e94c",
+			"55a6368b-fb66-4afb-873c-f307cfefb0ad",
+			"76271f08-c89f-4797-bef1-43ed9358eb2a",
+			"4255fbed-08ef-4420-8104-27b797444ef4",
+			"c16b9913-fca0-43af-aaee-aa556b078ab9",
+			"64dd8745-d836-467e-b4c2-0ad79f9bad3e",
+			"9f7d2bac-fb1d-4fa4-982d-506a17903ebf"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "897c3e21-7119-476c-b6ce-df39ca8c4cdd",
@@ -127,7 +147,19 @@
 			"3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
 			"e652ff27-3b26-4820-8d7b-32e9d38836e1",
 			"518b5749-dbe3-4e31-a139-f520752566e4",
-			"0a606159-1c97-4c73-b0b9-24160d32ee72"
+			"0a606159-1c97-4c73-b0b9-24160d32ee72",
+			"2029ee7a-c414-4050-ae44-5217929edc9a",
+			"ef2b26b0-9fff-4c70-b640-946d41684814",
+			"adc02a35-0900-4fcd-be91-8d7b1eaf4342",
+			"afe38292-93af-4091-804f-44d962e76199",
+			"0b622931-2281-4bf5-afdb-a000264b73cf",
+			"f6e12ccb-6dab-4cf1-99f6-fa2b96008909",
+			"a4a2464e-989c-44a5-8701-033c07748d35",
+			"d9225d1f-e483-4f2b-ac0e-3004143bd184",
+			"231a41d0-54ee-4513-a264-991d4e943133",
+			"7d5c1454-ab48-4ef8-ba1c-32a42f4dd4e2",
+			"34a6809f-77ef-40ad-96f9-fb5c197c28ec",
+			"60f4b4d3-dfb0-480e-91ab-4806982f9a07"
 		],
 		"dirty": "1"
 	},
@@ -138,8 +170,18 @@
 			"4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
 			"89dafb2b-df9c-4f05-af37-1468f91983d1",
 			"59065228-97c2-487c-9db3-a6d4242fc633",
-			"f2bacf1a-e6f9-4556-a1b9-54960a50df4b"
-		]
+			"f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
+			"88801ad9-7f7e-4a9c-b7ca-47ee268c9193",
+			"4ef246fa-c081-4a78-852a-5a61c23d12dc",
+			"fca33d2b-021d-46dd-9740-fc0026f77a1d",
+			"1b4e29a3-c048-459c-9315-ddefb03a635b",
+			"07c6c649-c951-4fc9-b067-d5cd2757d1e3",
+			"f2ff6a24-a75e-440c-b45c-2f1e1f68cb13",
+			"a62a0648-fd8d-46ed-9c18-5e1f56707b7c",
+			"12229209-f29f-486c-94e9-77c3ca668a11",
+			"131edf29-41a8-4e3c-8e0f-26dfb6633e79"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "be63a2e1-85b9-4624-8274-88ab794f58b4",
@@ -147,8 +189,16 @@
 		"kerndoel_id": [
 			"e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30",
 			"e2a2a741-5b36-4aff-8acc-9523fba6af5e",
-			"c6af9dc7-efee-4cb3-83b2-bf5c54512238"
-		]
+			"c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"04406113-b4f1-4d9c-a17e-0807f129e0c3",
+			"56de4926-a504-4104-aa44-ccde43cf28a7",
+			"4286f60d-d89b-46fa-91dc-01a3c283926a",
+			"8235488f-4db2-46f6-bc4b-caf14083aa8a",
+			"cd119f13-9db0-440a-90e2-484d83ba40fa",
+			"c5f55e08-93de-47fc-b9f1-7366c6bc9436",
+			"edac08e0-e6c5-4f0a-91c2-2333f5c3e05a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "3f958bf9-6f1c-4d3b-93b5-e84b9124cb8f",
@@ -196,7 +246,8 @@
 			"47842fff-8d08-469c-85b3-5934a5854a76",
 			"e8fd6bb8-5091-4980-a818-593118ac394e",
 			"2db04ce9-02d7-4685-be3a-188d87dfb69b"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "b18b217e-d9d3-4d64-8b76-f9e3bb4cc107",
@@ -287,7 +338,10 @@
 			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
 			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "2467b2ac-caa7-41fb-b2c7-9d9bb158b6f4",
@@ -322,7 +376,10 @@
 			"24985cf7-5162-45a4-8e8a-0ca219b323a4",
 			"e8dea3fe-0481-44b6-ae28-b006ca6a73e2"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "dd0ac0ce-eb43-45da-aa29-e863f6e024a1",
@@ -386,7 +443,10 @@
 		"kerndoel_id": [
 			"a8dfac42-bfd9-4158-9f70-5e08d5b6e02b"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "6907960d-8d80-4f59-9efe-1a9514ed6c7a",
@@ -412,7 +472,10 @@
 		"kerndoel_id": [
 			"598910b8-55ed-457d-a732-dc31a6d1f225"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "2386176a-920c-40ec-8329-7ed842b53ed4",
@@ -543,7 +606,8 @@
 			"d31d0863-8a7b-48e7-8d21-71643ddfe805",
 			"9ce0a17d-cc6f-4443-8a8b-00567c4c6f12",
 			"d78f6437-c5fb-4fcf-bb13-eccaba72cb85"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c1951ee9-63b2-4638-9dfc-a3696396f291",
@@ -585,7 +649,10 @@
 			"74f96327-2fce-409c-a950-102d4b728e43",
 			"a4f2be99-b1fe-4de4-8c2f-e1386db3b115"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "596821ce-5682-4541-b412-96d6b7807e90",
@@ -607,11 +674,21 @@
 	},
 	{
 		"id": "43c10a49-7d46-4a21-8547-83cffb353e42",
-		"title": "Manuele vaardigheden"
+		"title": "Manuele vaardigheden",
+		"kerndoel_id": [
+			"be381023-63d8-4526-b630-90bf7453c51a",
+			"c5700f90-543e-4ef1-b48a-f19dbc74f87f"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "7a3631ee-705a-4aff-95a4-dd155ecd3ef9",
-		"title": "Tekstuele vaardigheden"
+		"title": "Tekstuele vaardigheden",
+		"kerndoel_id": [
+			"d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
+			"bde4c581-cc04-439e-a08d-d95ff744216a"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
@@ -628,12 +705,18 @@
 	{
 		"id": "7033f8b3-7aaa-4b3f-9647-4eeb2e8fe9d8",
 		"title": "Muziek maken",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "cffcabf5-4473-4100-8a6d-c0008f2fb3c5",
 		"title": "Muziek beluisteren",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "cc11787b-7f49-475d-842b-d41953602571",
