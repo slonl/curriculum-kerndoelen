@@ -70,7 +70,10 @@
 			"104dcc4b-bf62-4842-a1f1-becb0db0d76a",
 			"6cfda3eb-0848-4768-a67f-4c28b9ba2267"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "3dfcefa2-3a4e-4d36-bd3e-861b34bfbeac",
@@ -154,7 +157,8 @@
 			"c4e8c51c-144b-4a76-bff5-09337c03ab63",
 			"d619232e-394a-4c8c-b607-e94c36bfd48f",
 			"7555bcba-47e9-41d2-b04a-5a3623062146"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "448d83be-f820-4ca4-af13-57599827f0ab",
@@ -541,7 +545,10 @@
 			"60dd1636-925e-4de3-a0c7-76fe77816f76",
 			"e1ea3c39-8ecd-48a5-96e9-2d8a2f720397"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "2c2e0463-910c-4039-8e6b-84f140d54e9d",
@@ -580,7 +587,10 @@
 			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
 			"a75649e7-7c87-4e8c-9319-76b149ee9266"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "43c10a49-7d46-4a21-8547-83cffb353e42",
@@ -597,7 +607,10 @@
 	{
 		"id": "b3dd1292-fe41-4637-a00e-3f911fb2e157",
 		"title": "Beschouwen",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "7033f8b3-7aaa-4b3f-9647-4eeb2e8fe9d8",
