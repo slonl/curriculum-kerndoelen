@@ -262,7 +262,16 @@
 		"vakleergebied_id": [
 			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
 		],
-		"description": ""
+		"description": "",
+		"kerndoel_domein_id": [
+			"a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
+			"5180ff07-6896-4609-9fa6-0b2114d48a08",
+			"6907960d-8d80-4f59-9efe-1a9514ed6c7a",
+			"34b38772-411e-4df9-a1cd-007ec4887a9d",
+			"34f06215-9423-475a-a53c-b80368e59674",
+			"2386176a-920c-40ec-8329-7ed842b53ed4"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "ae4426b3-ff20-44c5-87da-7d2ac3dbede2",
