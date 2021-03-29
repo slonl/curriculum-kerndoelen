@@ -271,7 +271,8 @@
 			"34f06215-9423-475a-a53c-b80368e59674",
 			"2386176a-920c-40ec-8329-7ed842b53ed4"
 		],
-		"dirty": "1"
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "ae4426b3-ff20-44c5-87da-7d2ac3dbede2",
@@ -279,7 +280,28 @@
 		"description": "",
 		"vakleergebied_id": [
 			"319258b1-3b17-4c49-a8a2-bbef7459c908"
-		]
+		],
+		"kerndoel_id": [
+			"a94ac255-eb2a-4f3d-afd4-d94dff193b0b",
+			"fd2abd39-77c8-46d0-9596-bc1fcf4f52da",
+			"80a008c5-f28e-4f11-92c3-9a56d5286092",
+			"eaa4cf9d-67e5-4cd7-a990-d57b27e1117d",
+			"ad340096-968d-4992-8f23-02b38ab96201",
+			"9a7e075d-4606-4253-ac20-7f154330c321",
+			"a82cb6ff-12a0-408d-8fbb-53a714192264",
+			"0f23d303-e70a-43d5-bbb4-517f288e6c4a",
+			"e657a0cc-58b8-47e3-9da6-d6652c03dfad",
+			"eb5edcbf-73a5-4f2b-892d-3198fef5d202",
+			"fe3f1ff4-889b-4f2b-9daf-69f6cef185c8",
+			"5aea4add-e07c-4c0c-a9e7-e61c45d66db9",
+			"82cf26bc-d95b-466f-a836-9b034ca80986",
+			"b45b36c3-3936-4cac-86eb-b0f85292db91",
+			"2c68ae4d-08fa-4b9b-844a-5b40caa1d204",
+			"d83351e9-3647-4ec2-8ef9-4070e966671d",
+			"74f96327-2fce-409c-a950-102d4b728e43",
+			"a4f2be99-b1fe-4de4-8c2f-e1386db3b115"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "e42e3c9a-3c68-4695-abf5-286aba386cf0",
@@ -342,23 +364,59 @@
 		],
 		"replaces": [
 			"02d2f065-3527-4001-99b6-52a9080f943f"
-		]
+		],
+		"kerndoel_id": [
+			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
+			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
+			"27fefa0d-c620-436b-84cb-205af17325ec",
+			"6458ab99-7837-450f-8685-308b46997112",
+			"bf7f6585-907f-4df6-8345-83a229ff7b71",
+			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
+			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
+			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
+			"f63a2618-8cc9-4b37-88da-6446204ce67a",
+			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
+			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
+			"b8552f53-4a3e-414a-ae6a-3b891c972a97",
+			"d07b0271-6ef4-48a8-a30f-c8ac576ddb2c",
+			"c749cfa8-63c8-48ce-8ede-8011fe9da56b",
+			"93c6a469-ef1b-456a-aa73-53599d857535",
+			"ca3f6766-67e9-4891-9a3e-f022c6f2b0b9",
+			"399fe8c4-03e6-42f9-9271-15e0e36d8c4c",
+			"e5b757f2-9ef2-4480-977a-47429954b6bc",
+			"7df3b4d0-c202-4cf5-8bae-d5200e8cf7d3",
+			"337d4d95-460b-4878-8627-681a30ae2b86",
+			"390786c0-2bb6-4adb-82ae-cdd02753f807",
+			"fc571c24-3d64-43b9-81a7-c66d233e5787",
+			"3e7ef066-a5f6-4709-8605-8eca7028461a",
+			"a2ef1c73-e742-41f0-b0e5-ac9d146f579b",
+			"4a5afb11-02ac-498c-a2ad-f67b5557ff3e",
+			"418aa20e-7472-4004-af52-16eb838b56bc",
+			"24985cf7-5162-45a4-8e8a-0ca219b323a4",
+			"e8dea3fe-0481-44b6-ae28-b006ca6a73e2"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "15e18b07-03b7-452c-8823-a177fd30b6f9",
 		"title": "Mens en natuur",
-		"kerndoel_domein_id": [
-			"dd1c227c-2b7c-4b99-b69f-13cd12f42148",
-			"ce2bfdda-a03c-4803-864b-b267d046384a",
-			"34f06215-9423-475a-a53c-b80368e59674",
-			"2c2e0463-910c-4039-8e6b-84f140d54e9d"
-		],
 		"vakleergebied_id": [
 			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		],
 		"replaces": [
 			"661346ca-7ca3-4da9-90a4-35f8103f38c3"
-		]
+		],
+		"kerndoel_id": [
+			"477f29ac-dfd9-4497-8456-95956422a44e",
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
+			"78311c70-18be-4a17-aeec-16fbe3cb7566",
+			"d357271b-3cfd-40c4-881d-084b71ca05c8",
+			"faa2483a-4230-432a-ab81-67437ff58a99",
+			"0d102eae-8853-43a3-8788-5e26d80564b7",
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "a77a3196-fae2-47ee-9a0d-54d5b42158e1",
