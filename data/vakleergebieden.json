@@ -195,13 +195,12 @@
 		"kerndoel_domein_id": [
 			"3dfcefa2-3a4e-4d36-bd3e-861b34bfbeac",
 			"467b116e-438e-40ca-b310-9657575fed92",
-			"133814cc-0c31-4385-9018-3da1489c9e20",
-			"b18b217e-d9d3-4d64-8b76-f9e3bb4cc107",
-			"c14b051a-6665-46b2-b7b9-7e4a267828c5"
+			"133814cc-0c31-4385-9018-3da1489c9e20"
 		],
 		"vakleergebied_id": [
 			"d8384a70-755e-4fb8-b4e8-424f617caa89"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "68bc0428-d73f-40aa-9a11-676ed996c4a1",
@@ -365,7 +364,9 @@
 		"title": "Voorbereiding op arbeid",
 		"vakleergebied_id": [
 			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
-		]
+		],
+		"dirty": "1",
+		"deleted": 1
 	},
 	{
 		"id": "f1300638-14e7-42f8-8e4f-5b372ff919c5",
@@ -389,10 +390,6 @@
 	{
 		"id": "cb36e642-f12f-4a19-b349-3b76cfe98bcd",
 		"title": "Mens en maatschappij",
-		"kerndoel_domein_id": [
-			"902e567e-0542-42b5-93e1-788b9c69100a",
-			"ed75700c-aefa-4a9b-9589-19f524920782"
-		],
 		"vakleergebied_id": [
 			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
