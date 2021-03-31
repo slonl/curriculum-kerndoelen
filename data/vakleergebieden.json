@@ -110,7 +110,11 @@
 			"0f90b8a7-d79a-46d3-8f88-0667ea43bf60",
 			"47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
 			"6c50e054-7e6f-475d-9001-359259a8a6db"
-		]
+		],
+		"vakleergebied_id": [
+			"d743552d-dfcf-48fe-a3a1-9f6229755708"
+		],
+		"dirty": "1"
 	},
 	{
 		"title": "Bewegen en sport",
@@ -522,5 +526,22 @@
 			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
 			"a75649e7-7c87-4e8c-9319-76b149ee9266"
 		]
+	},
+	{
+		"id": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+		"dirty": "1",
+		"title": "Leergebied overstijgende vaardigheden",
+		"kerndoel_domein_id": [
+			"a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
+			"5180ff07-6896-4609-9fa6-0b2114d48a08",
+			"6907960d-8d80-4f59-9efe-1a9514ed6c7a",
+			"34b38772-411e-4df9-a1cd-007ec4887a9d",
+			"34f06215-9423-475a-a53c-b80368e59674",
+			"2386176a-920c-40ec-8329-7ed842b53ed4"
+		],
+		"vakleergebied_id": [
+			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
+		],
+		"description": ""
 	}
 ]
