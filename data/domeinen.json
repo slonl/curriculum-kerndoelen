@@ -238,7 +238,8 @@
 			"0e7e9529-3399-44e2-abbb-9270a1b44047",
 			"b6e1bb8d-0096-4137-bccd-b1ce50f4717c",
 			"27566350-fb41-40ae-915c-6f4463e3b64d"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c3e683f2-bc66-457e-84a3-4fd218b034ee",
@@ -299,7 +300,8 @@
 			"04406113-b4f1-4d9c-a17e-0807f129e0c3",
 			"56de4926-a504-4104-aa44-ccde43cf28a7",
 			"4286f60d-d89b-46fa-91dc-01a3c283926a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c14b051a-6665-46b2-b7b9-7e4a267828c5",
@@ -415,7 +417,8 @@
 			"563df93f-8f84-4c9a-a10b-8fdbf0773790",
 			"26f2e674-ca2e-489d-b5ee-18b3a9b17065",
 			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "f27c2cc5-f5fe-466a-9de8-32b1dad426c6",
@@ -461,7 +464,10 @@
 		"kerndoel_id": [
 			"2fe3cd08-ade4-446e-809c-3c5f4a06b7f6"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "52a85522-40bf-40a6-9540-17f3682a78e4",
@@ -593,7 +599,8 @@
 			"cd119f13-9db0-440a-90e2-484d83ba40fa",
 			"c5f55e08-93de-47fc-b9f1-7366c6bc9436",
 			"edac08e0-e6c5-4f0a-91c2-2333f5c3e05a"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "d7154bff-93d8-4cf9-834b-c11283c8c3f3",
@@ -609,7 +616,8 @@
 			"16027a56-fad6-4d05-9900-5b3a07e55373",
 			"7fcd06d6-6c4a-462e-95a9-778ccd9a05e4",
 			"8ed55602-2dcd-44c0-b480-a382e134bd58"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "c92c80e7-a5e5-4d6c-a71d-b0be71364f9a",
@@ -722,7 +730,10 @@
 	{
 		"id": "fbe15c7a-e4bf-4870-a08b-a644f8d08be3",
 		"title": "Vormgeven",
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "b3dd1292-fe41-4637-a00e-3f911fb2e157",
