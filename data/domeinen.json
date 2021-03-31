@@ -239,7 +239,10 @@
 			"b6e1bb8d-0096-4137-bccd-b1ce50f4717c",
 			"27566350-fb41-40ae-915c-6f4463e3b64d"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "c3e683f2-bc66-457e-84a3-4fd218b034ee",
@@ -301,7 +304,10 @@
 			"56de4926-a504-4104-aa44-ccde43cf28a7",
 			"4286f60d-d89b-46fa-91dc-01a3c283926a"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "c14b051a-6665-46b2-b7b9-7e4a267828c5",
@@ -418,7 +424,10 @@
 			"26f2e674-ca2e-489d-b5ee-18b3a9b17065",
 			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "f27c2cc5-f5fe-466a-9de8-32b1dad426c6",
@@ -453,10 +462,12 @@
 	},
 	{
 		"id": "a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
-		"title": "Zintuigen en motoriek",
+		"title": "Zintuigelijke en motorische ontwikkeling",
 		"kerndoel_id": [
-			"c5ee2260-0c89-4d45-812d-ec049770e108"
-		]
+			"c5ee2260-0c89-4d45-812d-ec049770e108",
+			"4eb7b7d7-086d-48b4-8b84-cbb8d3cae3de"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "25ad50ab-bf09-4449-bdf1-7e818cac1c61",
@@ -487,16 +498,21 @@
 			"3a68c840-0451-4538-87e3-83bdf331dc15",
 			"d7d13c96-a1a1-493c-8338-5e2cfc6908d4",
 			"25e18ac5-e5a9-4a8f-badf-fdd08dba9662",
-			"478aa221-2cba-42e3-8139-f1e95247bcf0",
-			"c85ea24c-f622-41dc-9715-ef085c213532"
-		]
+			"ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"df68701e-38c2-4566-8090-d7d77ff97a83",
+			"ac7ef88b-8488-4063-b469-ee6617f8ee63",
+			"70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "34b38772-411e-4df9-a1cd-007ec4887a9d",
 		"title": "Omgaan met media en technologische hulpmiddelen",
 		"kerndoel_id": [
-			"e46ad1ef-e5ed-45e2-8e00-307ff2b2a0b6"
-		]
+			"e46ad1ef-e5ed-45e2-8e00-307ff2b2a0b6",
+			"478aa221-2cba-42e3-8139-f1e95247bcf0"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "ce2bfdda-a03c-4803-864b-b267d046384a",
@@ -513,8 +529,10 @@
 		"id": "2386176a-920c-40ec-8329-7ed842b53ed4",
 		"title": "Praktische redzaamheid",
 		"kerndoel_id": [
-			"fbea1aef-7ed4-4c97-800b-a6ad454e13d3"
-		]
+			"fbea1aef-7ed4-4c97-800b-a6ad454e13d3",
+			"c85ea24c-f622-41dc-9715-ef085c213532"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "577f5d88-e6e2-42fa-bf06-d347aab0f670",
@@ -557,15 +575,20 @@
 		"kerndoel_id": [
 			"3019b9eb-5f18-4931-a15a-6f6bbf932602",
 			"350c499b-8735-4a44-a524-23c813064d99",
-			"72a6ef67-3c18-4323-8aa5-5eb0f9a5eeec"
-		]
+			"72a6ef67-3c18-4323-8aa5-5eb0f9a5eeec",
+			"2fe3cd08-ade4-446e-809c-3c5f4a06b7f6",
+			"a8dfac42-bfd9-4158-9f70-5e08d5b6e02b"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "34f06215-9423-475a-a53c-b80368e59674",
 		"title": "Ruimtelijke oriëntatie en mobiliteit",
 		"kerndoel_id": [
-			"61a17d45-c73c-4051-907e-ca5343eaf778"
-		]
+			"61a17d45-c73c-4051-907e-ca5343eaf778",
+			"598910b8-55ed-457d-a732-dc31a6d1f225"
+		],
+		"dirty": "1"
 	},
 	{
 		"id": "ed75700c-aefa-4a9b-9589-19f524920782",
@@ -600,7 +623,10 @@
 			"c5f55e08-93de-47fc-b9f1-7366c6bc9436",
 			"edac08e0-e6c5-4f0a-91c2-2333f5c3e05a"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "d7154bff-93d8-4cf9-834b-c11283c8c3f3",
@@ -617,7 +643,10 @@
 			"7fcd06d6-6c4a-462e-95a9-778ccd9a05e4",
 			"8ed55602-2dcd-44c0-b480-a382e134bd58"
 		],
-		"deleted": 1
+		"deleted": 1,
+		"types": [
+			"kerndoel_domein"
+		]
 	},
 	{
 		"id": "c92c80e7-a5e5-4d6c-a71d-b0be71364f9a",
@@ -815,5 +844,34 @@
 			"8ed55602-2dcd-44c0-b480-a382e134bd58"
 		],
 		"dirty": "1"
+	},
+	{
+		"id": "8b1eff8c-62ea-4b15-bce5-15079d734adc",
+		"dirty": "1",
+		"title": "Leren taken uitvoeren",
+		"kerndoel_id": [
+			"3502e44e-78e7-4766-aaf5-5a7cbc8ab330",
+			"70101196-23ec-4bf8-917e-2886436b2b35",
+			"e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0"
+		],
+		"description": ""
+	},
+	{
+		"id": "cc93153d-9c83-492f-8285-0cf31c2d0e52",
+		"dirty": "1",
+		"title": "Leren functioneren in sociale situaties",
+		"kerndoel_id": [
+			"161a016a-7115-4127-aa63-1074a434b181",
+			"5b90f4ab-71bc-4951-9099-2f9ff166c41d"
+		]
+	},
+	{
+		"id": "f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0",
+		"dirty": "1",
+		"title": "Ontwikkelen van een persoonlijk toekomstperspectief",
+		"kerndoel_id": [
+			"121ca959-3df5-43b7-bd4a-1134ea7dcaf6",
+			"77185597-05d1-42b2-9488-39917a061673"
+		]
 	}
 ]
