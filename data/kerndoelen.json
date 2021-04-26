@@ -2097,12 +2097,12 @@
 		"description": "Meetkundige problemen",
 		"prefix": "SO nl/ml Kerndoel LS 47:  Meetkundige problemen",
 		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
 		"tag_id": [
 			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"kerndoelLabel": "Meten en rekenen",
@@ -2111,12 +2111,12 @@
 		"description": "Meten en rekenen",
 		"prefix": "SO nl/ml Kerndoel LS 48:  Meten en rekenen",
 		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
-			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
 		"tag_id": [
 			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"kerndoelLabel": "Verzorging",
