@@ -553,5 +553,21 @@
 			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
 		],
 		"description": ""
+	},
+	{
+		"id": "d0b6c2f0-834b-4465-87e2-96f685bf9251",
+		"title": "Biologie",
+		"description": "",
+		"vakleergebied_id": [
+			"41dd7292-3cce-411b-8097-11db8c875a89"
+		],
+		"kerndoel_id": [
+			"d803cf62-cf7e-404c-b650-8c7543534b6d",
+			"1095e038-a147-4b0a-bbfa-a202789744da",
+			"c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
+			"efc344e0-4651-4c07-ad61-0091cb7aa69f",
+			"3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
+			"518b5749-dbe3-4e31-a139-f520752566e4"
+		]
 	}
 ]
