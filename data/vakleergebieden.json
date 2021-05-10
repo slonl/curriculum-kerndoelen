@@ -569,5 +569,31 @@
 			"3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
 			"518b5749-dbe3-4e31-a139-f520752566e4"
 		]
+	},
+	{
+		"id": "4f66e180-be7e-448e-891b-698a71a3e9bc",
+		"title": "Aardrijkskune",
+		"description": "",
+		"kerndoel_id": [
+			"4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
+			"89dafb2b-df9c-4f05-af37-1468f91983d1",
+			"59065228-97c2-487c-9db3-a6d4242fc633",
+			"f2bacf1a-e6f9-4556-a1b9-54960a50df4b"
+		],
+		"vakleergebied_id": [
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		]
+	},
+	{
+		"id": "dc52b358-54f9-464e-80c6-83562b35588d",
+		"title": "Geschiedenis",
+		"kerndoel_id": [
+			"e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30",
+			"e2a2a741-5b36-4aff-8acc-9523fba6af5e",
+			"c6af9dc7-efee-4cb3-83b2-bf5c54512238"
+		],
+		"vakleergebied_id": [
+			"1c445505-16f2-4d3f-b6cf-8623ca317140"
+		]
 	}
 ]
