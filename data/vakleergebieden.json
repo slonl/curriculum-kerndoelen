@@ -607,5 +607,42 @@
 		"vakleergebied_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
 		]
+	},
+	{
+		"id": "5a55acd6-f1e6-4601-93db-0b3e4998d31b",
+		"title": "Natuurkunde",
+		"vakleergebied_id": [
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		]
+	},
+	{
+		"id": "08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
+		"title": "Techniek",
+		"vakleergebied_id": [
+			"977fea53-fb3b-4349-a81a-7bf903a152af"
+		]
+	},
+	{
+		"id": "aac61729-e10c-4110-9f0e-9776ca169903",
+		"title": "Scheikunde",
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		]
+	},
+	{
+		"id": "3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
+		"title": "Natuur- en scheikunde I",
+		"description": "",
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		]
+	},
+	{
+		"id": "f9938156-9298-4d76-a7ee-a673178af70e",
+		"title": "Economie",
+		"description": "",
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		]
 	}
 ]
