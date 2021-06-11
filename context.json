@@ -31,12 +31,6 @@
 				]
 			}
 		},
-		"kerndoel_domein": {
-			"$ref": "#/definitions/inhoud"
-		},
-		"kerndoel_uitstroomprofiel": {
-			"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
-		},
 		"kerndoel_vakleergebied": {
 			"allOf": [
 				{
@@ -60,12 +54,24 @@
 				}
 			]
 		},
+		"kerndoel_domein": {
+			"$ref": "#/definitions/inhoud"
+		},
+		"kerndoel_uitstroomprofiel": {
+			"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/base"
+		},
 		"allEntities" : {
 			"properties" : {
 				"kerndoel_id" : {
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
 						"itemTypeReference": "#/definitions/kerndoel"
+					}
+				},
+				"kerndoel_vakleergebied_id" : {
+					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
+					"items": {
+						"itemTypeReference": "#/definitions/kerndoel_vakleergebied"
 					}
 				},
 				"kerndoel_domein_id" : {
@@ -78,12 +84,6 @@
 					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
 					"items": {
 						"itemTypeReference": "#/definitions/kerndoel_uitstroomprofiel"
-					}
-				},
-				"kerndoel_vakleergebied_id" : {
-					"allOf": [ {"$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"} ],
-					"items": {
-						"itemTypeReference": "#/definitions/kerndoel_vakleergebied"
 					}
 				}
 			}
@@ -100,18 +100,18 @@
 				"$ref": "#/definitions/kerndoel"
 			}
 		},
-		"kerndoel_domein": {
-			"#file": "data/domeinen.json",
-			"type" : "array",
-			"items": {
-				"$ref": "#/definitions/kerndoel_domein"
-			}
-		},
 		"kerndoel_vakleergebied": {
 			"#file": "data/vakleergebieden.json",
 			"type" : "array",
 			"items": {
 				"$ref": "#/definitions/kerndoel_vakleergebied"
+			}
+		},
+		"kerndoel_domein": {
+			"#file": "data/domeinen.json",
+			"type" : "array",
+			"items": {
+				"$ref": "#/definitions/kerndoel_domein"
 			}
 		},
 		"kerndoel_uitstroomprofiel": {
