@@ -615,7 +615,19 @@
 		"kerndoel_id": [
 			"e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30",
 			"e2a2a741-5b36-4aff-8acc-9523fba6af5e",
-			"c6af9dc7-efee-4cb3-83b2-bf5c54512238"
+			"c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
+			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
+			"27fefa0d-c620-436b-84cb-205af17325ec",
+			"6458ab99-7837-450f-8685-308b46997112",
+			"bf7f6585-907f-4df6-8345-83a229ff7b71",
+			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
+			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
+			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
+			"f63a2618-8cc9-4b37-88da-6446204ce67a",
+			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
+			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
+			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
 		],
 		"vakleergebied_id": [
 			"1c445505-16f2-4d3f-b6cf-8623ca317140"
@@ -626,6 +638,16 @@
 		"title": "Natuurkunde",
 		"vakleergebied_id": [
 			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		],
+		"kerndoel_id": [
+			"477f29ac-dfd9-4497-8456-95956422a44e",
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
+			"78311c70-18be-4a17-aeec-16fbe3cb7566",
+			"d357271b-3cfd-40c4-881d-084b71ca05c8",
+			"faa2483a-4230-432a-ab81-67437ff58a99",
+			"0d102eae-8853-43a3-8788-5e26d80564b7",
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
 		]
 	},
 	{
@@ -633,6 +655,16 @@
 		"title": "Techniek",
 		"vakleergebied_id": [
 			"977fea53-fb3b-4349-a81a-7bf903a152af"
+		],
+		"kerndoel_id": [
+			"477f29ac-dfd9-4497-8456-95956422a44e",
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
+			"78311c70-18be-4a17-aeec-16fbe3cb7566",
+			"d357271b-3cfd-40c4-881d-084b71ca05c8",
+			"faa2483a-4230-432a-ab81-67437ff58a99",
+			"0d102eae-8853-43a3-8788-5e26d80564b7",
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
 		]
 	},
 	{
@@ -640,6 +672,16 @@
 		"title": "Scheikunde",
 		"vakleergebied_id": [
 			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"kerndoel_id": [
+			"477f29ac-dfd9-4497-8456-95956422a44e",
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
+			"78311c70-18be-4a17-aeec-16fbe3cb7566",
+			"d357271b-3cfd-40c4-881d-084b71ca05c8",
+			"faa2483a-4230-432a-ab81-67437ff58a99",
+			"0d102eae-8853-43a3-8788-5e26d80564b7",
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
 		]
 	},
 	{
@@ -648,6 +690,16 @@
 		"description": "",
 		"vakleergebied_id": [
 			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"kerndoel_id": [
+			"477f29ac-dfd9-4497-8456-95956422a44e",
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
+			"78311c70-18be-4a17-aeec-16fbe3cb7566",
+			"d357271b-3cfd-40c4-881d-084b71ca05c8",
+			"faa2483a-4230-432a-ab81-67437ff58a99",
+			"0d102eae-8853-43a3-8788-5e26d80564b7",
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
 		]
 	},
 	{
@@ -656,6 +708,20 @@
 		"description": "",
 		"vakleergebied_id": [
 			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"kerndoel_id": [
+			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
+			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
+			"27fefa0d-c620-436b-84cb-205af17325ec",
+			"6458ab99-7837-450f-8685-308b46997112",
+			"bf7f6585-907f-4df6-8345-83a229ff7b71",
+			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
+			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
+			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
+			"f63a2618-8cc9-4b37-88da-6446204ce67a",
+			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
+			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
+			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
 		]
 	}
 ]
