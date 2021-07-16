@@ -872,15 +872,29 @@
 	},
 	{
 		"id": "a0af4ab4-5246-4078-b0d3-7d743bb2d111",
-		"title": "Taalbeschouwing, waaronder strategieën"
+		"title": "Taalbeschouwing, waaronder strategieën",
+		"kerndoel_id": [
+			"13f08f75-1c7c-402e-a7de-149082a9e5af",
+			"e79198ce-df12-45c2-bf40-db070246ad0a",
+			"417ed529-bee9-486d-b49a-320acbe76267",
+			"10dabe59-616c-40d5-a3fd-271c23b65edd"
+		]
 	},
 	{
 		"id": "07be4466-6b97-48c2-99f8-c4a8572b54c1",
-		"title": "Mondeling taalonderwijs"
+		"title": "Manuele vaardigheden",
+		"kerndoel_id": [
+			"be381023-63d8-4526-b630-90bf7453c51a",
+			"c5700f90-543e-4ef1-b48a-f19dbc74f87f"
+		]
 	},
 	{
 		"id": "57bd37c2-edeb-43f5-9dc5-66d90bcd38a9",
-		"title": "Schriftelijk taalonderwijs"
+		"title": "Tekstuele vaardigheden",
+		"kerndoel_id": [
+			"bde4c581-cc04-439e-a08d-d95ff744216a",
+			"d167f9b1-cd8b-47d5-a218-6c6bc661fa11"
+		]
 	},
 	{
 		"id": "5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
