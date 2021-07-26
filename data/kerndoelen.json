@@ -542,12 +542,9 @@
 		"title": "De leerlingen leren hoe je weer en klimaat kunt beschrijven met behulp van temperatuur, neerslag en wind.",
 		"description": "Weer en klimaat",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "PO Kerndoel 44",
@@ -598,10 +595,7 @@
 		"title": "De leerlingen leren de ruimtelijke inrichting van de eigen omgeving te vergelijken met die in omgevingen elders, in binnen- en buitenland, vanuit de perspectieven landschap, wonen, werken, bestuur, verkeer, recreatie, welvaart, cultuur en levensbeschouwing. In ieder geval wordt daarbij aandacht besteed aan twee lidstaten van de Europese Unie en twee landen die in 2004 lid worden/ werden, de Verenigde Staten en een land in Azië, Afrika en Zuid-Amerika.",
 		"description": "Ruimtelijke inrichting",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -650,11 +644,9 @@
 		"title": "De leerlingen leren gebruik te maken van eenvoudige historische bronnen, zoals aanwezig in ons cultureel erfgoed, en ze leren aanduidingen van tijd en tijdsindeling te hanteren.",
 		"description": "Historische bronnen",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "PO Kerndoel 52",
@@ -1134,13 +1126,10 @@
 		"description": "Sleutelbegrippen",
 		"title": "De leerling leert kennis te verwerven over en inzicht te verkrijgen in sleutelbegrippen uit het gebied van de levende en niet-levende natuur, en leert deze sleutelbegrippen te verbinden met situaties in het dagelijks leven.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Sleutelbegrippen"
+		"kerndoelLabel": "Sleutelbegrippen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 30",
@@ -1148,13 +1137,10 @@
 		"description": "Het milieu",
 		"title": "De leerling leert dat mensen, dieren en planten in wisselwerking staan met elkaar en hun omgeving (milieu), en dat technologische en natuurwetenschappelijke toepassingen de duurzame kwaliteit daarvan zowel positief als negatief kunnen beïnvloeden.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Het milieu"
+		"kerndoelLabel": "Het milieu",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 31",
@@ -1162,13 +1148,10 @@
 		"description": "Processen in de natuur",
 		"title": "De leerling leert o.a. door praktisch werk kennis te verwerven over en inzicht te verkrijgen in processen uit de levende en niet-levende natuur en hun relatie met omgeving en milieu.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Processen in de natuur"
+		"kerndoelLabel": "Processen in de natuur",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 32",
@@ -1176,13 +1159,10 @@
 		"description": "Theorieën en modellen",
 		"title": "De leerling leert te werken met theorieën en modellen door onderzoek te doen naar natuurkundige en scheikundige verschijnselen als elektriciteit, geluid, licht, beweging, energie en materie.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Theorieën en modellen"
+		"kerndoelLabel": "Theorieën en modellen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 33",
@@ -1232,13 +1212,10 @@
 		"description": "Meningvorming",
 		"title": "De leerling leert betekenisvolle vragen te stellen over maatschappelijke kwesties en verschijnselen, daarover een beargumenteerd standpunt in te nemen en te verdedigen, en daarbij respectvol met kritiek om te gaan.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Meningvorming"
+		"kerndoelLabel": "Meningvorming",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 37",
@@ -1259,16 +1236,10 @@
 		"description": "Geografische basiskennis",
 		"title": "De leerling leert een eigentijds beeld van de eigen omgeving, Nederland, Europa en de wereld te gebruiken om verschijnselen en ontwikkelingen in hun eigen omgeving te plaatsen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Geografische basiskennis"
+		"kerndoelLabel": "Geografische basiskennis",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 39",
@@ -1299,13 +1270,10 @@
 		"description": "Omgaan met atlas en kaarten",
 		"title": "De leerling leert de atlas als informatiebron te gebruiken en kaarten te lezen en te analyseren om zich te oriënteren, zich een beeld van een gebied te vormen of antwoorden op vragen te vinden.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Omgaan met atlas en kaarten"
+		"kerndoelLabel": "Omgaan met atlas en kaarten",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 42",
@@ -1313,16 +1281,10 @@
 		"description": "Inzicht in de eigen omgeving",
 		"title": "De leerling leert in eigen ervaringen en in de eigen omgeving effecten te herkennen van keuzes op het gebied van werk en zorg, wonen en recreëren, consumeren en budgetteren, verkeer en milieu.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8",
-			"01aede69-edcd-4352-97e8-e16cb5d0015e",
-			"c63858da-23e4-4e1e-8456-b4aa13a6a826"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Inzicht in de eigen omgeving"
+		"kerndoelLabel": "Inzicht in de eigen omgeving",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 43",
@@ -1330,13 +1292,10 @@
 		"description": "Cultuurverschillen in Nederland",
 		"title": "De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert de betekenis voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met de diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Cultuurverschillen in Nederland"
+		"kerndoelLabel": "Cultuurverschillen in Nederland",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 44",
@@ -1357,13 +1316,10 @@
 		"description": "Europese samenwerking",
 		"title": "De leerling leert de betekenis van Europese samenwerking en de Europese Unie te begrijpen voor zichzelf, Nederland en de wereld.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Europese samenwerking"
+		"kerndoelLabel": "Europese samenwerking",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 46",
@@ -1371,13 +1327,10 @@
 		"description": "Arm en rijk",
 		"title": "De leerling leert over de verdeling van welvaart en armoede over de wereld, hij leert de betekenis daarvan te zien voor de bevolking en het milieu en relaties te leggen met het (eigen) leven in Nederland.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Arm en rijk"
+		"kerndoelLabel": "Arm en rijk",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 47",
