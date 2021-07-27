@@ -855,12 +855,10 @@
 		"description": "Luistervaardigheid",
 		"title": "De leerling leert verder vertrouwd te raken met de klank van het Engels door veel te luisteren naar gesproken en gezongen teksten.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Luistervaardigheid"
+		"kerndoelLabel": "Luistervaardigheid",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 12",
@@ -868,12 +866,10 @@
 		"description": "Woordverwerving",
 		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn Engelse woordenschat.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Woordverwerving"
+		"kerndoelLabel": "Woordverwerving",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 13",
@@ -881,12 +877,10 @@
 		"description": "Lezen en luisteren",
 		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven Engelstalige teksten.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Lezen en luisteren"
+		"kerndoelLabel": "Lezen en luisteren",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 14",
@@ -894,12 +888,10 @@
 		"description": "Omgaan met informatiebronnen",
 		"title": "De leerling leert in Engelstalige schriftelijke en digitale bronnen informatie te zoeken, te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Omgaan met informatiebronnen"
+		"kerndoelLabel": "Omgaan met informatiebronnen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 15",
@@ -907,12 +899,10 @@
 		"description": "Informele gesprekken",
 		"title": "De leerling leert in spreektaal anderen een beeld te geven van zijn dagelijks leven.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Informele gesprekken"
+		"kerndoelLabel": "Informele gesprekken",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 16",
@@ -920,12 +910,10 @@
 		"description": "Standaardgesprekken",
 		"title": "De leerling leert standaardgesprekken te voeren om iets te kopen, inlichtingen te vragen en om hulp te vragen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Standaardgesprekken"
+		"kerndoelLabel": "Standaardgesprekken",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 17",
@@ -933,12 +921,10 @@
 		"description": "Contact via internet",
 		"title": "De leerling leert informeel contact in het Engels te onderhouden via e-mail, brief en chatten.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Contact via internet"
+		"kerndoelLabel": "Contact via internet",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 18",
@@ -946,12 +932,10 @@
 		"description": "Engels als wereldtaal",
 		"title": "De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Engels als wereldtaal"
+		"kerndoelLabel": "Engels als wereldtaal",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 19",
@@ -1279,12 +1263,10 @@
 		"description": "De politiek",
 		"title": "De leerling leert op hoofdlijnen hoe het Nederlandse politieke bestel als democratie functioneert en leert zien hoe mensen op verschillende manieren bij politieke processen betrokken zijn.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "De politiek"
+		"kerndoelLabel": "De politiek",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 45",
@@ -1314,13 +1296,10 @@
 		"description": "Oorlog, vrede en mensenrechten",
 		"title": "De leerling leert actuele spanningen, conflicten en oorlogen in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking te zien.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Oorlog, vrede en mensenrechten"
+		"kerndoelLabel": "Oorlog, vrede en mensenrechten",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 48",
