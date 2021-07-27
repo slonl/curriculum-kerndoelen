@@ -423,10 +423,7 @@
 		"title": "De leerlingen leren zorg te dragen voor de lichamelijke en psychische gezondheid van henzelf en anderen.",
 		"description": "Gezondheid",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -436,10 +433,7 @@
 		"title": "De leerlingen leren zich redzaam te gedragen in sociaal opzicht, als verkeersdeelnemer en als consument.",
 		"description": "Redzaam gedrag",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -475,11 +469,7 @@
 		"title": "De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen, en ze leren respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
 		"description": "Geestelijke stromingen",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -502,11 +492,9 @@
 		"title": "De leerlingen leren in de eigen omgeving veel voorkomende planten en dieren onderscheiden en benoemen en leren hoe ze functioneren in hun leefomgeving.",
 		"description": "Planten en dieren herkennen",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
-		]
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "PO Kerndoel 41",
@@ -515,10 +503,7 @@
 		"title": "De leerlingen leren over de bouw van planten, dieren en mensen en over de vorm en functie van hun onderdelen.",
 		"description": "Bouw van organismen",
 		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725",
-			"0a3d23df-1758-439b-b219-cd2854cc639b",
-			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
-			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
+			"512e4729-03a4-43a2-95ba-758071d1b725"
 		]
 	},
 	{
@@ -1170,13 +1155,10 @@
 		"description": "Techniek",
 		"title": "De leerling leert door onderzoek kennis te verwerven over voor hem relevante technische producten en systemen, leert deze kennis naar waarde te schatten en op planmatige wijze een technisch product te ontwerpen en te maken.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Techniek"
+		"kerndoelLabel": "Techniek",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 34",
@@ -1184,13 +1166,10 @@
 		"description": "Lichaam en gezondheid",
 		"title": "De leerling leert hoofdzaken te begrijpen van bouw en functie van het menselijk lichaam, verbanden te leggen met het bevorderen van lichamelijke en psychische gezondheid, en daarin een eigen verantwoordelijkheid te nemen",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Lichaam en gezondheid"
+		"kerndoelLabel": "Lichaam en gezondheid",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 35",
@@ -1198,13 +1177,10 @@
 		"description": "Zorg en veiligheid",
 		"title": "De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Zorg en veiligheid"
+		"kerndoelLabel": "Zorg en veiligheid",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 36",
