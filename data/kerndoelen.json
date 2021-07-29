@@ -1143,11 +1143,10 @@
 		"description": "Onderzoek leren doen",
 		"title": "De leerling leert een eenvoudig onderzoek uit te voeren naar een actueel maatschappelijk verschijnsel en de uitkomsten daarvan te presenteren.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Onderzoek leren doen"
+		"kerndoelLabel": "Onderzoek leren doen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 40",
@@ -1155,10 +1154,10 @@
 		"description": "Omgaan met historische bronnen",
 		"title": "De leerling leert historische bronnen te gebruiken om zich een beeld van een tijdvak te vormen of antwoorden te vinden op vragen, en hij leert daarbij ook de eigen cultuurhistorische omgeving te betrekken.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Omgaan met historische bronnen"
+		"kerndoelLabel": "Omgaan met historische bronnen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 41",
@@ -1243,10 +1242,10 @@
 		"description": "Produceren van kunst",
 		"title": "De leerling leert door het gebruik van elementaire vaardigheden de zeggingskracht van verschillende kunstzinnige disciplines te onderzoeken en toe te passen om eigen gevoelens uit te drukken, ervaringen vast te leggen, verbeelding vorm te geven en communicatie te bewerkstelligen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Produceren van kunst"
+		"kerndoelLabel": "Produceren van kunst",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 49",
@@ -1254,10 +1253,10 @@
 		"description": "Eigen kunstzinnig werk presenteren",
 		"title": "De leerling leert eigen kunstzinnig werk, alleen of als deelnemer in een groep, aan derden te presenteren.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Eigen kunstzinnig werk presenteren"
+		"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 50",
@@ -1265,10 +1264,10 @@
 		"description": "Leren kijken en luisteren naar kunst",
 		"title": "De leerling leert, op grond van enige achtergrondkennis, te kijken naar beeldende kunst, te luisteren naar muziek en te kijken en luisteren naar theater-, dans- en filmvoorstellingen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Leren kijken en luisteren naar kunst"
+		"kerndoelLabel": "Leren kijken en luisteren naar kunst",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 51",
@@ -1276,10 +1275,10 @@
 		"description": "Verslag doen van ervaringen",
 		"title": "De leerling leert, met behulp van visuele of auditieve middelen, verslag te doen van deelname aan kunstzinnige activiteiten (als toeschouwer en als deelnemer).",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Verslag doen van ervaringen"
+		"kerndoelLabel": "Verslag doen van ervaringen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 52",
@@ -1287,10 +1286,10 @@
 		"description": "Reflecteren op kunstzinnig werk",
 		"title": "De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder kunstenaars.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Reflecteren op kunstzinnig werk"
+		"kerndoelLabel": "Reflecteren op kunstzinnig werk",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 53",
@@ -1298,13 +1297,10 @@
 		"description": "Bewegen beleven",
 		"title": "De leerling leert zich mede met het oog op buitenschoolse beoefening op praktische wijze te oriënteren op veel verschillende bewegingsactiviteiten uit gevarieerde gebieden als spel, turnen, atletiek, bewegen op muziek, zelfverdediging en actuele ontwikkelingen in de bewegingscultuur, en daarin de eigen mogelijkheden te verkennen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Bewegen beleven. Oriënteren op bewegingsactiviteiten"
+		"kerndoelLabel": "Bewegen beleven. Oriënteren op bewegingsactiviteiten",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 54",
@@ -1312,13 +1308,10 @@
 		"description": "Bewegen verbeteren",
 		"title": "De leerling leert door middel van uitdagende bewegingssituaties zijn bewegingsrepertoire uit te breiden.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Bewegen verbeteren. Uitbreiding van bewegingsrepertoire"
+		"kerndoelLabel": "Bewegen verbeteren. Uitbreiding van bewegingsrepertoire",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 55",
@@ -1326,13 +1319,10 @@
 		"description": "Bewegen verbeteren",
 		"title": "De leerling leert de hoofdbeginselen van de bewegingsactiviteiten op eigen niveau toe te passen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Bewegen verbeteren.Toepassen van bewegingsprincipes"
+		"kerndoelLabel": "Bewegen verbeteren.Toepassen van bewegingsprincipes",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 56",
@@ -1340,13 +1330,10 @@
 		"description": "Bewegen beleven",
 		"title": "De leerling leert tijdens bewegingsactiviteiten sportief te zijn, rekening te houden met de mogelijkheden en voorkeuren van anderen, en respect en zorg te hebben voor elkaar.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Bewegen beleven. Omgaan met anderen"
+		"kerndoelLabel": "Bewegen beleven. Omgaan met anderen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 57",
@@ -1354,13 +1341,10 @@
 		"description": "Bewegen regelen",
 		"title": "De leerling leert eenvoudige regelende taken te vervullen die het mogelijk maken, zelfstandig en samen met andere leerlingen bewegingsactiviteiten te beoefenen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Bewegen regelen. Regelen en organiseren"
+		"kerndoelLabel": "Bewegen regelen. Regelen en organiseren",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 58",
@@ -1368,13 +1352,10 @@
 		"description": "Gezond bewegen",
 		"title": "De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"b5437183-0c54-4020-bf47-34b83a2ee511",
-			"b572a7ee-82de-4a63-a2a3-34423eb6bbe2",
-			"553479de-32ba-42b2-a8e7-5ceb19caac42"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Gezond bewegen"
+		"kerndoelLabel": "Gezond bewegen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "SO nl/ml Kerndoel LO 1",
