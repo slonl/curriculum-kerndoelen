@@ -923,14 +923,10 @@
 		"description": "Wiskundetaal ontwikkelen",
 		"title": "De leerling leert passende wiskundetaal te gebruiken voor het ordenen van het eigen denken en voor uitleg aan anderen en leert de wiskundetaal van anderen te begrijpen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Wiskundetaal ontwikkelen"
+		"kerndoelLabel": "Wiskundetaal ontwikkelen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 20",
@@ -938,15 +934,10 @@
 		"description": "Wiskunde gebruiken in praktische situaties",
 		"title": "De leerling leert alleen en in samenwerking met anderen in praktische situaties wiskunde te herkennen en te gebruiken om problemen op te lossen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Wiskunde gebruiken in praktische situaties"
+		"kerndoelLabel": "Wiskunde gebruiken in praktische situaties",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 21",
@@ -954,15 +945,10 @@
 		"description": "Wiskundig redeneren",
 		"title": "De leerling leert een wiskundige argumentatie op te zetten en te onderscheiden van meningen en beweringen en leert daarbij met respect voor ieders denkwijze wiskundige kritiek te geven en te krijgen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Wiskundig redeneren"
+		"kerndoelLabel": "Wiskundig redeneren",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 22",
@@ -970,15 +956,10 @@
 		"description": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
 		"title": "De leerling leert de structuur en de samenhang te doorzien van positieve en negatieve getallen, decimale getallen, breuken, procenten en verhoudingen en leert ermee te werken in zinvolle en praktische situaties.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Rekenstructuren doorzien en rekenbegrippen gebruiken"
+		"kerndoelLabel": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 23",
@@ -986,15 +967,10 @@
 		"title": "De leerling leert exact en schattend rekenen en redeneren op basis van inzicht in nauwkeurigheid, orde van grootte, en marges die in een gegeven situatie passend zijn.",
 		"description": "Exact en schattend rekenen",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Exact en schattend rekenen"
+		"kerndoelLabel": "Exact en schattend rekenen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 24",
@@ -1002,15 +978,10 @@
 		"description": "Meten en metriek stelsel",
 		"title": "De leerling leert meten, leert structuur en samenhang doorzien van het metriek stelsel en leert rekenen met maten voor grootheden die gangbaar zijn in relevante toepassingen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Meten en metriek stelsel"
+		"kerndoelLabel": "Meten en metriek stelsel",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 25",
@@ -1018,15 +989,10 @@
 		"description": "Verbanden visualiseren en formaliseren",
 		"title": "De leerling leert informele notaties, schematische voorstellingen, tabellen, grafieken en formules te gebruiken om greep te krijgen op verbanden tussen grootheden en variabelen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Verbanden visualiseren en formaliseren"
+		"kerndoelLabel": "Verbanden visualiseren en formaliseren",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 26",
@@ -1034,15 +1000,10 @@
 		"description": "Werken met en redeneren over vormen",
 		"title": "De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren en leert met hun eigenschappen en afmetingen te rekenen en redeneren.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752",
-			"50d3e467-28c8-4c42-a0fe-e0000819ba39",
-			"2c0dd3c9-4432-4f0a-b103-f3ea2f5c1fc8"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Werken met en redeneren over vormen"
+		"kerndoelLabel": "Werken met en redeneren over vormen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 27",
@@ -1050,13 +1011,10 @@
 		"description": "Ordenen van gegevens",
 		"title": "De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren en leert gegevens, representaties en conclusies kritisch te beoordelen.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784",
-			"35ca5594-679e-4c7b-a178-88322dce8971",
-			"5ca732b3-3ec2-4b13-9f08-d55b8739fe31",
-			"b5a4f104-fb2d-4c71-8f36-702d9567a752"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Ordenen van gegevens"
+		"kerndoelLabel": "Ordenen van gegevens",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 28",
@@ -1064,10 +1022,10 @@
 		"description": "Onderzoek leren doen",
 		"title": "De leerling leert vragen over onderwerpen uit het brede leergebied om te zetten in onderzoeksvragen, een dergelijk onderzoek over een natuurwetenschappelijk onderwerp uit te voeren en de uitkomsten daarvan te presenteren.",
 		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"c2ad90a9-30fb-49f2-89c2-bd269b60a784"
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486"
 		],
-		"kerndoelLabel": "Onderzoek leren doen"
+		"kerndoelLabel": "Onderzoek leren doen",
+		"dirty": "1"
 	},
 	{
 		"prefix": "VO Kerndoel 29",
