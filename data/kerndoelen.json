@@ -3279,7 +3279,10 @@
 		"description": "Leren leren, actief lerend in de wereld staan",
 		"title": "De leerling ontwikkelt een open en flexibele houding ten opzichte van de wereld om hem heen, mede in het kader van een leven lang leren.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
