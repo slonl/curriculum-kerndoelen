@@ -3352,11 +3352,15 @@
 		"description": "Leren leren, stellen van doelen en planmatig leren",
 		"title": "De leerling leert doelgericht en planmatig te leren en daarbij strategieën te gebruiken.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 3",
@@ -3365,11 +3369,15 @@
 		"description": "Leren leren, informatie zoeken, beoordelen en gebruiken",
 		"title": "De leerling leert verschillende soorten informatie te zoeken, te beoordelen en te gebruiken.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 4",
@@ -3378,11 +3386,15 @@
 		"description": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
 		"title": "De leerling leert op basis van feiten een mening te vormen, deze adequaat te uiten en respectvol om te gaan met andere meningen.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 5",
@@ -3391,11 +3403,15 @@
 		"description": "Leren taken uitvoeren, praktisch redzaam en weerbaar gedrag",
 		"title": "De leerling leert zich redzaam en weerbaar te gedragen bij de uitvoering van dagelijkse activiteiten.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 6",
@@ -3404,11 +3420,15 @@
 		"description": "Leren taken uitvoeren, doelgericht en methodisch taken uitvoeren",
 		"title": "De leerling leert op doelgerichte, planmatige en methodische wijze taken en activiteiten uit te voeren.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 7",
@@ -3417,11 +3437,15 @@
 		"description": "Leren taken uitvoeren, samenwerken aan een taak of activiteit",
 		"title": "De leerling leert samen te werken aan een taak of activiteit.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 8",
@@ -3430,11 +3454,15 @@
 		"description": "Leren functioneren in sociale situaties, zelfbeeld en ontwikkeling van zelfvertrouwen",
 		"title": "De leerling leert op adequate wijze om te gaan met eigen gevoelens en wensen.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 9",
@@ -3443,11 +3471,15 @@
 		"description": "Leren functioneren in sociale situaties, sociaal gedrag en omgaan met verschillen tussen mensen",
 		"title": "De leerling leert respectvol en verantwoordelijk om te gaan met anderen.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 10",
@@ -3456,11 +3488,15 @@
 		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, zelfbeeld en zicht op eigen toekomstmogelijkheden",
 		"title": "De leerling krijgt zicht op de eigen voorkeuren, interesses en toekomstwensen op het gebied van werken, wonen, vrije tijd en burgerschap.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel LO 11",
@@ -3469,11 +3505,15 @@
 		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, keuzes maken, motivatie deze na te streven en ondersteuning daarbij vinden",
 		"title": "De leerling leert afwegingen en keuzes te maken die leiden tot een passend persoonlijk toekomstperspec-tief, met realiseerbare mogelijkheden en kansen.",
 		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59"
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
 		"tag_id": [
 			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		]
+		],
+		"dirty": "1"
 	},
 	{
 		"prefix": "VSO Kerndoel AM 12",
