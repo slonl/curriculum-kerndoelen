@@ -2075,7 +2075,7 @@
 		"id": "e8e10748-0c47-4e16-981d-38ed734053ca",
 		"kerndoelLabel": "Zorg vragen",
 		"title": "De leerlingen leren gebruik maken van organisaties en personen die belangrijk zijn voor de dovengemeenschap en het culturele erfgoed van doven en leren zich oriënteren op de bijdrage die zij op verschillende gebieden kunnen leveren aan de dovengemeenschap.",
-		"description": "Zorg vragen",
+		"description": "Voor leerlingen met een auditieve en/of communicatieve beperking cluster 2.",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
@@ -2268,9 +2268,9 @@
 	{
 		"prefix": "SO nl/ml Kerndoel LS 70",
 		"id": "ce98fc41-bfc3-4cf4-b954-722184f55437",
-		"kerndoelLabel": "Beeldende vormgeving",
+		"kerndoelLabel": "Vormgeven",
 		"title": "De leerlingen leren ideeën, ervaringen en gevoelens uitdrukken in een beeldend werkstuk en daar over te communiceren.",
-		"description": "Beeldende vormgeving",
+		"description": "Vormgeven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
@@ -2281,7 +2281,7 @@
 	{
 		"prefix": "SO nl/ml Kerndoel LS 71",
 		"id": "5eb46bd5-3188-4465-beab-156c27f7b1dc",
-		"kerndoelLabel": "Beeldende aspecten",
+		"kerndoelLabel": "Vormgeven",
 		"title": "De leerlingen leren beeldende aspecten zoals kleur, vorm, ruimte, structuur van het materiaal en compositie doelgericht gebruiken in een werkstuk.",
 		"description": "Beeldende aspecten",
 		"niveau_id": [
@@ -2294,7 +2294,7 @@
 	{
 		"prefix": "SO nl/ml Kerndoel LS 72",
 		"id": "0d98aa7e-ac35-4999-abcd-bbaf6c3883ae",
-		"kerndoelLabel": "Materialen onderzoeken",
+		"kerndoelLabel": "Vormgeven",
 		"title": "De leerlingen leren de mogelijkheden van materialen onderzoeken en toepassen in hun eigen werk. Daarbij gebruiken ze de benodigde gereedschappen op een veilige manier.",
 		"description": "Materialen onderzoeken",
 		"niveau_id": [
@@ -2307,7 +2307,7 @@
 	{
 		"prefix": "SO nl/ml Kerndoel LS 73",
 		"id": "1ba16f88-9221-4812-9288-0b5206ad7213",
-		"kerndoelLabel": "Reflectie",
+		"kerndoelLabel": "Beschouwen",
 		"title": "De leerlingen leren hun eigen werk met dat van anderen te vergelijken.",
 		"description": "Reflectie",
 		"niveau_id": [
@@ -2320,7 +2320,7 @@
 	{
 		"prefix": "SO nl/ml Kerndoel LS 74",
 		"id": "a3c12add-d27b-4ad4-8d10-dd8820433385",
-		"kerndoelLabel": "Beeldende producten",
+		"kerndoelLabel": "Beschouwen",
 		"title": "De leerlingen leren dat mensen door middel van beeldende producten (reclame, media, kleding, kunst) iets kunnen meedelen en overbrengen.",
 		"description": "Beeldende producten",
 		"niveau_id": [
