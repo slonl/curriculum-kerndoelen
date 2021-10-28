@@ -921,5 +921,14 @@
 			"49f4b7e6-68b2-4dbe-82e7-3eaa450176bb",
 			"6cfda3eb-0848-4768-a67f-4c28b9ba2267"
 		]
+	},
+	{
+		"id": "ceafd213-2ece-46d4-a9fc-9eb330646b7f",
+		"title": "Spel en beweging",
+		"kerndoel_id": [
+			"71a12410-653e-4ed0-a008-1b848b6f8702",
+			"a1e48228-b3fa-4232-9639-68abcb3e1dcf",
+			"7b4af106-9516-46e9-8570-b7eb596118b9"
+		]
 	}
 ]
