@@ -12,55 +12,244 @@
 		]
 	},
 	{
-		"id": "f6948462-136d-4920-b71d-9c870abf2e2b",
-		"title": "Tekenen en handvaardigheid",
+		"id": "a77a3196-fae2-47ee-9a0d-54d5b42158e1",
+		"title": "Bewegingsonderwijs",
+		"description": "",
+		"vakleergebied_id": [
+			"4f2f7088-7cbc-4f5f-b857-f80f8b697bf4"
+		],
 		"kerndoel_id": [
-			"ce98fc41-bfc3-4cf4-b954-722184f55437",
-			"5eb46bd5-3188-4465-beab-156c27f7b1dc",
-			"0d98aa7e-ac35-4999-abcd-bbaf6c3883ae",
-			"1ba16f88-9221-4812-9288-0b5206ad7213",
-			"a3c12add-d27b-4ad4-8d10-dd8820433385"
+			"8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
+			"4b63c87d-59d4-4c7b-a609-8097ef7c5591",
+			"3c0b7b5e-31e2-4afd-bda4-0a96ec4c5ce7",
+			"54884ae0-a2fd-4ce8-8daf-fb3e6e3bb157",
+			"c1b66081-6c6e-4095-bcf4-319f24ef70fa",
+			"ae744880-7c0a-43ad-ab1f-aa03b85f69df",
+			"4096fb33-296d-4188-a4c0-f342fa10a453",
+			"85f21855-47e1-48fe-8bd2-3ef92b640bca",
+			"daa55b5d-eeb1-4746-870b-d98188c026ae",
+			"0e7e9529-3399-44e2-abbb-9270a1b44047",
+			"b6e1bb8d-0096-4137-bccd-b1ce50f4717c",
+			"27566350-fb41-40ae-915c-6f4463e3b64d"
+		]
+	},
+	{
+		"id": "fdf92977-964c-4e7f-bea1-f8b7c24b0029",
+		"title": "Culturele oriëntatie en creatieve expressie",
+		"vakleergebied_id": [
+			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
+		],
+		"kerndoel_id": [
+			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
+			"11daa22f-87cf-4977-a658-577b6d108897",
+			"00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
+			"97c1063a-fc68-40da-ba5a-514ef1181b56",
+			"f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
+			"e5fb087e-5be7-407b-8be8-4d0bd1e51361",
+			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
+			"a75649e7-7c87-4e8c-9319-76b149ee9266",
+			"30b3a944-4b2a-4316-9eb5-506291270aa7",
+			"03961779-f1c6-4071-ae98-13446e8c4a59",
+			"5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+			"6d41186f-bcad-4697-8b98-cee942446864",
+			"349ddcb7-7bf8-4fb4-abf0-ce24159502aa"
+		]
+	},
+	{
+		"id": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
+		"title": "Leergebied overstijgende vaardigheden",
+		"kerndoel_domein_id": [
+			"edf8ebcf-90e8-49d3-9554-be546a965bb6",
+			"2ea95b8c-faa3-4f78-aa6d-7acb65656ddf",
+			"0f477a7b-fd36-488f-bdff-051a43020708",
+			"befead63-bfb4-4f9b-8e74-e97e8e212479",
+			"ed5387f5-9524-4289-a16f-d54139995736",
+			"ad7f532f-5cba-40df-909a-bc2518e90c02",
+			"cc93153d-9c83-492f-8285-0cf31c2d0e52",
+			"8b1eff8c-62ea-4b15-bce5-15079d734adc",
+			"f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0"
 		],
 		"vakleergebied_id": [
-			"107fbf5f-475d-40b9-a9bc-08c9b6e38182"
+			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
 		],
-		"deleted": 1,
-		"types": [
-			"kerndoel_vakleergebied"
-		]
+		"description": ""
 	},
 	{
-		"id": "1ea11dd4-1b40-46e6-853a-d3c584163c5d",
-		"title": "Uitstroomprofielen vso",
-		"kerndoel_uitstroomprofiel_id": [
-			"9f47a004-8a83-4108-8d10-0fc282837b1c",
-			"14066279-b193-4704-b377-2a1cf639943f",
-			"4bad9adc-f69d-4ff4-8ac6-11d671bd0b96"
+		"id": "d0b6c2f0-834b-4465-87e2-96f685bf9251",
+		"title": "Biologie",
+		"description": "",
+		"vakleergebied_id": [
+			"41dd7292-3cce-411b-8097-11db8c875a89"
 		],
-		"deleted": 1,
-		"types": [
-			"kerndoel_vakleergebied"
-		]
-	},
-	{
-		"id": "d9b9cc45-14d7-4001-b7e7-e0dc402dce80",
-		"title": "Vervolgonderwijs; Arbeidsmarkt; Dagbesteding",
 		"kerndoel_id": [
-			"ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
-			"df68701e-38c2-4566-8090-d7d77ff97a83",
-			"ac7ef88b-8488-4063-b469-ee6617f8ee63",
-			"70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc",
-			"3502e44e-78e7-4766-aaf5-5a7cbc8ab330",
-			"70101196-23ec-4bf8-917e-2886436b2b35",
-			"e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0",
-			"161a016a-7115-4127-aa63-1074a434b181",
-			"5b90f4ab-71bc-4951-9099-2f9ff166c41d",
-			"121ca959-3df5-43b7-bd4a-1134ea7dcaf6",
-			"77185597-05d1-42b2-9488-39917a061673"
+			"2de22d5b-8896-4338-a202-519119b58c56",
+			"1095e038-a147-4b0a-bbfa-a202789744da",
+			"c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
+			"ae2a7b51-65e1-4186-b4ec-8355dba8cb80",
+			"3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
+			"518b5749-dbe3-4e31-a139-f520752566e4",
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca",
+			"e652ff27-3b26-4820-8d7b-32e9d38836e1"
 		]
 	},
 	{
-		"id": "7714b401-1470-47ff-ab87-0cf06b9c4fd0",
+		"id": "4f66e180-be7e-448e-891b-698a71a3e9bc",
+		"title": "Aardrijkskunde",
+		"description": "",
+		"kerndoel_id": [
+			"4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
+			"89dafb2b-df9c-4f05-af37-1468f91983d1",
+			"59065228-97c2-487c-9db3-a6d4242fc633",
+			"f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"558eddfb-ea01-4241-a1b4-7474053f4cf4",
+			"86568021-9ee9-4a2d-beb1-9199ca5d2fca",
+			"a8dda688-7a0d-47fb-97f0-0a7c907270c0",
+			"ea07385d-c3b0-4799-90e1-8d57977d3a69",
+			"64bd24e0-c49b-45af-90cc-e989759dd94d",
+			"099b0ca4-9564-41f9-8859-973fd65df18e",
+			"78c38b49-0bfe-431a-87bf-eac142147d46",
+			"002dc7dd-7582-4623-b79a-ceed1ddab6a8",
+			"98bc12df-5acd-4dde-9025-0f8252d78ad7",
+			"fa88e106-d644-413b-8540-eef66e67bc1f",
+			"f8329751-78d9-4d89-846e-8496d2581f5b",
+			"2b0a35b8-f7e1-47cc-8c9b-5bfd807c3240"
+		],
+		"vakleergebied_id": [
+			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
+		],
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		]
+	},
+	{
+		"id": "dc52b358-54f9-464e-80c6-83562b35588d",
+		"title": "Geschiedenis",
+		"kerndoel_id": [
+			"8acd5003-003c-4705-be24-1eb03ca73699",
+			"e2a2a741-5b36-4aff-8acc-9523fba6af5e",
+			"c6af9dc7-efee-4cb3-83b2-bf5c54512238",
+			"558eddfb-ea01-4241-a1b4-7474053f4cf4",
+			"86568021-9ee9-4a2d-beb1-9199ca5d2fca",
+			"a8dda688-7a0d-47fb-97f0-0a7c907270c0",
+			"ea07385d-c3b0-4799-90e1-8d57977d3a69",
+			"64bd24e0-c49b-45af-90cc-e989759dd94d",
+			"099b0ca4-9564-41f9-8859-973fd65df18e",
+			"78c38b49-0bfe-431a-87bf-eac142147d46",
+			"002dc7dd-7582-4623-b79a-ceed1ddab6a8",
+			"98bc12df-5acd-4dde-9025-0f8252d78ad7",
+			"fa88e106-d644-413b-8540-eef66e67bc1f",
+			"f8329751-78d9-4d89-846e-8496d2581f5b",
+			"2b0a35b8-f7e1-47cc-8c9b-5bfd807c3240"
+		],
+		"vakleergebied_id": [
+			"1c445505-16f2-4d3f-b6cf-8623ca317140"
+		]
+	},
+	{
+		"id": "5a55acd6-f1e6-4601-93db-0b3e4998d31b",
+		"title": "Natuurkunde",
+		"vakleergebied_id": [
+			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
+		],
+		"kerndoel_id": [
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca"
+		]
+	},
+	{
+		"id": "08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
+		"title": "Techniek",
+		"vakleergebied_id": [
+			"977fea53-fb3b-4349-a81a-7bf903a152af"
+		],
+		"kerndoel_id": [
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca"
+		]
+	},
+	{
+		"id": "aac61729-e10c-4110-9f0e-9776ca169903",
+		"title": "Scheikunde",
+		"vakleergebied_id": [
+			"364c2519-7d9e-47d8-b3bd-371cee8583df"
+		],
+		"kerndoel_id": [
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca"
+		]
+	},
+	{
+		"id": "3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
+		"title": "Natuur- en scheikunde I",
+		"description": "",
+		"vakleergebied_id": [
+			"b362c478-90c9-45ac-855a-79421d23ed07"
+		],
+		"kerndoel_id": [
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca"
+		]
+	},
+	{
+		"id": "f9938156-9298-4d76-a7ee-a673178af70e",
+		"title": "Economie",
+		"description": "",
+		"vakleergebied_id": [
+			"8755f202-3f28-405d-929e-990ee4fdc521"
+		],
+		"kerndoel_id": [
+			"558eddfb-ea01-4241-a1b4-7474053f4cf4",
+			"86568021-9ee9-4a2d-beb1-9199ca5d2fca",
+			"a8dda688-7a0d-47fb-97f0-0a7c907270c0",
+			"ea07385d-c3b0-4799-90e1-8d57977d3a69",
+			"64bd24e0-c49b-45af-90cc-e989759dd94d",
+			"099b0ca4-9564-41f9-8859-973fd65df18e",
+			"78c38b49-0bfe-431a-87bf-eac142147d46",
+			"002dc7dd-7582-4623-b79a-ceed1ddab6a8",
+			"98bc12df-5acd-4dde-9025-0f8252d78ad7",
+			"fa88e106-d644-413b-8540-eef66e67bc1f",
+			"f8329751-78d9-4d89-846e-8496d2581f5b",
+			"2b0a35b8-f7e1-47cc-8c9b-5bfd807c3240"
+		]
+	},
+	{
+		"id": "f8358bc7-bc26-4174-87c0-77c6629869c8",
 		"title": "Voorbereiding op arbeid",
 		"kerndoel_id": [
 			"a59a0231-58c7-4ffb-8dd0-2a27dceba148",
@@ -77,12 +266,14 @@
 			"c4a535ed-e4dc-4ba3-a253-110b31427eed"
 		],
 		"vakleergebied_id": [
-			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
+			"7889c3c1-8e9d-4d4a-9707-e876a6be441a"
 		],
-		"dirty": "1"
+		"replaces": [
+			"7714b401-1470-47ff-ab87-0cf06b9c4fd0"
+		]
 	},
 	{
-		"id": "1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca",
+		"id": "1edf2193-645b-43c9-b43c-4454bfeece38",
 		"title": "Voorbereiding op dagbesteding",
 		"kerndoel_id": [
 			"02088a74-17e5-48bd-86ac-8097584c6113",
@@ -101,21 +292,23 @@
 		"vakleergebied_id": [
 			"d743552d-dfcf-48fe-a3a1-9f6229755708"
 		],
-		"dirty": "1"
+		"replaces": [
+			"1bfe5cbf-d38e-4e1f-ba1c-ae5fc702caca"
+		]
 	},
 	{
 		"title": "Bewegen en sport",
-		"id": "0ed2e256-da25-44e2-876e-9c3e357a2a79",
+		"id": "43f3e359-2778-458d-b688-1057f71416ab",
 		"vakleergebied_id": [
-			"f7bbb238-929b-4f7e-b147-3b082baf2ddc"
+			"20aba7d3-d063-4d54-aa7c-a6e41e5cb16b"
 		],
 		"kerndoel_id": [
-			"9d0ed5bd-c111-4d8a-8386-317d5dc2ac5e",
-			"34ec276c-7e3f-4f05-b4e3-3159f931244a",
-			"07861cce-c1cc-4efb-af46-c36a76062ceb",
-			"71a175d5-24a5-4b48-9244-4a8afed1221e",
-			"74b6ba50-c633-48ff-8494-de317a4e18eb",
-			"05abd22d-1e69-4aa1-9d56-f78e63d6e0af",
+			"7a9afa6f-d91e-4b5a-ae8e-1e82f5ec2c7f",
+			"dfc624c0-a766-44f5-ae4e-9949337ad27b",
+			"b8d5a36f-d75f-42a4-a2d5-c2345a5a7b94",
+			"2e14b3c0-04cf-43fa-b8dc-2abcf0f5720a",
+			"292dbcc7-c029-40a5-82aa-ea1c06a91bcb",
+			"a5d03e32-1f28-4049-819f-5229a7da699d",
 			"106f47ba-580f-43fc-acdc-db19fcb29db4",
 			"47b7926b-ae7a-4146-9a2f-7bb86464bd99",
 			"739bc1a0-8a9d-4870-8148-4a7dfea30dbb",
@@ -131,31 +324,32 @@
 			"9ae6a9fb-0b91-4290-9f01-99d2dacbaaed",
 			"237248d3-ddac-49d4-88f6-a094f7090eb9"
 		],
-		"dirty": "1"
+		"replaces": [
+			"0ed2e256-da25-44e2-876e-9c3e357a2a79"
+		]
 	},
 	{
-		"id": "41236270-1d6f-46e4-bb9c-1e0f06726437",
+		"id": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
 		"title": "Nederlands",
 		"kerndoel_domein_id": [
-			"183cc03d-0441-4e29-bc99-7a63973b29bc",
-			"cc11787b-7f49-475d-842b-d41953602571",
-			"d6ffbf14-08e6-43c0-9312-22f62ec140b2"
+			"fcdae226-0095-4eec-8584-96919df2b2d1",
+			"4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"34d6bd9c-565c-45fe-9b21-d6497cd3f0d1"
 		],
 		"vakleergebied_id": [
 			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
 		],
-		"dirty": "1",
 		"kerndoel_id": [
-			"fe8cc1d3-38ad-4de9-a3f4-3d820285241a",
-			"e0e5fddd-99e6-41f7-9556-127943919374",
-			"87dd91e0-446f-4a5a-870b-74e00dd3b438",
-			"65efb2f8-72b1-44c9-b4e2-eebc87534e92",
-			"460f9814-41e2-4b45-8c8d-32b71590ace8",
-			"ca8436e3-c9d2-4650-abe1-4a4e410f17ce",
-			"2e5a3623-a7c4-4276-a293-7293dbfa9ea5",
-			"27f784a1-b3fc-4811-a2cb-1f28d6b08e69",
-			"b6a9ddbb-ff6c-49dd-b9a7-8ab59c09176c",
-			"767abc3a-a5b3-4cc9-ab87-c5404cf87e7e",
+			"bd54ffca-45c2-457e-9f48-651e6a121332",
+			"93f8577e-74c9-4357-b02d-75abdb0762ff",
+			"bfce0140-e664-4c29-8e17-7a045b03d6f4",
+			"e566f28b-7d92-4f4f-8a8c-0e5c844d3b24",
+			"c7faa76d-b823-41f4-b868-0042234adcf8",
+			"0cc4836e-1dc3-45ca-ba73-11c839a0e2c9",
+			"f1f662b1-ed18-403b-9e1c-23712915961d",
+			"11365e7f-ce64-4b37-9a0e-a2a16dc6f397",
+			"cbd4ade3-157f-4d38-aae2-ff3b72cdd839",
+			"281ab061-ddb9-4791-ace3-768628eb98e1",
 			"41f817e1-e743-4e04-819f-76429801c1e9",
 			"3967df0b-be30-4f74-9553-2a63213785c4",
 			"d0fc39a3-71ba-4578-a717-c82af1945e3c",
@@ -179,35 +373,37 @@
 			"9ce0a17d-cc6f-4443-8a8b-00567c4c6f12",
 			"d78f6437-c5fb-4fcf-bb13-eccaba72cb85",
 			"81de4604-5a7c-4ebe-a4ae-82f6171615f6"
+		],
+		"replaces": [
+			"41236270-1d6f-46e4-bb9c-1e0f06726437"
 		]
 	},
 	{
 		"title": "Rekenen en wiskunde",
-		"id": "545b1f8a-77e7-480c-bd0f-623ece62faee",
+		"id": "b6224471-366b-47c1-a35a-e41203ca356d",
 		"kerndoel_domein_id": [
-			"3dfcefa2-3a4e-4d36-bd3e-861b34bfbeac",
-			"467b116e-438e-40ca-b310-9657575fed92",
-			"133814cc-0c31-4385-9018-3da1489c9e20"
+			"3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"4ce80c28-7ca0-4718-b301-6c5fd61e57d5"
 		],
 		"vakleergebied_id": [
-			"d8384a70-755e-4fb8-b4e8-424f617caa89"
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
 		],
-		"dirty": "1",
 		"kerndoel_id": [
 			"d7dbdc00-5043-4276-8a94-4ee735003bfa",
 			"03570d3a-d328-4c94-9d4b-90d366f39302",
 			"e70be7be-2141-4053-9d81-32a4e2e36ed1",
 			"a9df5770-860a-41a5-8e83-11941c0849c6",
 			"c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
-			"13d9f45f-1511-4b8b-99b9-9de67b2bad00",
-			"341478a8-f989-4dd1-9ac6-2d8dbd9ac5f8",
-			"e68c363f-8caf-4e9f-b729-12cb0e0e7c46",
-			"f82de175-d5d2-4fba-8a4e-bac6494f83ae",
-			"52552e12-a168-4431-8ef8-d90462c7ad25",
-			"61e826e8-519d-428a-9f82-90e791d474b7",
-			"070cf703-9914-492d-8893-0a39ccec17db",
-			"cef093c3-1809-4f37-96ab-a986dce94599",
-			"f23a0fc6-5b0a-4cea-a982-4562520eada3",
+			"e7493653-7879-4239-96bf-61d286419cd0",
+			"148c452a-7914-46d5-9707-2e03408b21a4",
+			"bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+			"958cdbbd-933c-446a-b64f-eeef1a9bc087",
+			"67576835-17d8-4f43-a636-829d3e0d7671",
+			"83026f39-9d22-4822-b43e-5c65ac812506",
+			"5832c312-85a0-4db5-b836-fec0dbb791a0",
+			"1e3af19f-b357-4bb4-b495-93357397e8c2",
+			"f515e0a8-27ff-413c-adfb-b9c63de2bd39",
 			"967883b6-e137-4709-92a0-feeebd9093ba",
 			"100e80ce-cf5e-4dff-b23e-09371a073b47",
 			"2e7ab641-7625-4800-9d02-03a4b7b6fd24",
@@ -222,10 +418,13 @@
 			"a4434fd6-0efd-4451-9395-c10cf07ae67b",
 			"de9c1793-b2e7-4808-8e9b-e78ec26e3225",
 			"bc4b39c5-968b-4ba4-b9b9-026112504b6e"
+		],
+		"replaces": [
+			"545b1f8a-77e7-480c-bd0f-623ece62faee"
 		]
 	},
 	{
-		"id": "68bc0428-d73f-40aa-9a11-676ed996c4a1",
+		"id": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
 		"title": "Fries",
 		"kerndoel_domein_id": [
 			"5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
@@ -233,9 +432,8 @@
 			"bae14315-61e3-4b3a-8b80-936a3d6c754e"
 		],
 		"vakleergebied_id": [
-			"eaabd632-abdd-499d-9d72-cdfaa4bff2eb"
+			"6e29642b-d99d-4085-8dc5-971cabb6b693"
 		],
-		"dirty": "1",
 		"kerndoel_id": [
 			"995032a1-de4a-4a07-988c-b8c7c2de197b",
 			"b2e4a065-2dda-4a1e-aa20-40d0da1cfc45",
@@ -244,43 +442,47 @@
 			"d53370af-1b9c-4e00-bf8d-c17f3c078f74",
 			"60dd1636-925e-4de3-a0c7-76fe77816f76",
 			"e1ea3c39-8ecd-48a5-96e9-2d8a2f720397"
+		],
+		"replaces": [
+			"68bc0428-d73f-40aa-9a11-676ed996c4a1"
 		]
 	},
 	{
 		"title": "Kunst en cultuur",
-		"id": "e27097a1-ef9e-4768-b3f1-030c5ab67b81",
+		"id": "32e14739-46ce-464f-a904-d7816939ab3c",
 		"vakleergebied_id": [
 			"cef3bf40-8f21-4eea-8ce5-b3360b21023e"
 		],
 		"kerndoel_id": [
-			"7da3a86c-29b8-4c65-8a6c-894b2e65c5fc",
-			"61bc5488-34f9-4271-86f3-dca2cba615a3",
-			"563df93f-8f84-4c9a-a10b-8fdbf0773790",
-			"26f2e674-ca2e-489d-b5ee-18b3a9b17065",
-			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
+			"30b3a944-4b2a-4316-9eb5-506291270aa7",
+			"03961779-f1c6-4071-ae98-13446e8c4a59",
+			"5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+			"6d41186f-bcad-4697-8b98-cee942446864",
+			"349ddcb7-7bf8-4fb4-abf0-ce24159502aa"
 		],
-		"dirty": "1"
+		"replaces": [
+			"e27097a1-ef9e-4768-b3f1-030c5ab67b81"
+		]
 	},
 	{
-		"id": "87456ff4-d1f1-4c45-89f0-ec9623210819",
+		"id": "c0770de9-6234-48e6-879d-bb4af7eff0a7",
 		"title": "Engels",
 		"vakleergebied_id": [
 			"cfaf3202-4c14-4f7e-b783-91ad1dc93779"
 		],
-		"dirty": "1",
 		"kerndoel_id": [
 			"f7032363-a75d-4e9e-abc8-6fba2eb976d0",
 			"7ec34151-af9f-46b3-ba7f-841672f00705",
 			"1fa773c2-2e84-41e0-9a45-ab5f6d4af705",
 			"c2071a4a-288d-4bfd-97b8-0cd9d68ff5c2",
-			"18bd6259-e20b-41da-97c2-09cb9a2f346d",
-			"6437bb04-d8e4-42ca-9e7d-62dde3e5f8e6",
-			"6a30268a-1139-4e85-9669-a17ccb6254e0",
-			"beedaf27-e6ff-45c1-9a92-27a21ffb9a65",
-			"3d889c52-dc81-4122-b06a-89fd18c5a04e",
-			"4583fece-09a8-4397-9f5a-fba24a04c346",
-			"dac6e07d-6e4e-4929-a2aa-a577ff8bd866",
-			"220d2156-e2c0-4957-85b3-e11544c64585",
+			"c91c3e54-8c68-4613-9254-47371f377729",
+			"25eede46-d8f5-4b1d-b978-d0bd5e1e7b34",
+			"53593cb1-75c1-43e6-8384-21e959635856",
+			"7fd48be1-dbb2-48b2-a552-1caf9b6dda26",
+			"9005d120-dbcf-4119-b8a7-887d7e5eeff3",
+			"3d885d5c-6361-4d8e-91f3-f82786a9e7de",
+			"d18d0886-f335-45ff-83fe-8534c01c4ebe",
+			"96d34706-8713-422a-a8c7-c46fc9341f9d",
 			"d46ee7dd-0d43-4a93-a9cc-328c534c5182",
 			"7891902e-94ef-46c6-ab20-8ffda18dd7a1",
 			"7d4c4b30-f87e-4dec-bb45-1b3c1ed848d0",
@@ -292,46 +494,30 @@
 			"65256452-b22c-4804-a0c9-f42e2398c418",
 			"162c3454-06a7-42ff-b28a-2458e4301635",
 			"b130b3f4-9158-4372-af78-e53730c75c9a"
+		],
+		"replaces": [
+			"87456ff4-d1f1-4c45-89f0-ec9623210819"
 		]
 	},
 	{
-		"id": "41050bb3-7d86-430d-9053-a174b2cfb926",
+		"id": "3b11db01-d97d-4370-ad85-3a0f7f082339",
 		"title": "Oriëntatie op jezelf en de wereld",
 		"description": "",
 		"kerndoel_domein_id": [
-			"897c3e21-7119-476c-b6ce-df39ca8c4cdd",
-			"30c1417d-35a5-48d6-9633-91bbd545bb62",
-			"be63a2e1-85b9-4624-8274-88ab794f58b4",
-			"35e64e7b-2a0b-4002-b045-f3dccba8bf2f"
+			"350f95ee-4676-456c-bcf1-b290ec163e13",
+			"358bdd33-05dd-4656-a298-5ad717784cd8",
+			"97c7d1f4-64b3-4283-b7a0-24bebfb70a1d",
+			"b916ca8c-da6e-44df-a93a-f37e3228507d"
 		],
 		"vakleergebied_id": [
 			"682218a8-0e89-4d4c-938c-36629a474e7c"
 		],
-		"dirty": "1"
-	},
-	{
-		"id": "7db219e7-9831-4ad5-9e41-84304fd5b8b1",
-		"title": "Leergebied overstijgende vaardigheden",
-		"vakleergebied_id": [
-			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
-		],
-		"description": "",
-		"kerndoel_domein_id": [
-			"a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
-			"5180ff07-6896-4609-9fa6-0b2114d48a08",
-			"6907960d-8d80-4f59-9efe-1a9514ed6c7a",
-			"34b38772-411e-4df9-a1cd-007ec4887a9d",
-			"34f06215-9423-475a-a53c-b80368e59674",
-			"2386176a-920c-40ec-8329-7ed842b53ed4"
-		],
-		"dirty": "1",
-		"deleted": 1,
-		"types": [
-			"kerndoel_vakleergebied"
+		"replaces": [
+			"41050bb3-7d86-430d-9053-a174b2cfb926"
 		]
 	},
 	{
-		"id": "ae4426b3-ff20-44c5-87da-7d2ac3dbede2",
+		"id": "77ef2933-c9b9-4d6b-94ad-2c9753173347",
 		"title": "Mens, natuur en techniek",
 		"description": "",
 		"vakleergebied_id": [
@@ -357,84 +543,55 @@
 			"74f96327-2fce-409c-a950-102d4b728e43",
 			"a4f2be99-b1fe-4de4-8c2f-e1386db3b115"
 		],
-		"dirty": "1"
-	},
-	{
-		"id": "e42e3c9a-3c68-4695-abf5-286aba386cf0",
-		"title": "Culturele oriëntatie en creatieve expressie",
-		"vakleergebied_id": [
-			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
-		],
-		"kerndoel_id": [
-			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
-			"11daa22f-87cf-4977-a658-577b6d108897",
-			"00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
-			"97c1063a-fc68-40da-ba5a-514ef1181b56",
-			"f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
-			"e5fb087e-5be7-407b-8be8-4d0bd1e51361",
-			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
-			"a75649e7-7c87-4e8c-9319-76b149ee9266"
-		],
-		"dirty": "1",
-		"deleted": 1,
-		"types": [
-			"kerndoel_vakleergebied"
+		"replaces": [
+			"ae4426b3-ff20-44c5-87da-7d2ac3dbede2"
 		]
 	},
 	{
-		"id": "6b8f39f1-ead6-4aa3-8091-cc35df1269ae",
-		"title": "Voorbereiding op arbeid",
-		"vakleergebied_id": [
-			"d5f0872e-59c0-44da-949d-790ea0b0fa10"
-		],
-		"dirty": "1",
-		"deleted": 1,
-		"types": [
-			"kerndoel_vakleergebied"
-		]
-	},
-	{
-		"id": "f1300638-14e7-42f8-8e4f-5b372ff919c5",
+		"id": "f8699dd7-abab-4d87-9ea6-acfeaf7d5d6a",
 		"title": "Kunstzinnige oriëntatie",
 		"description": "",
 		"vakleergebied_id": [
-			"7cbe5862-b2d0-4760-a6c7-715e6fb953f3"
+			"60133458-f6b1-4a6e-8e62-ea5ff0b8e9b7"
 		],
-		"dirty": "1",
 		"kerndoel_domein_id": [
-			"768baaa6-aa8f-4e9f-807d-8d3524310ced",
-			"1d952e57-02c3-4168-9709-70c2628144dc",
-			"577f5d88-e6e2-42fa-bf06-d347aab0f670",
+			"afaa5ea0-15c5-4282-9df2-b8857c9fa030",
+			"55762a19-956f-4870-8693-65a5f4959965",
+			"00552e63-405d-4568-8d75-02d594d27a78",
 			"ceafd213-2ece-46d4-a9fc-9eb330646b7f"
 		],
 		"kerndoel_id": [
 			"c4e8c51c-144b-4a76-bff5-09337c03ab63",
 			"d619232e-394a-4c8c-b607-e94c36bfd48f",
 			"7555bcba-47e9-41d2-b04a-5a3623062146"
+		],
+		"replaces": [
+			"f1300638-14e7-42f8-8e4f-5b372ff919c5"
 		]
 	},
 	{
-		"id": "cb36e642-f12f-4a19-b349-3b76cfe98bcd",
+		"id": "16026593-20f7-44de-9832-158bf7763dac",
 		"title": "Mens en maatschappij",
 		"vakleergebied_id": [
 			"8ee02a5b-5e70-4260-b104-96538d8d0cb0"
 		],
 		"replaces": [
-			"02d2f065-3527-4001-99b6-52a9080f943f"
+			"02d2f065-3527-4001-99b6-52a9080f943f",
+			"cb36e642-f12f-4a19-b349-3b76cfe98bcd"
 		],
 		"kerndoel_id": [
-			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
-			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
-			"27fefa0d-c620-436b-84cb-205af17325ec",
-			"6458ab99-7837-450f-8685-308b46997112",
-			"bf7f6585-907f-4df6-8345-83a229ff7b71",
-			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
-			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
-			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-			"f63a2618-8cc9-4b37-88da-6446204ce67a",
-			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
-			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
-			"b8552f53-4a3e-414a-ae6a-3b891c972a97",
+			"558eddfb-ea01-4241-a1b4-7474053f4cf4",
+			"86568021-9ee9-4a2d-beb1-9199ca5d2fca",
+			"a8dda688-7a0d-47fb-97f0-0a7c907270c0",
+			"ea07385d-c3b0-4799-90e1-8d57977d3a69",
+			"64bd24e0-c49b-45af-90cc-e989759dd94d",
+			"099b0ca4-9564-41f9-8859-973fd65df18e",
+			"78c38b49-0bfe-431a-87bf-eac142147d46",
+			"002dc7dd-7582-4623-b79a-ceed1ddab6a8",
+			"98bc12df-5acd-4dde-9025-0f8252d78ad7",
+			"fa88e106-d644-413b-8540-eef66e67bc1f",
+			"f8329751-78d9-4d89-846e-8496d2581f5b",
+			"2b0a35b8-f7e1-47cc-8c9b-5bfd807c3240",
 			"d07b0271-6ef4-48a8-a30f-c8ac576ddb2c",
 			"c749cfa8-63c8-48ce-8ede-8011fe9da56b",
 			"93c6a469-ef1b-456a-aa73-53599d857535",
@@ -451,269 +608,47 @@
 			"418aa20e-7472-4004-af52-16eb838b56bc",
 			"24985cf7-5162-45a4-8e8a-0ca219b323a4",
 			"e8dea3fe-0481-44b6-ae28-b006ca6a73e2"
-		],
-		"dirty": "1"
+		]
 	},
 	{
-		"id": "15e18b07-03b7-452c-8823-a177fd30b6f9",
+		"id": "c155e2a9-3142-4392-b125-73e83bd0d9cd",
 		"title": "Mens en natuur",
 		"vakleergebied_id": [
 			"2795bfff-8566-4e69-b70c-12efba965dc8"
 		],
 		"replaces": [
-			"661346ca-7ca3-4da9-90a4-35f8103f38c3"
+			"661346ca-7ca3-4da9-90a4-35f8103f38c3",
+			"15e18b07-03b7-452c-8823-a177fd30b6f9"
 		],
 		"kerndoel_id": [
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		],
-		"dirty": "1"
-	},
-	{
-		"id": "a77a3196-fae2-47ee-9a0d-54d5b42158e1",
-		"title": "Bewegingsonderwijs",
-		"description": "",
-		"vakleergebied_id": [
-			"9d6793a3-a5d6-4719-9ad3-24b5677bec26"
-		],
-		"kerndoel_id": [
-			"8b4cb0d1-0a99-42fc-8ad9-2e13a2bd482f",
-			"4b63c87d-59d4-4c7b-a609-8097ef7c5591",
-			"3c0b7b5e-31e2-4afd-bda4-0a96ec4c5ce7",
-			"54884ae0-a2fd-4ce8-8daf-fb3e6e3bb157",
-			"c1b66081-6c6e-4095-bcf4-319f24ef70fa",
-			"ae744880-7c0a-43ad-ab1f-aa03b85f69df",
-			"4096fb33-296d-4188-a4c0-f342fa10a453",
-			"85f21855-47e1-48fe-8bd2-3ef92b640bca",
-			"daa55b5d-eeb1-4746-870b-d98188c026ae",
-			"0e7e9529-3399-44e2-abbb-9270a1b44047",
-			"b6e1bb8d-0096-4137-bccd-b1ce50f4717c",
-			"27566350-fb41-40ae-915c-6f4463e3b64d"
-		],
-		"dirty": "1"
-	},
-	{
-		"id": "fdf92977-964c-4e7f-bea1-f8b7c24b0029",
-		"dirty": "1",
-		"title": "Culturele oriëntatie en creatieve expressie",
-		"vakleergebied_id": [
-			"7bf5c28d-1f56-45a6-aee8-6ed8aeadfd1e"
-		],
-		"kerndoel_id": [
-			"2bc84641-d7e9-43c8-a850-ab884b8ee58f",
-			"11daa22f-87cf-4977-a658-577b6d108897",
-			"00c5b0d3-47e6-478f-a5d8-0a6f974a071b",
-			"97c1063a-fc68-40da-ba5a-514ef1181b56",
-			"f3116dd5-69cf-4125-a4e2-7cc62bda35dc",
-			"e5fb087e-5be7-407b-8be8-4d0bd1e51361",
-			"3133af89-0809-4ea8-bc89-bc5dc871e6f0",
-			"a75649e7-7c87-4e8c-9319-76b149ee9266",
-			"7da3a86c-29b8-4c65-8a6c-894b2e65c5fc",
-			"61bc5488-34f9-4271-86f3-dca2cba615a3",
-			"563df93f-8f84-4c9a-a10b-8fdbf0773790",
-			"26f2e674-ca2e-489d-b5ee-18b3a9b17065",
-			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
+			"dc3e5cb7-b3c7-4642-9689-830a8f665842",
+			"859cce23-d24d-420f-b98f-736ffa9c9a05",
+			"814fa096-dae0-4590-9f2c-81476ec39f08",
+			"cc7113ed-5284-4a62-85a2-e312de34eac9",
+			"21096fba-b47f-414b-a250-ed7ee45093cd",
+			"da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+			"561d6f8d-5b09-4c75-903c-898616ac9428",
+			"02ce1808-de2c-4d9c-abd9-d3a13e732eca"
 		]
 	},
 	{
-		"id": "dfbf1896-ca9d-4ca7-b757-4eca7f162d52",
-		"dirty": "1",
-		"title": "Leergebied overstijgende vaardigheden",
-		"kerndoel_domein_id": [
-			"a31f0a25-d987-4d2e-b4cf-3e76e962b2c1",
-			"5180ff07-6896-4609-9fa6-0b2114d48a08",
-			"6907960d-8d80-4f59-9efe-1a9514ed6c7a",
-			"34b38772-411e-4df9-a1cd-007ec4887a9d",
-			"34f06215-9423-475a-a53c-b80368e59674",
-			"2386176a-920c-40ec-8329-7ed842b53ed4",
-			"cc93153d-9c83-492f-8285-0cf31c2d0e52",
-			"8b1eff8c-62ea-4b15-bce5-15079d734adc",
-			"f1f6a9d9-29a9-441f-a0ba-b1f6b202e5b0"
-		],
-		"vakleergebied_id": [
-			"5ffd2181-dc31-4e54-b3eb-3da3e72b673e"
-		],
-		"description": ""
-	},
-	{
-		"id": "d0b6c2f0-834b-4465-87e2-96f685bf9251",
-		"title": "Biologie",
-		"description": "",
-		"vakleergebied_id": [
-			"41dd7292-3cce-411b-8097-11db8c875a89"
-		],
+		"id": "53eb92a2-852f-4304-8c2b-6cb459a69fdd",
+		"title": "Vervolgonderwijs; Arbeidsmarkt; Dagbesteding",
 		"kerndoel_id": [
-			"d803cf62-cf7e-404c-b650-8c7543534b6d",
-			"1095e038-a147-4b0a-bbfa-a202789744da",
-			"c3d8c8c0-0f94-4dec-8ce6-f52fab27158f",
-			"efc344e0-4651-4c07-ad61-0091cb7aa69f",
-			"3d12e0ca-bca7-4b78-a8ed-f4699570fb12",
-			"518b5749-dbe3-4e31-a139-f520752566e4",
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e",
-			"e652ff27-3b26-4820-8d7b-32e9d38836e1"
+			"ea054d60-12e3-4f5e-a2c4-9f25a3201dd1",
+			"b167b0a4-02fa-4fd4-af72-9884622e00fc",
+			"0c3bae8e-cd42-4960-847c-69ea39746df8",
+			"cee77f5f-4add-4d92-91a6-73c868c7088d",
+			"b21b715d-d58c-4b48-833d-77e059b37d0d",
+			"ee1c3c3c-428d-4e2b-9403-5d0b41005fcf",
+			"b754e187-f69c-4552-a600-fd04113c2862",
+			"64aab690-ab86-4663-8cb1-b284fc4650ba",
+			"e31be1e7-5d94-4f1f-913c-350d9fbbaca2",
+			"c9e46fa3-eac2-440c-8c59-cdd116d17025",
+			"fec7012f-2380-41e3-b33f-9667810becd0"
 		],
-		"dirty": "1"
-	},
-	{
-		"id": "4f66e180-be7e-448e-891b-698a71a3e9bc",
-		"title": "Aardrijkskunde",
-		"description": "",
-		"kerndoel_id": [
-			"4fb0176d-c4b4-4455-9cce-d43b6c1a9ac8",
-			"89dafb2b-df9c-4f05-af37-1468f91983d1",
-			"59065228-97c2-487c-9db3-a6d4242fc633",
-			"f2bacf1a-e6f9-4556-a1b9-54960a50df4b",
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
-			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
-			"27fefa0d-c620-436b-84cb-205af17325ec",
-			"6458ab99-7837-450f-8685-308b46997112",
-			"bf7f6585-907f-4df6-8345-83a229ff7b71",
-			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
-			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
-			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-			"f63a2618-8cc9-4b37-88da-6446204ce67a",
-			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
-			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
-			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
-		],
-		"vakleergebied_id": [
-			"6ed6fb6f-5cd5-40d1-945d-1f02af6a79da"
-		],
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		]
-	},
-	{
-		"id": "dc52b358-54f9-464e-80c6-83562b35588d",
-		"title": "Geschiedenis",
-		"kerndoel_id": [
-			"e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30",
-			"e2a2a741-5b36-4aff-8acc-9523fba6af5e",
-			"c6af9dc7-efee-4cb3-83b2-bf5c54512238",
-			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
-			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
-			"27fefa0d-c620-436b-84cb-205af17325ec",
-			"6458ab99-7837-450f-8685-308b46997112",
-			"bf7f6585-907f-4df6-8345-83a229ff7b71",
-			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
-			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
-			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-			"f63a2618-8cc9-4b37-88da-6446204ce67a",
-			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
-			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
-			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
-		],
-		"vakleergebied_id": [
-			"1c445505-16f2-4d3f-b6cf-8623ca317140"
-		]
-	},
-	{
-		"id": "5a55acd6-f1e6-4601-93db-0b3e4998d31b",
-		"title": "Natuurkunde",
-		"vakleergebied_id": [
-			"e14b7d76-d5f5-4788-a9e1-bf35269a72d8"
-		],
-		"kerndoel_id": [
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		]
-	},
-	{
-		"id": "08cb1ff1-aebc-45a5-8023-c3d4bc235caf",
-		"title": "Techniek",
-		"vakleergebied_id": [
-			"977fea53-fb3b-4349-a81a-7bf903a152af"
-		],
-		"kerndoel_id": [
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		]
-	},
-	{
-		"id": "aac61729-e10c-4110-9f0e-9776ca169903",
-		"title": "Scheikunde",
-		"vakleergebied_id": [
-			"364c2519-7d9e-47d8-b3bd-371cee8583df"
-		],
-		"kerndoel_id": [
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		]
-	},
-	{
-		"id": "3e47e5ba-07bb-4c22-b68e-71c311eb7c69",
-		"title": "Natuur- en scheikunde I",
-		"description": "",
-		"vakleergebied_id": [
-			"b362c478-90c9-45ac-855a-79421d23ed07"
-		],
-		"kerndoel_id": [
-			"477f29ac-dfd9-4497-8456-95956422a44e",
-			"fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-			"78311c70-18be-4a17-aeec-16fbe3cb7566",
-			"d357271b-3cfd-40c4-881d-084b71ca05c8",
-			"faa2483a-4230-432a-ab81-67437ff58a99",
-			"0d102eae-8853-43a3-8788-5e26d80564b7",
-			"306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
-		]
-	},
-	{
-		"id": "f9938156-9298-4d76-a7ee-a673178af70e",
-		"title": "Economie",
-		"description": "",
-		"vakleergebied_id": [
-			"8755f202-3f28-405d-929e-990ee4fdc521"
-		],
-		"kerndoel_id": [
-			"d1442e43-ed68-4bfb-9987-343aab2cff4d",
-			"4fd020d4-272c-46c8-a35a-ca2539d040a7",
-			"27fefa0d-c620-436b-84cb-205af17325ec",
-			"6458ab99-7837-450f-8685-308b46997112",
-			"bf7f6585-907f-4df6-8345-83a229ff7b71",
-			"7f3b8b96-587d-48e3-98dd-3892032f1e66",
-			"4e29b8e5-0186-4cad-8750-d91e3d45808a",
-			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-			"f63a2618-8cc9-4b37-88da-6446204ce67a",
-			"f58aa6e2-cf4b-47d3-b226-113e54e440db",
-			"935d1aa8-d00a-4495-bea2-c39f6212bf75",
-			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
+		"replaces": [
+			"d9b9cc45-14d7-4001-b7e7-e0dc402dce80"
 		]
 	}
 ]

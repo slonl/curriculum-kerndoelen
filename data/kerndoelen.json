@@ -486,17 +486,6 @@
 		]
 	},
 	{
-		"prefix": "PO Kerndoel 40",
-		"id": "d803cf62-cf7e-404c-b650-8c7543534b6d",
-		"kerndoelLabel": "Planten en dieren herkennen",
-		"title": "De leerlingen leren in de eigen omgeving veel voorkomende planten en dieren onderscheiden en benoemen en leren hoe ze functioneren in hun leefomgeving.",
-		"description": "Planten en dieren herkennen",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "PO Kerndoel 41",
 		"id": "1095e038-a147-4b0a-bbfa-a202789744da",
 		"kerndoelLabel": "Bouw van organismen",
@@ -519,17 +508,6 @@
 			"0a3d23df-1758-439b-b219-cd2854cc639b",
 			"5edad2fa-2cf0-4701-93d9-97edbe06ac02"
 		]
-	},
-	{
-		"prefix": "PO Kerndoel 43",
-		"id": "efc344e0-4651-4c07-ad61-0091cb7aa69f",
-		"kerndoelLabel": "Weer en klimaat",
-		"title": "De leerlingen leren hoe je weer en klimaat kunt beschrijven met behulp van temperatuur, neerslag en wind.",
-		"description": "Weer en klimaat",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "PO Kerndoel 44",
@@ -623,17 +601,6 @@
 		]
 	},
 	{
-		"prefix": "PO Kerndoel 51",
-		"id": "e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30",
-		"kerndoelLabel": "Historische bronnen",
-		"title": "De leerlingen leren gebruik te maken van eenvoudige historische bronnen, zoals aanwezig in ons cultureel erfgoed, en ze leren aanduidingen van tijd en tijdsindeling te hanteren.",
-		"description": "Historische bronnen",
-		"niveau_id": [
-			"512e4729-03a4-43a2-95ba-758071d1b725"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "PO Kerndoel 52",
 		"id": "e2a2a741-5b36-4aff-8acc-9523fba6af5e",
 		"kerndoelLabel": "Tijdvakken",
@@ -718,702 +685,6 @@
 			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
 			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
 		]
-	},
-	{
-		"prefix": "VO Kerndoel 01",
-		"id": "fe8cc1d3-38ad-4de9-a3f4-3d820285241a",
-		"description": "Spreken en schrijven",
-		"title": "De leerling leert zich mondeling en schriftelijk begrijpelijk uit te drukken.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Spreken en schrijven",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 02",
-		"id": "e0e5fddd-99e6-41f7-9556-127943919374",
-		"description": "Correct taalgebruik",
-		"title": "De leerling leert zich te houden aan conventies (spelling, grammaticaal correcte zinnen, woordgebruik) en leert het belang van die conventies te zien.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Correct taalgebruik",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 03",
-		"id": "87dd91e0-446f-4a5a-870b-74e00dd3b438",
-		"description": "Woordverwerving",
-		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn woordenschat.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Woordverwerving",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 04",
-		"id": "65efb2f8-72b1-44c9-b4e2-eebc87534e92",
-		"description": "Lezen en luisteren",
-		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven teksten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Lezen en luisteren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 05",
-		"id": "460f9814-41e2-4b45-8c8d-32b71590ace8",
-		"kerndoelLabel": "Omgaan met informatiebronnen",
-		"title": "De leerling leert in schriftelijke en digitale bronnen informatie te zoeken, deze informatie te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
-		"description": "Omgaan met informatiebronnen",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 06",
-		"id": "ca8436e3-c9d2-4650-abe1-4a4e410f17ce",
-		"description": "Overleg, planning en discussie",
-		"title": "De leerling leert deel te nemen aan overleg, planning, discussie in een groep.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Overleg, planning, discussie",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 07",
-		"id": "2e5a3623-a7c4-4276-a293-7293dbfa9ea5",
-		"description": "Presenteren",
-		"title": "De leerling leert een mondelinge presentatie te geven.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Presenteren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 08",
-		"id": "27f784a1-b3fc-4811-a2cb-1f28d6b08e69",
-		"description": "Fictie en non-fictie",
-		"title": "De leerling leert verhalen, gedichten en informatieve teksten te lezen die aan zijn belangstelling tegemoet komen en zijn belevingswereld uitbreiden.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Fictie en non-fictie",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 09",
-		"id": "b6a9ddbb-ff6c-49dd-b9a7-8ab59c09176c",
-		"description": "Planmatig werken met taal",
-		"title": "De leerling leert taalactiviteiten (spreken, luisteren, schrijven en lezen) planmatig voor te bereiden en uit te voeren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Planmatig werken met taal",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 10",
-		"id": "767abc3a-a5b3-4cc9-ab87-c5404cf87e7e",
-		"description": "Reflectie op eigen taalgebruik",
-		"title": "De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Reflectie op eigen taalgebruik",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 11",
-		"id": "18bd6259-e20b-41da-97c2-09cb9a2f346d",
-		"description": "Luistervaardigheid",
-		"title": "De leerling leert verder vertrouwd te raken met de klank van het Engels door veel te luisteren naar gesproken en gezongen teksten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Luistervaardigheid",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 12",
-		"id": "6437bb04-d8e4-42ca-9e7d-62dde3e5f8e6",
-		"description": "Woordverwerving",
-		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn Engelse woordenschat.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Woordverwerving",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 13",
-		"id": "6a30268a-1139-4e85-9669-a17ccb6254e0",
-		"description": "Lezen en luisteren",
-		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven Engelstalige teksten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Lezen en luisteren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 14",
-		"id": "beedaf27-e6ff-45c1-9a92-27a21ffb9a65",
-		"description": "Omgaan met informatiebronnen",
-		"title": "De leerling leert in Engelstalige schriftelijke en digitale bronnen informatie te zoeken, te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Omgaan met informatiebronnen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 15",
-		"id": "3d889c52-dc81-4122-b06a-89fd18c5a04e",
-		"description": "Informele gesprekken",
-		"title": "De leerling leert in spreektaal anderen een beeld te geven van zijn dagelijks leven.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Informele gesprekken",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 16",
-		"id": "4583fece-09a8-4397-9f5a-fba24a04c346",
-		"description": "Standaardgesprekken",
-		"title": "De leerling leert standaardgesprekken te voeren om iets te kopen, inlichtingen te vragen en om hulp te vragen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Standaardgesprekken",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 17",
-		"id": "dac6e07d-6e4e-4929-a2aa-a577ff8bd866",
-		"description": "Contact via internet",
-		"title": "De leerling leert informeel contact in het Engels te onderhouden via e-mail, brief en chatten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Contact via internet",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 18",
-		"id": "220d2156-e2c0-4957-85b3-e11544c64585",
-		"description": "Engels als wereldtaal",
-		"title": "De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Engels als wereldtaal",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 19",
-		"id": "13d9f45f-1511-4b8b-99b9-9de67b2bad00",
-		"description": "Wiskundetaal ontwikkelen",
-		"title": "De leerling leert passende wiskundetaal te gebruiken voor het ordenen van het eigen denken en voor uitleg aan anderen en leert de wiskundetaal van anderen te begrijpen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Wiskundetaal ontwikkelen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 20",
-		"id": "341478a8-f989-4dd1-9ac6-2d8dbd9ac5f8",
-		"description": "Wiskunde gebruiken in praktische situaties",
-		"title": "De leerling leert alleen en in samenwerking met anderen in praktische situaties wiskunde te herkennen en te gebruiken om problemen op te lossen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Wiskunde gebruiken in praktische situaties",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 21",
-		"id": "e68c363f-8caf-4e9f-b729-12cb0e0e7c46",
-		"description": "Wiskundig redeneren",
-		"title": "De leerling leert een wiskundige argumentatie op te zetten en te onderscheiden van meningen en beweringen en leert daarbij met respect voor ieders denkwijze wiskundige kritiek te geven en te krijgen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Wiskundig redeneren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 22",
-		"id": "f82de175-d5d2-4fba-8a4e-bac6494f83ae",
-		"description": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
-		"title": "De leerling leert de structuur en de samenhang te doorzien van positieve en negatieve getallen, decimale getallen, breuken, procenten en verhoudingen en leert ermee te werken in zinvolle en praktische situaties.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 23",
-		"id": "52552e12-a168-4431-8ef8-d90462c7ad25",
-		"title": "De leerling leert exact en schattend rekenen en redeneren op basis van inzicht in nauwkeurigheid, orde van grootte, en marges die in een gegeven situatie passend zijn.",
-		"description": "Exact en schattend rekenen",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Exact en schattend rekenen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 24",
-		"id": "61e826e8-519d-428a-9f82-90e791d474b7",
-		"description": "Meten en metriek stelsel",
-		"title": "De leerling leert meten, leert structuur en samenhang doorzien van het metriek stelsel en leert rekenen met maten voor grootheden die gangbaar zijn in relevante toepassingen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Meten en metriek stelsel",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 25",
-		"id": "070cf703-9914-492d-8893-0a39ccec17db",
-		"description": "Verbanden visualiseren en formaliseren",
-		"title": "De leerling leert informele notaties, schematische voorstellingen, tabellen, grafieken en formules te gebruiken om greep te krijgen op verbanden tussen grootheden en variabelen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Verbanden visualiseren en formaliseren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 26",
-		"id": "cef093c3-1809-4f37-96ab-a986dce94599",
-		"description": "Werken met en redeneren over vormen",
-		"title": "De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren en leert met hun eigenschappen en afmetingen te rekenen en redeneren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Werken met en redeneren over vormen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 27",
-		"id": "f23a0fc6-5b0a-4cea-a982-4562520eada3",
-		"description": "Ordenen van gegevens",
-		"title": "De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren en leert gegevens, representaties en conclusies kritisch te beoordelen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Ordenen van gegevens",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 28",
-		"id": "477f29ac-dfd9-4497-8456-95956422a44e",
-		"description": "Onderzoek leren doen",
-		"title": "De leerling leert vragen over onderwerpen uit het brede leergebied om te zetten in onderzoeksvragen, een dergelijk onderzoek over een natuurwetenschappelijk onderwerp uit te voeren en de uitkomsten daarvan te presenteren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Onderzoek leren doen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 29",
-		"id": "fc3d9260-29f1-4c37-ae6f-82340c86aa02",
-		"description": "Sleutelbegrippen",
-		"title": "De leerling leert kennis te verwerven over en inzicht te verkrijgen in sleutelbegrippen uit het gebied van de levende en niet-levende natuur, en leert deze sleutelbegrippen te verbinden met situaties in het dagelijks leven.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Sleutelbegrippen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 30",
-		"id": "78311c70-18be-4a17-aeec-16fbe3cb7566",
-		"description": "Het milieu",
-		"title": "De leerling leert dat mensen, dieren en planten in wisselwerking staan met elkaar en hun omgeving (milieu), en dat technologische en natuurwetenschappelijke toepassingen de duurzame kwaliteit daarvan zowel positief als negatief kunnen beïnvloeden.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Het milieu",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 31",
-		"id": "d357271b-3cfd-40c4-881d-084b71ca05c8",
-		"description": "Processen in de natuur",
-		"title": "De leerling leert o.a. door praktisch werk kennis te verwerven over en inzicht te verkrijgen in processen uit de levende en niet-levende natuur en hun relatie met omgeving en milieu.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Processen in de natuur",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 32",
-		"id": "faa2483a-4230-432a-ab81-67437ff58a99",
-		"description": "Theorieën en modellen",
-		"title": "De leerling leert te werken met theorieën en modellen door onderzoek te doen naar natuurkundige en scheikundige verschijnselen als elektriciteit, geluid, licht, beweging, energie en materie.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Theorieën en modellen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 33",
-		"id": "0d102eae-8853-43a3-8788-5e26d80564b7",
-		"description": "Techniek",
-		"title": "De leerling leert door onderzoek kennis te verwerven over voor hem relevante technische producten en systemen, leert deze kennis naar waarde te schatten en op planmatige wijze een technisch product te ontwerpen en te maken.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Techniek",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 34",
-		"id": "306aa6e6-aafd-42d1-85cf-43e967a11a7a",
-		"description": "Lichaam en gezondheid",
-		"title": "De leerling leert hoofdzaken te begrijpen van bouw en functie van het menselijk lichaam, verbanden te leggen met het bevorderen van lichamelijke en psychische gezondheid, en daarin een eigen verantwoordelijkheid te nemen",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Lichaam en gezondheid",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 35",
-		"id": "3755689a-68eb-4ebc-8de8-e8f2c714300e",
-		"description": "Zorg en veiligheid",
-		"title": "De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Zorg en veiligheid",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 36",
-		"id": "d1442e43-ed68-4bfb-9987-343aab2cff4d",
-		"description": "Meningvorming",
-		"title": "De leerling leert betekenisvolle vragen te stellen over maatschappelijke kwesties en verschijnselen, daarover een beargumenteerd standpunt in te nemen en te verdedigen, en daarbij respectvol met kritiek om te gaan.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Meningvorming",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 37",
-		"id": "4fd020d4-272c-46c8-a35a-ca2539d040a7",
-		"description": "Historische basiskennis",
-		"title": "De leerling leert een kader van tien tijdvakken te gebruiken om gebeurtenissen, ontwikkelingen en personen in hun tijd te plaatsen. De leerling leert hierbij over belangrijke historische personen en gebeurtenissen en over kenmerkende aspecten van de volgende tijdvakken: tijd van jagers en boeren (prehistorie tot 50 v. Chr.), tijd van Grieken en Romeinen (3000 v. Chr. - 500 na Chr.), tijd van monniken en ridders (500 - 1000), tijd van steden en staten (1000 - 1500), tijd van ontdekkers en hervormers (1500 - 1600), tijd van regenten en vorsten (1600 - 1700), tijd van pruiken en revoluties (1700 - 1800), tijd van burgers en stoommachines (1800 - 1900), tijd van wereldoorlogen (1900 - 1950), tijd van televisie en computer (1950 - heden).De leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen.\nDe leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Historische basiskennis",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 38",
-		"id": "27fefa0d-c620-436b-84cb-205af17325ec",
-		"description": "Geografische basiskennis",
-		"title": "De leerling leert een eigentijds beeld van de eigen omgeving, Nederland, Europa en de wereld te gebruiken om verschijnselen en ontwikkelingen in hun eigen omgeving te plaatsen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Geografische basiskennis",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 39",
-		"id": "6458ab99-7837-450f-8685-308b46997112",
-		"description": "Onderzoek leren doen",
-		"title": "De leerling leert een eenvoudig onderzoek uit te voeren naar een actueel maatschappelijk verschijnsel en de uitkomsten daarvan te presenteren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Onderzoek leren doen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 40",
-		"id": "bf7f6585-907f-4df6-8345-83a229ff7b71",
-		"description": "Omgaan met historische bronnen",
-		"title": "De leerling leert historische bronnen te gebruiken om zich een beeld van een tijdvak te vormen of antwoorden te vinden op vragen, en hij leert daarbij ook de eigen cultuurhistorische omgeving te betrekken.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Omgaan met historische bronnen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 41",
-		"id": "7f3b8b96-587d-48e3-98dd-3892032f1e66",
-		"description": "Omgaan met atlas en kaarten",
-		"title": "De leerling leert de atlas als informatiebron te gebruiken en kaarten te lezen en te analyseren om zich te oriënteren, zich een beeld van een gebied te vormen of antwoorden op vragen te vinden.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Omgaan met atlas en kaarten",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 42",
-		"id": "4e29b8e5-0186-4cad-8750-d91e3d45808a",
-		"description": "Inzicht in de eigen omgeving",
-		"title": "De leerling leert in eigen ervaringen en in de eigen omgeving effecten te herkennen van keuzes op het gebied van werk en zorg, wonen en recreëren, consumeren en budgetteren, verkeer en milieu.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Inzicht in de eigen omgeving",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 43",
-		"id": "cbc82fec-0045-4096-99e8-ae4b7fddf9b9",
-		"description": "Cultuurverschillen in Nederland",
-		"title": "De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert de betekenis voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met de diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Cultuurverschillen in Nederland",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 44",
-		"id": "f63a2618-8cc9-4b37-88da-6446204ce67a",
-		"description": "De politiek",
-		"title": "De leerling leert op hoofdlijnen hoe het Nederlandse politieke bestel als democratie functioneert en leert zien hoe mensen op verschillende manieren bij politieke processen betrokken zijn.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "De politiek",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 45",
-		"id": "f58aa6e2-cf4b-47d3-b226-113e54e440db",
-		"description": "Europese samenwerking",
-		"title": "De leerling leert de betekenis van Europese samenwerking en de Europese Unie te begrijpen voor zichzelf, Nederland en de wereld.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Europese samenwerking",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 46",
-		"id": "935d1aa8-d00a-4495-bea2-c39f6212bf75",
-		"description": "Arm en rijk",
-		"title": "De leerling leert over de verdeling van welvaart en armoede over de wereld, hij leert de betekenis daarvan te zien voor de bevolking en het milieu en relaties te leggen met het (eigen) leven in Nederland.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Arm en rijk",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 47",
-		"id": "b8552f53-4a3e-414a-ae6a-3b891c972a97",
-		"description": "Oorlog, vrede en mensenrechten",
-		"title": "De leerling leert actuele spanningen, conflicten en oorlogen in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking te zien.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Oorlog, vrede en mensenrechten",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 48",
-		"id": "7da3a86c-29b8-4c65-8a6c-894b2e65c5fc",
-		"description": "Produceren van kunst",
-		"title": "De leerling leert door het gebruik van elementaire vaardigheden de zeggingskracht van verschillende kunstzinnige disciplines te onderzoeken en toe te passen om eigen gevoelens uit te drukken, ervaringen vast te leggen, verbeelding vorm te geven en communicatie te bewerkstelligen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Produceren van kunst",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 49",
-		"id": "61bc5488-34f9-4271-86f3-dca2cba615a3",
-		"description": "Eigen kunstzinnig werk presenteren",
-		"title": "De leerling leert eigen kunstzinnig werk, alleen of als deelnemer in een groep, aan derden te presenteren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 50",
-		"id": "563df93f-8f84-4c9a-a10b-8fdbf0773790",
-		"description": "Leren kijken en luisteren naar kunst",
-		"title": "De leerling leert, op grond van enige achtergrondkennis, te kijken naar beeldende kunst, te luisteren naar muziek en te kijken en luisteren naar theater-, dans- en filmvoorstellingen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Leren kijken en luisteren naar kunst",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 51",
-		"id": "26f2e674-ca2e-489d-b5ee-18b3a9b17065",
-		"description": "Verslag doen van ervaringen",
-		"title": "De leerling leert, met behulp van visuele of auditieve middelen, verslag te doen van deelname aan kunstzinnige activiteiten (als toeschouwer en als deelnemer).",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Verslag doen van ervaringen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 52",
-		"id": "7043ce15-61fd-473a-9d76-9cf3aa8fb284",
-		"description": "Reflecteren op kunstzinnig werk",
-		"title": "De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder kunstenaars.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Reflecteren op kunstzinnig werk",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 53",
-		"id": "9d0ed5bd-c111-4d8a-8386-317d5dc2ac5e",
-		"description": "Bewegen beleven",
-		"title": "De leerling leert zich mede met het oog op buitenschoolse beoefening op praktische wijze te oriënteren op veel verschillende bewegingsactiviteiten uit gevarieerde gebieden als spel, turnen, atletiek, bewegen op muziek, zelfverdediging en actuele ontwikkelingen in de bewegingscultuur, en daarin de eigen mogelijkheden te verkennen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Bewegen beleven. Oriënteren op bewegingsactiviteiten",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 54",
-		"id": "34ec276c-7e3f-4f05-b4e3-3159f931244a",
-		"description": "Bewegen verbeteren",
-		"title": "De leerling leert door middel van uitdagende bewegingssituaties zijn bewegingsrepertoire uit te breiden.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Bewegen verbeteren. Uitbreiding van bewegingsrepertoire",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 55",
-		"id": "07861cce-c1cc-4efb-af46-c36a76062ceb",
-		"description": "Bewegen verbeteren",
-		"title": "De leerling leert de hoofdbeginselen van de bewegingsactiviteiten op eigen niveau toe te passen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Bewegen verbeteren.Toepassen van bewegingsprincipes",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 56",
-		"id": "71a175d5-24a5-4b48-9244-4a8afed1221e",
-		"description": "Bewegen beleven",
-		"title": "De leerling leert tijdens bewegingsactiviteiten sportief te zijn, rekening te houden met de mogelijkheden en voorkeuren van anderen, en respect en zorg te hebben voor elkaar.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Bewegen beleven. Omgaan met anderen",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 57",
-		"id": "74b6ba50-c633-48ff-8494-de317a4e18eb",
-		"description": "Bewegen regelen",
-		"title": "De leerling leert eenvoudige regelende taken te vervullen die het mogelijk maken, zelfstandig en samen met andere leerlingen bewegingsactiviteiten te beoefenen.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Bewegen regelen. Regelen en organiseren",
-		"dirty": "1"
-	},
-	{
-		"prefix": "VO Kerndoel 58",
-		"id": "05abd22d-1e69-4aa1-9d56-f78e63d6e0af",
-		"description": "Gezond bewegen",
-		"title": "De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.",
-		"niveau_id": [
-			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"kerndoelLabel": "Gezond bewegen",
-		"dirty": "1"
 	},
 	{
 		"prefix": "SO nl/ml Kerndoel LO 1",
@@ -1963,34 +1234,6 @@
 		"tag_id": [
 			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
-	},
-	{
-		"prefix": "SO nl/ml Kerndoel LS 47",
-		"id": "54e49a11-cd0a-4519-ac01-7b8ec5d4d763",
-		"kerndoelLabel": "Meetkundige problemen",
-		"title": "De leerlingen leren eenvoudige meetkundige problemen op te lossen.",
-		"description": "Meetkundige problemen",
-		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "SO nl/ml Kerndoel LS 48",
-		"id": "903da933-56e3-4f36-a9fb-8cc69c5ff453",
-		"kerndoelLabel": "Meten en rekenen",
-		"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
-		"description": "Meten en rekenen",
-		"niveau_id": [
-			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
-		],
-		"dirty": "1"
 	},
 	{
 		"prefix": "SO nl/ml Kerndoel LS 49",
@@ -3335,176 +2578,6 @@
 		]
 	},
 	{
-		"prefix": "VSO Kerndoel LO 2",
-		"id": "df68701e-38c2-4566-8090-d7d77ff97a83",
-		"kerndoelLabel": "Leren leren, stellen van doelen en planmatig leren",
-		"description": "Leren leren, stellen van doelen en planmatig leren",
-		"title": "De leerling leert doelgericht en planmatig te leren en daarbij strategieën te gebruiken.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 3",
-		"id": "ac7ef88b-8488-4063-b469-ee6617f8ee63",
-		"kerndoelLabel": "Leren leren, informatie zoeken, beoordelen en gebruiken",
-		"description": "Leren leren, informatie zoeken, beoordelen en gebruiken",
-		"title": "De leerling leert verschillende soorten informatie te zoeken, te beoordelen en te gebruiken.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 4",
-		"id": "70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc",
-		"kerndoelLabel": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
-		"description": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
-		"title": "De leerling leert op basis van feiten een mening te vormen, deze adequaat te uiten en respectvol om te gaan met andere meningen.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 5",
-		"id": "3502e44e-78e7-4766-aaf5-5a7cbc8ab330",
-		"kerndoelLabel": "Leren taken uitvoeren, praktisch redzaam en weerbaar gedrag",
-		"description": "Leren taken uitvoeren, praktisch redzaam en weerbaar gedrag",
-		"title": "De leerling leert zich redzaam en weerbaar te gedragen bij de uitvoering van dagelijkse activiteiten.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 6",
-		"id": "70101196-23ec-4bf8-917e-2886436b2b35",
-		"kerndoelLabel": "Leren taken uitvoeren, doelgericht en methodisch taken uitvoeren",
-		"description": "Leren taken uitvoeren, doelgericht en methodisch taken uitvoeren",
-		"title": "De leerling leert op doelgerichte, planmatige en methodische wijze taken en activiteiten uit te voeren.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 7",
-		"id": "e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0",
-		"kerndoelLabel": "Leren taken uitvoeren, samenwerken aan een taak of activiteit",
-		"description": "Leren taken uitvoeren, samenwerken aan een taak of activiteit",
-		"title": "De leerling leert samen te werken aan een taak of activiteit.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 8",
-		"id": "161a016a-7115-4127-aa63-1074a434b181",
-		"kerndoelLabel": "Leren functioneren in sociale situaties, zelfbeeld en ontwikkeling van zelfvertrouwen",
-		"description": "Leren functioneren in sociale situaties, zelfbeeld en ontwikkeling van zelfvertrouwen",
-		"title": "De leerling leert op adequate wijze om te gaan met eigen gevoelens en wensen.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 9",
-		"id": "5b90f4ab-71bc-4951-9099-2f9ff166c41d",
-		"kerndoelLabel": "Leren functioneren in sociale situaties, sociaal gedrag en omgaan met verschillen tussen mensen",
-		"description": "Leren functioneren in sociale situaties, sociaal gedrag en omgaan met verschillen tussen mensen",
-		"title": "De leerling leert respectvol en verantwoordelijk om te gaan met anderen.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 10",
-		"id": "121ca959-3df5-43b7-bd4a-1134ea7dcaf6",
-		"kerndoelLabel": "Ontwikkelen van een persoonlijk toekomstperspectief, zelfbeeld en zicht op eigen toekomstmogelijkheden",
-		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, zelfbeeld en zicht op eigen toekomstmogelijkheden",
-		"title": "De leerling krijgt zicht op de eigen voorkeuren, interesses en toekomstwensen op het gebied van werken, wonen, vrije tijd en burgerschap.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
-		"prefix": "VSO Kerndoel LO 11",
-		"id": "77185597-05d1-42b2-9488-39917a061673",
-		"kerndoelLabel": "Ontwikkelen van een persoonlijk toekomstperspectief, keuzes maken, motivatie deze na te streven en ondersteuning daarbij vinden",
-		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, keuzes maken, motivatie deze na te streven en ondersteuning daarbij vinden",
-		"title": "De leerling leert afwegingen en keuzes te maken die leiden tot een passend persoonlijk toekomstperspectief, met realiseerbare mogelijkheden en kansen.",
-		"niveau_id": [
-			"dbbc3e87-a848-4425-912a-d494e43e5e59",
-			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
-			"bdc4744f-79df-4795-8795-2fee50c7416a",
-			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
-		"dirty": "1"
-	},
-	{
 		"prefix": "VSO Kerndoel AM 12",
 		"id": "4fb8ad0d-26bf-4b66-bb1e-69b36cd9b54a",
 		"kerndoelLabel": "Luisteren",
@@ -4752,6 +3825,1079 @@
 		"description": "Informele gesprekken voeren",
 		"niveau_id": [
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d"
+		]
+	},
+	{
+		"prefix": "PO Kerndoel 40",
+		"id": "2de22d5b-8896-4338-a202-519119b58c56",
+		"kerndoelLabel": "Planten en dieren herkennen",
+		"title": "De leerlingen leren in de eigen omgeving veel voorkomende planten en dieren onderscheiden en benoemen en leren hoe ze functioneren in hun leefomgeving.",
+		"description": "Planten en dieren herkennen",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"replaces": [
+			"d803cf62-cf7e-404c-b650-8c7543534b6d"
+		]
+	},
+	{
+		"prefix": "PO Kerndoel 43",
+		"id": "ae2a7b51-65e1-4186-b4ec-8355dba8cb80",
+		"kerndoelLabel": "Weer en klimaat",
+		"title": "De leerlingen leren hoe je weer en klimaat kunt beschrijven met behulp van temperatuur, neerslag en wind.",
+		"description": "Weer en klimaat",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"replaces": [
+			"efc344e0-4651-4c07-ad61-0091cb7aa69f"
+		]
+	},
+	{
+		"prefix": "PO Kerndoel 51",
+		"id": "8acd5003-003c-4705-be24-1eb03ca73699",
+		"kerndoelLabel": "Historische bronnen",
+		"title": "De leerlingen leren gebruik te maken van eenvoudige historische bronnen, zoals aanwezig in ons cultureel erfgoed, en ze leren aanduidingen van tijd en tijdsindeling te hanteren.",
+		"description": "Historische bronnen",
+		"niveau_id": [
+			"512e4729-03a4-43a2-95ba-758071d1b725"
+		],
+		"replaces": [
+			"e93ea3f8-e21a-4a8a-b3b9-4ac005fe5f30"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 01",
+		"id": "bd54ffca-45c2-457e-9f48-651e6a121332",
+		"description": "Spreken en schrijven",
+		"title": "De leerling leert zich mondeling en schriftelijk begrijpelijk uit te drukken.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Spreken en schrijven",
+		"replaces": [
+			"fe8cc1d3-38ad-4de9-a3f4-3d820285241a"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 02",
+		"id": "93f8577e-74c9-4357-b02d-75abdb0762ff",
+		"description": "Correct taalgebruik",
+		"title": "De leerling leert zich te houden aan conventies (spelling, grammaticaal correcte zinnen, woordgebruik) en leert het belang van die conventies te zien.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Correct taalgebruik",
+		"replaces": [
+			"e0e5fddd-99e6-41f7-9556-127943919374"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 03",
+		"id": "bfce0140-e664-4c29-8e17-7a045b03d6f4",
+		"description": "Woordverwerving",
+		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn woordenschat.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Woordverwerving",
+		"replaces": [
+			"87dd91e0-446f-4a5a-870b-74e00dd3b438"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 04",
+		"id": "e566f28b-7d92-4f4f-8a8c-0e5c844d3b24",
+		"description": "Lezen en luisteren",
+		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven teksten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Lezen en luisteren",
+		"replaces": [
+			"65efb2f8-72b1-44c9-b4e2-eebc87534e92"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 05",
+		"id": "c7faa76d-b823-41f4-b868-0042234adcf8",
+		"kerndoelLabel": "Omgaan met informatiebronnen",
+		"title": "De leerling leert in schriftelijke en digitale bronnen informatie te zoeken, deze informatie te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
+		"description": "Omgaan met informatiebronnen",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"replaces": [
+			"460f9814-41e2-4b45-8c8d-32b71590ace8"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 06",
+		"id": "0cc4836e-1dc3-45ca-ba73-11c839a0e2c9",
+		"description": "Overleg, planning en discussie",
+		"title": "De leerling leert deel te nemen aan overleg, planning, discussie in een groep.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Overleg, planning, discussie",
+		"replaces": [
+			"ca8436e3-c9d2-4650-abe1-4a4e410f17ce"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 07",
+		"id": "f1f662b1-ed18-403b-9e1c-23712915961d",
+		"description": "Presenteren",
+		"title": "De leerling leert een mondelinge presentatie te geven.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Presenteren",
+		"replaces": [
+			"2e5a3623-a7c4-4276-a293-7293dbfa9ea5"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 08",
+		"id": "11365e7f-ce64-4b37-9a0e-a2a16dc6f397",
+		"description": "Fictie en non-fictie",
+		"title": "De leerling leert verhalen, gedichten en informatieve teksten te lezen die aan zijn belangstelling tegemoet komen en zijn belevingswereld uitbreiden.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Fictie en non-fictie",
+		"replaces": [
+			"27f784a1-b3fc-4811-a2cb-1f28d6b08e69"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 09",
+		"id": "cbd4ade3-157f-4d38-aae2-ff3b72cdd839",
+		"description": "Planmatig werken met taal",
+		"title": "De leerling leert taalactiviteiten (spreken, luisteren, schrijven en lezen) planmatig voor te bereiden en uit te voeren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Planmatig werken met taal",
+		"replaces": [
+			"b6a9ddbb-ff6c-49dd-b9a7-8ab59c09176c"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 10",
+		"id": "281ab061-ddb9-4791-ace3-768628eb98e1",
+		"description": "Reflectie op eigen taalgebruik",
+		"title": "De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Reflectie op eigen taalgebruik",
+		"replaces": [
+			"767abc3a-a5b3-4cc9-ab87-c5404cf87e7e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 11",
+		"id": "c91c3e54-8c68-4613-9254-47371f377729",
+		"description": "Luistervaardigheid",
+		"title": "De leerling leert verder vertrouwd te raken met de klank van het Engels door veel te luisteren naar gesproken en gezongen teksten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Luistervaardigheid",
+		"replaces": [
+			"18bd6259-e20b-41da-97c2-09cb9a2f346d"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 12",
+		"id": "25eede46-d8f5-4b1d-b978-d0bd5e1e7b34",
+		"description": "Woordverwerving",
+		"title": "De leerling leert strategieën te gebruiken voor het uitbreiden van zijn Engelse woordenschat.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Woordverwerving",
+		"replaces": [
+			"6437bb04-d8e4-42ca-9e7d-62dde3e5f8e6"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 13",
+		"id": "53593cb1-75c1-43e6-8384-21e959635856",
+		"description": "Lezen en luisteren",
+		"title": "De leerling leert strategieën te gebruiken bij het verwerven van informatie uit gesproken en geschreven Engelstalige teksten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Lezen en luisteren",
+		"replaces": [
+			"6a30268a-1139-4e85-9669-a17ccb6254e0"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 14",
+		"id": "7fd48be1-dbb2-48b2-a552-1caf9b6dda26",
+		"description": "Omgaan met informatiebronnen",
+		"title": "De leerling leert in Engelstalige schriftelijke en digitale bronnen informatie te zoeken, te ordenen en te beoordelen op waarde voor hemzelf en anderen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Omgaan met informatiebronnen",
+		"replaces": [
+			"beedaf27-e6ff-45c1-9a92-27a21ffb9a65"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 15",
+		"id": "9005d120-dbcf-4119-b8a7-887d7e5eeff3",
+		"description": "Informele gesprekken",
+		"title": "De leerling leert in spreektaal anderen een beeld te geven van zijn dagelijks leven.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Informele gesprekken",
+		"replaces": [
+			"3d889c52-dc81-4122-b06a-89fd18c5a04e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 16",
+		"id": "3d885d5c-6361-4d8e-91f3-f82786a9e7de",
+		"description": "Standaardgesprekken",
+		"title": "De leerling leert standaardgesprekken te voeren om iets te kopen, inlichtingen te vragen en om hulp te vragen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Standaardgesprekken",
+		"replaces": [
+			"4583fece-09a8-4397-9f5a-fba24a04c346"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 17",
+		"id": "d18d0886-f335-45ff-83fe-8534c01c4ebe",
+		"description": "Contact via internet",
+		"title": "De leerling leert informeel contact in het Engels te onderhouden via e-mail, brief en chatten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Contact via internet",
+		"replaces": [
+			"dac6e07d-6e4e-4929-a2aa-a577ff8bd866"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 18",
+		"id": "96d34706-8713-422a-a8c7-c46fc9341f9d",
+		"description": "Engels als wereldtaal",
+		"title": "De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Engels als wereldtaal",
+		"replaces": [
+			"220d2156-e2c0-4957-85b3-e11544c64585"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 19",
+		"id": "e7493653-7879-4239-96bf-61d286419cd0",
+		"description": "Wiskundetaal ontwikkelen",
+		"title": "De leerling leert passende wiskundetaal te gebruiken voor het ordenen van het eigen denken en voor uitleg aan anderen en leert de wiskundetaal van anderen te begrijpen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Wiskundetaal ontwikkelen",
+		"replaces": [
+			"13d9f45f-1511-4b8b-99b9-9de67b2bad00"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 20",
+		"id": "148c452a-7914-46d5-9707-2e03408b21a4",
+		"description": "Wiskunde gebruiken in praktische situaties",
+		"title": "De leerling leert alleen en in samenwerking met anderen in praktische situaties wiskunde te herkennen en te gebruiken om problemen op te lossen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Wiskunde gebruiken in praktische situaties",
+		"replaces": [
+			"341478a8-f989-4dd1-9ac6-2d8dbd9ac5f8"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 21",
+		"id": "bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+		"description": "Wiskundig redeneren",
+		"title": "De leerling leert een wiskundige argumentatie op te zetten en te onderscheiden van meningen en beweringen en leert daarbij met respect voor ieders denkwijze wiskundige kritiek te geven en te krijgen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Wiskundig redeneren",
+		"replaces": [
+			"e68c363f-8caf-4e9f-b729-12cb0e0e7c46"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 22",
+		"id": "958cdbbd-933c-446a-b64f-eeef1a9bc087",
+		"description": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
+		"title": "De leerling leert de structuur en de samenhang te doorzien van positieve en negatieve getallen, decimale getallen, breuken, procenten en verhoudingen en leert ermee te werken in zinvolle en praktische situaties.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Rekenstructuren doorzien en rekenbegrippen gebruiken",
+		"replaces": [
+			"f82de175-d5d2-4fba-8a4e-bac6494f83ae"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 23",
+		"id": "67576835-17d8-4f43-a636-829d3e0d7671",
+		"title": "De leerling leert exact en schattend rekenen en redeneren op basis van inzicht in nauwkeurigheid, orde van grootte, en marges die in een gegeven situatie passend zijn.",
+		"description": "Exact en schattend rekenen",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Exact en schattend rekenen",
+		"replaces": [
+			"52552e12-a168-4431-8ef8-d90462c7ad25"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 24",
+		"id": "83026f39-9d22-4822-b43e-5c65ac812506",
+		"description": "Meten en metriek stelsel",
+		"title": "De leerling leert meten, leert structuur en samenhang doorzien van het metriek stelsel en leert rekenen met maten voor grootheden die gangbaar zijn in relevante toepassingen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Meten en metriek stelsel",
+		"replaces": [
+			"61e826e8-519d-428a-9f82-90e791d474b7"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 25",
+		"id": "5832c312-85a0-4db5-b836-fec0dbb791a0",
+		"description": "Verbanden visualiseren en formaliseren",
+		"title": "De leerling leert informele notaties, schematische voorstellingen, tabellen, grafieken en formules te gebruiken om greep te krijgen op verbanden tussen grootheden en variabelen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Verbanden visualiseren en formaliseren",
+		"replaces": [
+			"070cf703-9914-492d-8893-0a39ccec17db"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 26",
+		"id": "1e3af19f-b357-4bb4-b495-93357397e8c2",
+		"description": "Werken met en redeneren over vormen",
+		"title": "De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren en leert met hun eigenschappen en afmetingen te rekenen en redeneren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Werken met en redeneren over vormen",
+		"replaces": [
+			"cef093c3-1809-4f37-96ab-a986dce94599"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 27",
+		"id": "f515e0a8-27ff-413c-adfb-b9c63de2bd39",
+		"description": "Ordenen van gegevens",
+		"title": "De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren en leert gegevens, representaties en conclusies kritisch te beoordelen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Ordenen van gegevens",
+		"replaces": [
+			"f23a0fc6-5b0a-4cea-a982-4562520eada3"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 28",
+		"id": "dc3e5cb7-b3c7-4642-9689-830a8f665842",
+		"description": "Onderzoek leren doen",
+		"title": "De leerling leert vragen over onderwerpen uit het brede leergebied om te zetten in onderzoeksvragen, een dergelijk onderzoek over een natuurwetenschappelijk onderwerp uit te voeren en de uitkomsten daarvan te presenteren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Onderzoek leren doen",
+		"replaces": [
+			"477f29ac-dfd9-4497-8456-95956422a44e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 29",
+		"id": "859cce23-d24d-420f-b98f-736ffa9c9a05",
+		"description": "Sleutelbegrippen",
+		"title": "De leerling leert kennis te verwerven over en inzicht te verkrijgen in sleutelbegrippen uit het gebied van de levende en niet-levende natuur, en leert deze sleutelbegrippen te verbinden met situaties in het dagelijks leven.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Sleutelbegrippen",
+		"replaces": [
+			"fc3d9260-29f1-4c37-ae6f-82340c86aa02"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 30",
+		"id": "814fa096-dae0-4590-9f2c-81476ec39f08",
+		"description": "Het milieu",
+		"title": "De leerling leert dat mensen, dieren en planten in wisselwerking staan met elkaar en hun omgeving (milieu), en dat technologische en natuurwetenschappelijke toepassingen de duurzame kwaliteit daarvan zowel positief als negatief kunnen beïnvloeden.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Het milieu",
+		"replaces": [
+			"78311c70-18be-4a17-aeec-16fbe3cb7566"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 31",
+		"id": "cc7113ed-5284-4a62-85a2-e312de34eac9",
+		"description": "Processen in de natuur",
+		"title": "De leerling leert o.a. door praktisch werk kennis te verwerven over en inzicht te verkrijgen in processen uit de levende en niet-levende natuur en hun relatie met omgeving en milieu.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Processen in de natuur",
+		"replaces": [
+			"d357271b-3cfd-40c4-881d-084b71ca05c8"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 32",
+		"id": "21096fba-b47f-414b-a250-ed7ee45093cd",
+		"description": "Theorieën en modellen",
+		"title": "De leerling leert te werken met theorieën en modellen door onderzoek te doen naar natuurkundige en scheikundige verschijnselen als elektriciteit, geluid, licht, beweging, energie en materie.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Theorieën en modellen",
+		"replaces": [
+			"faa2483a-4230-432a-ab81-67437ff58a99"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 33",
+		"id": "da377c1d-2c4d-4f42-b901-dc9e496dbb4d",
+		"description": "Techniek",
+		"title": "De leerling leert door onderzoek kennis te verwerven over voor hem relevante technische producten en systemen, leert deze kennis naar waarde te schatten en op planmatige wijze een technisch product te ontwerpen en te maken.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Techniek",
+		"replaces": [
+			"0d102eae-8853-43a3-8788-5e26d80564b7"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 34",
+		"id": "561d6f8d-5b09-4c75-903c-898616ac9428",
+		"description": "Lichaam en gezondheid",
+		"title": "De leerling leert hoofdzaken te begrijpen van bouw en functie van het menselijk lichaam, verbanden te leggen met het bevorderen van lichamelijke en psychische gezondheid, en daarin een eigen verantwoordelijkheid te nemen",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Lichaam en gezondheid",
+		"replaces": [
+			"306aa6e6-aafd-42d1-85cf-43e967a11a7a"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 35",
+		"id": "02ce1808-de2c-4d9c-abd9-d3a13e732eca",
+		"description": "Zorg en veiligheid",
+		"title": "De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Zorg en veiligheid",
+		"replaces": [
+			"3755689a-68eb-4ebc-8de8-e8f2c714300e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 36",
+		"id": "558eddfb-ea01-4241-a1b4-7474053f4cf4",
+		"description": "Meningvorming",
+		"title": "De leerling leert betekenisvolle vragen te stellen over maatschappelijke kwesties en verschijnselen, daarover een beargumenteerd standpunt in te nemen en te verdedigen, en daarbij respectvol met kritiek om te gaan.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Meningvorming",
+		"replaces": [
+			"d1442e43-ed68-4bfb-9987-343aab2cff4d"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 37",
+		"id": "86568021-9ee9-4a2d-beb1-9199ca5d2fca",
+		"description": "Historische basiskennis",
+		"title": "De leerling leert een kader van tien tijdvakken te gebruiken om gebeurtenissen, ontwikkelingen en personen in hun tijd te plaatsen. De leerling leert hierbij over belangrijke historische personen en gebeurtenissen en over kenmerkende aspecten van de volgende tijdvakken: tijd van jagers en boeren (prehistorie tot 50 v. Chr.), tijd van Grieken en Romeinen (3000 v. Chr. - 500 na Chr.), tijd van monniken en ridders (500 - 1000), tijd van steden en staten (1000 - 1500), tijd van ontdekkers en hervormers (1500 - 1600), tijd van regenten en vorsten (1600 - 1700), tijd van pruiken en revoluties (1700 - 1800), tijd van burgers en stoommachines (1800 - 1900), tijd van wereldoorlogen (1900 - 1950), tijd van televisie en computer (1950 - heden).De leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen.\nDe leerling leert daarbij in elk geval de relatie te leggen tussen de gebeurtenissen en ontwikkelingen in de 20e eeuw (waaronder de Wereldoorlogen en de Holocaust), en hedendaagse ontwikkelingen. De vensters van de canon van Nederland dienen als uitgangspunt ter illustratie van de tijdvakken.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Historische basiskennis",
+		"replaces": [
+			"4fd020d4-272c-46c8-a35a-ca2539d040a7"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 38",
+		"id": "a8dda688-7a0d-47fb-97f0-0a7c907270c0",
+		"description": "Geografische basiskennis",
+		"title": "De leerling leert een eigentijds beeld van de eigen omgeving, Nederland, Europa en de wereld te gebruiken om verschijnselen en ontwikkelingen in hun eigen omgeving te plaatsen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Geografische basiskennis",
+		"replaces": [
+			"27fefa0d-c620-436b-84cb-205af17325ec"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 39",
+		"id": "ea07385d-c3b0-4799-90e1-8d57977d3a69",
+		"description": "Onderzoek leren doen",
+		"title": "De leerling leert een eenvoudig onderzoek uit te voeren naar een actueel maatschappelijk verschijnsel en de uitkomsten daarvan te presenteren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Onderzoek leren doen",
+		"replaces": [
+			"6458ab99-7837-450f-8685-308b46997112"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 40",
+		"id": "64bd24e0-c49b-45af-90cc-e989759dd94d",
+		"description": "Omgaan met historische bronnen",
+		"title": "De leerling leert historische bronnen te gebruiken om zich een beeld van een tijdvak te vormen of antwoorden te vinden op vragen, en hij leert daarbij ook de eigen cultuurhistorische omgeving te betrekken.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Omgaan met historische bronnen",
+		"replaces": [
+			"bf7f6585-907f-4df6-8345-83a229ff7b71"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 41",
+		"id": "099b0ca4-9564-41f9-8859-973fd65df18e",
+		"description": "Omgaan met atlas en kaarten",
+		"title": "De leerling leert de atlas als informatiebron te gebruiken en kaarten te lezen en te analyseren om zich te oriënteren, zich een beeld van een gebied te vormen of antwoorden op vragen te vinden.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Omgaan met atlas en kaarten",
+		"replaces": [
+			"7f3b8b96-587d-48e3-98dd-3892032f1e66"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 42",
+		"id": "78c38b49-0bfe-431a-87bf-eac142147d46",
+		"description": "Inzicht in de eigen omgeving",
+		"title": "De leerling leert in eigen ervaringen en in de eigen omgeving effecten te herkennen van keuzes op het gebied van werk en zorg, wonen en recreëren, consumeren en budgetteren, verkeer en milieu.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Inzicht in de eigen omgeving",
+		"replaces": [
+			"4e29b8e5-0186-4cad-8750-d91e3d45808a"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 43",
+		"id": "002dc7dd-7582-4623-b79a-ceed1ddab6a8",
+		"description": "Cultuurverschillen in Nederland",
+		"title": "De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert de betekenis voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met de diversiteit binnen de samenleving, waaronder seksuele diversiteit.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Cultuurverschillen in Nederland",
+		"replaces": [
+			"cbc82fec-0045-4096-99e8-ae4b7fddf9b9"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 44",
+		"id": "98bc12df-5acd-4dde-9025-0f8252d78ad7",
+		"description": "De politiek",
+		"title": "De leerling leert op hoofdlijnen hoe het Nederlandse politieke bestel als democratie functioneert en leert zien hoe mensen op verschillende manieren bij politieke processen betrokken zijn.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "De politiek",
+		"replaces": [
+			"f63a2618-8cc9-4b37-88da-6446204ce67a"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 45",
+		"id": "fa88e106-d644-413b-8540-eef66e67bc1f",
+		"description": "Europese samenwerking",
+		"title": "De leerling leert de betekenis van Europese samenwerking en de Europese Unie te begrijpen voor zichzelf, Nederland en de wereld.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Europese samenwerking",
+		"replaces": [
+			"f58aa6e2-cf4b-47d3-b226-113e54e440db"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 46",
+		"id": "f8329751-78d9-4d89-846e-8496d2581f5b",
+		"description": "Arm en rijk",
+		"title": "De leerling leert over de verdeling van welvaart en armoede over de wereld, hij leert de betekenis daarvan te zien voor de bevolking en het milieu en relaties te leggen met het (eigen) leven in Nederland.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Arm en rijk",
+		"replaces": [
+			"935d1aa8-d00a-4495-bea2-c39f6212bf75"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 47",
+		"id": "2b0a35b8-f7e1-47cc-8c9b-5bfd807c3240",
+		"description": "Oorlog, vrede en mensenrechten",
+		"title": "De leerling leert actuele spanningen, conflicten en oorlogen in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking te zien.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Oorlog, vrede en mensenrechten",
+		"replaces": [
+			"b8552f53-4a3e-414a-ae6a-3b891c972a97"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 48",
+		"id": "30b3a944-4b2a-4316-9eb5-506291270aa7",
+		"description": "Produceren van kunst",
+		"title": "De leerling leert door het gebruik van elementaire vaardigheden de zeggingskracht van verschillende kunstzinnige disciplines te onderzoeken en toe te passen om eigen gevoelens uit te drukken, ervaringen vast te leggen, verbeelding vorm te geven en communicatie te bewerkstelligen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Produceren van kunst",
+		"replaces": [
+			"7da3a86c-29b8-4c65-8a6c-894b2e65c5fc"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 49",
+		"id": "03961779-f1c6-4071-ae98-13446e8c4a59",
+		"description": "Eigen kunstzinnig werk presenteren",
+		"title": "De leerling leert eigen kunstzinnig werk, alleen of als deelnemer in een groep, aan derden te presenteren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Eigen kunstzinnig werk presenteren",
+		"replaces": [
+			"61bc5488-34f9-4271-86f3-dca2cba615a3"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 50",
+		"id": "5306bffd-4e3f-46b0-a9cf-6012f1e739b6",
+		"description": "Leren kijken en luisteren naar kunst",
+		"title": "De leerling leert, op grond van enige achtergrondkennis, te kijken naar beeldende kunst, te luisteren naar muziek en te kijken en luisteren naar theater-, dans- en filmvoorstellingen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Leren kijken en luisteren naar kunst",
+		"replaces": [
+			"563df93f-8f84-4c9a-a10b-8fdbf0773790"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 51",
+		"id": "6d41186f-bcad-4697-8b98-cee942446864",
+		"description": "Verslag doen van ervaringen",
+		"title": "De leerling leert, met behulp van visuele of auditieve middelen, verslag te doen van deelname aan kunstzinnige activiteiten (als toeschouwer en als deelnemer).",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Verslag doen van ervaringen",
+		"replaces": [
+			"26f2e674-ca2e-489d-b5ee-18b3a9b17065"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 52",
+		"id": "349ddcb7-7bf8-4fb4-abf0-ce24159502aa",
+		"description": "Reflecteren op kunstzinnig werk",
+		"title": "De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder kunstenaars.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Reflecteren op kunstzinnig werk",
+		"replaces": [
+			"7043ce15-61fd-473a-9d76-9cf3aa8fb284"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 53",
+		"id": "7a9afa6f-d91e-4b5a-ae8e-1e82f5ec2c7f",
+		"description": "Bewegen beleven",
+		"title": "De leerling leert zich mede met het oog op buitenschoolse beoefening op praktische wijze te oriënteren op veel verschillende bewegingsactiviteiten uit gevarieerde gebieden als spel, turnen, atletiek, bewegen op muziek, zelfverdediging en actuele ontwikkelingen in de bewegingscultuur, en daarin de eigen mogelijkheden te verkennen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Bewegen beleven. Oriënteren op bewegingsactiviteiten",
+		"replaces": [
+			"9d0ed5bd-c111-4d8a-8386-317d5dc2ac5e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 54",
+		"id": "dfc624c0-a766-44f5-ae4e-9949337ad27b",
+		"description": "Bewegen verbeteren",
+		"title": "De leerling leert door middel van uitdagende bewegingssituaties zijn bewegingsrepertoire uit te breiden.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Bewegen verbeteren. Uitbreiding van bewegingsrepertoire",
+		"replaces": [
+			"34ec276c-7e3f-4f05-b4e3-3159f931244a"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 55",
+		"id": "b8d5a36f-d75f-42a4-a2d5-c2345a5a7b94",
+		"description": "Bewegen verbeteren",
+		"title": "De leerling leert de hoofdbeginselen van de bewegingsactiviteiten op eigen niveau toe te passen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Bewegen verbeteren.Toepassen van bewegingsprincipes",
+		"replaces": [
+			"07861cce-c1cc-4efb-af46-c36a76062ceb"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 56",
+		"id": "2e14b3c0-04cf-43fa-b8dc-2abcf0f5720a",
+		"description": "Bewegen beleven",
+		"title": "De leerling leert tijdens bewegingsactiviteiten sportief te zijn, rekening te houden met de mogelijkheden en voorkeuren van anderen, en respect en zorg te hebben voor elkaar.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Bewegen beleven. Omgaan met anderen",
+		"replaces": [
+			"71a175d5-24a5-4b48-9244-4a8afed1221e"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 57",
+		"id": "292dbcc7-c029-40a5-82aa-ea1c06a91bcb",
+		"description": "Bewegen regelen",
+		"title": "De leerling leert eenvoudige regelende taken te vervullen die het mogelijk maken, zelfstandig en samen met andere leerlingen bewegingsactiviteiten te beoefenen.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Bewegen regelen. Regelen en organiseren",
+		"replaces": [
+			"74b6ba50-c633-48ff-8494-de317a4e18eb"
+		]
+	},
+	{
+		"prefix": "VO Kerndoel 58",
+		"id": "a5d03e32-1f28-4049-819f-5229a7da699d",
+		"description": "Gezond bewegen",
+		"title": "De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.",
+		"niveau_id": [
+			"35715b0c-ad0c-46ab-ab1a-1387bb046486",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"kerndoelLabel": "Gezond bewegen",
+		"replaces": [
+			"05abd22d-1e69-4aa1-9d56-f78e63d6e0af"
+		]
+	},
+	{
+		"prefix": "SO nl/ml Kerndoel LS 47",
+		"id": "1fab234f-0de0-4c81-acd0-35e49c4c1a38",
+		"kerndoelLabel": "Meetkundige problemen",
+		"title": "De leerlingen leren eenvoudige meetkundige problemen op te lossen.",
+		"description": "Meetkundige problemen",
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		],
+		"tag_id": [
+			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
+		],
+		"replaces": [
+			"54e49a11-cd0a-4519-ac01-7b8ec5d4d763"
+		]
+	},
+	{
+		"prefix": "SO nl/ml Kerndoel LS 48",
+		"id": "f4b825b6-3399-439e-becf-99e434e3eaec",
+		"kerndoelLabel": "Meten en rekenen",
+		"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
+		"description": "Meten en rekenen",
+		"niveau_id": [
+			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
+		],
+		"tag_id": [
+			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
+		],
+		"replaces": [
+			"903da933-56e3-4f36-a9fb-8cc69c5ff453"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 2",
+		"id": "b167b0a4-02fa-4fd4-af72-9884622e00fc",
+		"kerndoelLabel": "Leren leren, stellen van doelen en planmatig leren",
+		"description": "Leren leren, stellen van doelen en planmatig leren",
+		"title": "De leerling leert doelgericht en planmatig te leren en daarbij strategieën te gebruiken.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"df68701e-38c2-4566-8090-d7d77ff97a83"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 3",
+		"id": "0c3bae8e-cd42-4960-847c-69ea39746df8",
+		"kerndoelLabel": "Leren leren, informatie zoeken, beoordelen en gebruiken",
+		"description": "Leren leren, informatie zoeken, beoordelen en gebruiken",
+		"title": "De leerling leert verschillende soorten informatie te zoeken, te beoordelen en te gebruiken.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"ac7ef88b-8488-4063-b469-ee6617f8ee63"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 4",
+		"id": "cee77f5f-4add-4d92-91a6-73c868c7088d",
+		"kerndoelLabel": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
+		"description": "Leren leren, onderscheiden van feiten en meningen en eigen meningen vormen en uiten",
+		"title": "De leerling leert op basis van feiten een mening te vormen, deze adequaat te uiten en respectvol om te gaan met andere meningen.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 5",
+		"id": "b21b715d-d58c-4b48-833d-77e059b37d0d",
+		"kerndoelLabel": "Leren taken uitvoeren, praktisch redzaam en weerbaar gedrag",
+		"description": "Leren taken uitvoeren, praktisch redzaam en weerbaar gedrag",
+		"title": "De leerling leert zich redzaam en weerbaar te gedragen bij de uitvoering van dagelijkse activiteiten.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"3502e44e-78e7-4766-aaf5-5a7cbc8ab330"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 6",
+		"id": "ee1c3c3c-428d-4e2b-9403-5d0b41005fcf",
+		"kerndoelLabel": "Leren taken uitvoeren, doelgericht en methodisch taken uitvoeren",
+		"description": "Leren taken uitvoeren, doelgericht en methodisch taken uitvoeren",
+		"title": "De leerling leert op doelgerichte, planmatige en methodische wijze taken en activiteiten uit te voeren.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"70101196-23ec-4bf8-917e-2886436b2b35"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 7",
+		"id": "b754e187-f69c-4552-a600-fd04113c2862",
+		"kerndoelLabel": "Leren taken uitvoeren, samenwerken aan een taak of activiteit",
+		"description": "Leren taken uitvoeren, samenwerken aan een taak of activiteit",
+		"title": "De leerling leert samen te werken aan een taak of activiteit.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 8",
+		"id": "64aab690-ab86-4663-8cb1-b284fc4650ba",
+		"kerndoelLabel": "Leren functioneren in sociale situaties, zelfbeeld en ontwikkeling van zelfvertrouwen",
+		"description": "Leren functioneren in sociale situaties, zelfbeeld en ontwikkeling van zelfvertrouwen",
+		"title": "De leerling leert op adequate wijze om te gaan met eigen gevoelens en wensen.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"161a016a-7115-4127-aa63-1074a434b181"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 9",
+		"id": "e31be1e7-5d94-4f1f-913c-350d9fbbaca2",
+		"kerndoelLabel": "Leren functioneren in sociale situaties, sociaal gedrag en omgaan met verschillen tussen mensen",
+		"description": "Leren functioneren in sociale situaties, sociaal gedrag en omgaan met verschillen tussen mensen",
+		"title": "De leerling leert respectvol en verantwoordelijk om te gaan met anderen.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"5b90f4ab-71bc-4951-9099-2f9ff166c41d"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 10",
+		"id": "c9e46fa3-eac2-440c-8c59-cdd116d17025",
+		"kerndoelLabel": "Ontwikkelen van een persoonlijk toekomstperspectief, zelfbeeld en zicht op eigen toekomstmogelijkheden",
+		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, zelfbeeld en zicht op eigen toekomstmogelijkheden",
+		"title": "De leerling krijgt zicht op de eigen voorkeuren, interesses en toekomstwensen op het gebied van werken, wonen, vrije tijd en burgerschap.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"121ca959-3df5-43b7-bd4a-1134ea7dcaf6"
+		]
+	},
+	{
+		"prefix": "VSO Kerndoel LO 11",
+		"id": "fec7012f-2380-41e3-b33f-9667810becd0",
+		"kerndoelLabel": "Ontwikkelen van een persoonlijk toekomstperspectief, keuzes maken, motivatie deze na te streven en ondersteuning daarbij vinden",
+		"description": "Ontwikkelen van een persoonlijk toekomstperspectief, keuzes maken, motivatie deze na te streven en ondersteuning daarbij vinden",
+		"title": "De leerling leert afwegingen en keuzes te maken die leiden tot een passend persoonlijk toekomstperspectief, met realiseerbare mogelijkheden en kansen.",
+		"niveau_id": [
+			"dbbc3e87-a848-4425-912a-d494e43e5e59",
+			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
+			"bdc4744f-79df-4795-8795-2fee50c7416a",
+			"35ca5594-679e-4c7b-a178-88322dce8971"
+		],
+		"tag_id": [
+			"7f18fe04-6e53-439f-8c33-5682fd090de5"
+		],
+		"replaces": [
+			"77185597-05d1-42b2-9488-39917a061673"
 		]
 	}
 ]
