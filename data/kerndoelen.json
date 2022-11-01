@@ -3,21 +3,20 @@
 		"prefix": "PO Kerndoel 01",
 		"id": "8cd7169b-ec2b-4b1a-bc35-e2d2ac49e902",
 		"description": "Informatie verwerven",
-		"title": "Wijziging import 1 De leerlingen leren informatie te verwerven uit gesproken taal. Ze leren tevens die informatie, mondeling of schriftelijk, gestructureerd weer te geven.",
+		"title": "De leerlingen leren informatie te verwerven uit gesproken taal. Ze leren tevens die informatie, mondeling of schriftelijk, gestructureerd weer te geven.",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"0a3d23df-1758-439b-b219-cd2854cc639b",
 			"5edad2fa-2cf0-4701-93d9-97edbe06ac02",
 			"fc0fa444-07f6-4744-b7a7-6f9aadeeff42"
 		],
-		"kerndoelLabel": "Informatie verwerven",
-		"dirty": true
+		"kerndoelLabel": "Informatie verwerven"
 	},
 	{
 		"prefix": "PO Kerndoel 02",
 		"id": "e5f45cd7-ff7b-4876-a014-9aead5348100",
 		"description": "Spreken",
-		"title": "De leerlingen leren zich naar vorm en inhoud uit te drukken bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren en bij het discussiëren.",
+		"title": "Wijziging 2 (EE, browser nog open) De leerlingen leren zich naar vorm en inhoud uit te drukken bij het geven en vragen van informatie, het uitbrengen van verslag, het geven van uitleg, het instrueren en bij het discussiëren.",
 		"niveau_id": [
 			"512e4729-03a4-43a2-95ba-758071d1b725",
 			"0a3d23df-1758-439b-b219-cd2854cc639b",
