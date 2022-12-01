@@ -363,7 +363,8 @@
 		],
 		"replaces": [
 			"43c10a49-7d46-4a21-8547-83cffb353e42"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "cc61f02b-e136-4315-a044-f462b429dfa2",
@@ -374,7 +375,8 @@
 		],
 		"replaces": [
 			"7a3631ee-705a-4aff-95a4-dd155ecd3ef9"
-		]
+		],
+		"deleted": 1
 	},
 	{
 		"id": "4e5ab73d-86bf-4825-bc59-4deb5d76503f",
