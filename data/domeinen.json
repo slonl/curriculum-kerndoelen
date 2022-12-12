@@ -355,30 +355,6 @@
 		]
 	},
 	{
-		"id": "340f43c5-2784-4653-8514-c20a59e3eb42",
-		"title": "Manuele vaardigheden",
-		"kerndoel_id": [
-			"be381023-63d8-4526-b630-90bf7453c51a",
-			"c5700f90-543e-4ef1-b48a-f19dbc74f87f"
-		],
-		"replaces": [
-			"43c10a49-7d46-4a21-8547-83cffb353e42"
-		],
-		"deleted": 1
-	},
-	{
-		"id": "cc61f02b-e136-4315-a044-f462b429dfa2",
-		"title": "Tekstuele vaardigheden",
-		"kerndoel_id": [
-			"d167f9b1-cd8b-47d5-a218-6c6bc661fa11",
-			"bde4c581-cc04-439e-a08d-d95ff744216a"
-		],
-		"replaces": [
-			"7a3631ee-705a-4aff-95a4-dd155ecd3ef9"
-		],
-		"deleted": 1
-	},
-	{
 		"id": "4e5ab73d-86bf-4825-bc59-4deb5d76503f",
 		"title": "Mondeling taalonderwijs",
 		"kerndoel_id": [
