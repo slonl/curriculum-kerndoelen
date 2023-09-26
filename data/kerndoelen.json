@@ -994,9 +994,6 @@
 		"description": "Luisteren en lezen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"5a75103a-9648-45c3-828a-ea479bbe3aa6"
 		]
 	},
 	{
@@ -1007,9 +1004,6 @@
 		"description": "Gesprekken voeren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"5a75103a-9648-45c3-828a-ea479bbe3aa6"
 		]
 	},
 	{
@@ -1020,9 +1014,6 @@
 		"description": "Schrijven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"6166fa23-33b7-4d71-a85e-f366f6b4bb50"
 		]
 	},
 	{
@@ -1033,10 +1024,6 @@
 		"description": "Woordenschat",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"c3e4a240-e598-498c-a0d0-c6e57275151b",
-			"51fb14fd-2b4f-408a-8714-4adc45cfd9cb"
 		]
 	},
 	{
@@ -1047,9 +1034,6 @@
 		"description": "Positieve attitude",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"db855604-2e72-4e99-b565-8b56d289bcd2"
 		]
 	},
 	{
@@ -1060,9 +1044,6 @@
 		"description": "Luisteren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"db855604-2e72-4e99-b565-8b56d289bcd2"
 		]
 	},
 	{
@@ -1073,9 +1054,6 @@
 		"description": "Gesprekken voeren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"82a25c1c-16d8-49e2-b3ab-855d7a128a4d"
 		]
 	},
 	{
@@ -1086,9 +1064,6 @@
 		"description": "Lezen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"82a25c1c-16d8-49e2-b3ab-855d7a128a4d"
 		]
 	},
 	{
@@ -1099,9 +1074,6 @@
 		"description": "Schrijven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"82a25c1c-16d8-49e2-b3ab-855d7a128a4d"
 		]
 	},
 	{
@@ -1112,10 +1084,6 @@
 		"description": "Woordenschat",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"c3e4a240-e598-498c-a0d0-c6e57275151b",
-			"d1a20bf0-7fc4-48d6-bce0-ff4b0af5350b"
 		]
 	},
 	{
@@ -1126,9 +1094,6 @@
 		"description": "Vaktaal wiskunde",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"7fb020d2-2618-4ec4-8af3-1ae75ac08e55"
 		]
 	},
 	{
@@ -1139,9 +1104,6 @@
 		"description": "Wiskundig redeneren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"7fb020d2-2618-4ec4-8af3-1ae75ac08e55"
 		]
 	},
 	{
@@ -1152,9 +1114,6 @@
 		"description": "Probleemaanpak",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"7fb020d2-2618-4ec4-8af3-1ae75ac08e55"
 		]
 	},
 	{
@@ -1165,9 +1124,6 @@
 		"description": "Structuur en samenhang",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1178,9 +1134,6 @@
 		"description": "Basisbewerkingen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1191,9 +1144,6 @@
 		"description": "Schatten",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1204,9 +1154,6 @@
 		"description": "Rekenen met getallen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1217,9 +1164,6 @@
 		"description": "Schriftelijk rekenen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1230,9 +1174,6 @@
 		"description": "Rekenmachine gebruiken",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8866ddb7-a3d4-43ea-afff-9072a825d62a"
 		]
 	},
 	{
@@ -1243,9 +1184,6 @@
 		"description": "Verzorging",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1256,9 +1194,6 @@
 		"description": "Redzaam gedrag",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1269,9 +1204,6 @@
 		"description": "Staatsinrichting",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1282,9 +1214,6 @@
 		"description": "Normen en waarden",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1295,9 +1224,6 @@
 		"description": "Geestelijke stromingen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1308,9 +1234,6 @@
 		"description": "Milieu",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1321,9 +1244,6 @@
 		"description": "Voor leerlingen met een auditieve en/of communicatieve beperking cluster 2.",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -1334,9 +1254,6 @@
 		"description": "Verschil soort en ras",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1347,9 +1264,6 @@
 		"description": "Opbouw van leven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1360,9 +1274,6 @@
 		"description": "Onderzoek doen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1373,9 +1284,6 @@
 		"description": "Weer en Klimaat",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1386,9 +1294,6 @@
 		"description": "Techniek",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1399,9 +1304,6 @@
 		"description": "Probleemaanpak",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1412,9 +1314,6 @@
 		"description": "Natuurverschijnselen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e2da2cd6-5154-474d-af7b-322013c7de3d"
 		]
 	},
 	{
@@ -1425,9 +1324,6 @@
 		"description": "Eigen omgeving",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -1438,9 +1334,6 @@
 		"description": "Water in Nederland",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -1451,9 +1344,6 @@
 		"description": "Ruimtelijke spreiding",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -1464,9 +1354,6 @@
 		"description": "Kaartvaardigheden",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -1477,9 +1364,6 @@
 		"description": "Historische bronnen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -1490,9 +1374,6 @@
 		"description": "Tijdvakken",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -1503,9 +1384,6 @@
 		"description": "Geschiedenis",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -1516,9 +1394,6 @@
 		"description": "Vormgeven",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"662bf264-5b7c-4ee2-90a4-26fe019f226a"
 		]
 	},
 	{
@@ -1529,9 +1404,6 @@
 		"description": "Beeldende aspecten",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"662bf264-5b7c-4ee2-90a4-26fe019f226a"
 		]
 	},
 	{
@@ -1542,9 +1414,6 @@
 		"description": "Materialen onderzoeken",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"662bf264-5b7c-4ee2-90a4-26fe019f226a"
 		]
 	},
 	{
@@ -1555,9 +1424,6 @@
 		"description": "Reflectie",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"7bf48ac1-aca7-4857-9002-b698719eadbc"
 		]
 	},
 	{
@@ -1568,9 +1434,6 @@
 		"description": "Beeldende producten",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"7bf48ac1-aca7-4857-9002-b698719eadbc"
 		]
 	},
 	{
@@ -1581,9 +1444,6 @@
 		"description": "Zingen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"0af95020-419f-4fe5-abe0-f2a7475d0bf8"
 		]
 	},
 	{
@@ -1594,9 +1454,6 @@
 		"description": "Instrumenten",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"0af95020-419f-4fe5-abe0-f2a7475d0bf8"
 		]
 	},
 	{
@@ -1607,9 +1464,6 @@
 		"description": "Presenteren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"0af95020-419f-4fe5-abe0-f2a7475d0bf8"
 		]
 	},
 	{
@@ -1620,9 +1474,6 @@
 		"description": "Cultuur",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e03f4e9f-7b6a-4375-8c3e-8e791af57769"
 		]
 	},
 	{
@@ -1633,9 +1484,6 @@
 		"description": "Reflectie",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"e03f4e9f-7b6a-4375-8c3e-8e791af57769"
 		]
 	},
 	{
@@ -1646,9 +1494,6 @@
 		"description": "Drama",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"a9b26a24-04b6-4d60-bcd9-8d32d7cc95f3"
 		]
 	},
 	{
@@ -1659,9 +1504,6 @@
 		"description": "Uitvoeren",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"a9b26a24-04b6-4d60-bcd9-8d32d7cc95f3"
 		]
 	},
 	{
@@ -1672,9 +1514,6 @@
 		"description": "Beoordelen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"a9b26a24-04b6-4d60-bcd9-8d32d7cc95f3"
 		]
 	},
 	{
@@ -1685,9 +1524,6 @@
 		"description": "Bewegen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -1698,9 +1534,6 @@
 		"description": "Spel",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -1711,9 +1544,6 @@
 		"description": "Bewegen op muziek",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -1724,9 +1554,6 @@
 		"description": "Zwemmen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -1737,9 +1564,6 @@
 		"description": "Samen bewegen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -1750,9 +1574,6 @@
 		"description": "Zintuigen en motoriek",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"75e6b3bd-6e74-4356-ad48-8060a918ee6e"
 		]
 	},
 	{
@@ -1763,9 +1584,6 @@
 		"description": "Zelfbeeld",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"de287320-076d-4495-87e6-01687d3c5278"
 		]
 	},
 	{
@@ -1776,9 +1594,6 @@
 		"description": "Sociaal gedrag",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"de287320-076d-4495-87e6-01687d3c5278"
 		]
 	},
 	{
@@ -1789,9 +1604,6 @@
 		"description": "Spelontwikkeling",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"de287320-076d-4495-87e6-01687d3c5278"
 		]
 	},
 	{
@@ -1802,9 +1614,6 @@
 		"description": "Werkhouding",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"db1169a2-657a-4810-84bd-19eefc788196"
 		]
 	},
 	{
@@ -1815,9 +1624,6 @@
 		"description": "Aanpak gedrag",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"db1169a2-657a-4810-84bd-19eefc788196"
 		]
 	},
 	{
@@ -1828,9 +1634,6 @@
 		"description": "Omgaan met media en technologische hulpmiddelen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"db1169a2-657a-4810-84bd-19eefc788196"
 		]
 	},
 	{
@@ -1841,9 +1644,6 @@
 		"description": "Praktische  redzaamheid",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"db1169a2-657a-4810-84bd-19eefc788196"
 		]
 	},
 	{
@@ -1854,9 +1654,6 @@
 		"description": "Ruimteoriëntatie",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ea7fcaad-8b98-4930-8210-c924d188bc84"
 		]
 	},
 	{
@@ -1867,9 +1664,6 @@
 		"description": "Communicatie",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1880,9 +1674,6 @@
 		"description": "Gesproken taal",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1893,9 +1684,6 @@
 		"description": "Gesprekken",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1906,9 +1694,6 @@
 		"description": "Lezen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1919,9 +1704,6 @@
 		"description": "Schriftelijke taalvormen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1932,9 +1714,6 @@
 		"description": "Woordenschat",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"0bf11eac-b3fa-4caa-8c56-65ab240c3fdb"
 		]
 	},
 	{
@@ -1945,9 +1724,6 @@
 		"description": "Hoeveelheidsbegrippen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"aef5218d-b43c-4539-aaf3-82770df70d50"
 		]
 	},
 	{
@@ -1958,9 +1734,6 @@
 		"description": "Rekenhandelingen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"aef5218d-b43c-4539-aaf3-82770df70d50"
 		]
 	},
 	{
@@ -1971,9 +1744,6 @@
 		"description": "Tijd",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"aef5218d-b43c-4539-aaf3-82770df70d50"
 		]
 	},
 	{
@@ -1984,9 +1754,6 @@
 		"description": "Meten",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"aef5218d-b43c-4539-aaf3-82770df70d50"
 		]
 	},
 	{
@@ -1997,9 +1764,6 @@
 		"description": "Geld",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"aef5218d-b43c-4539-aaf3-82770df70d50"
 		]
 	},
 	{
@@ -2010,9 +1774,6 @@
 		"description": "Gezond en redzaam gedrag",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2023,9 +1784,6 @@
 		"description": "Gezondheid",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2036,9 +1794,6 @@
 		"description": "Seksuele diversiteit",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2049,9 +1804,6 @@
 		"description": "Zelfredzaamheid",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2062,9 +1814,6 @@
 		"description": "Verkeer",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2075,9 +1824,6 @@
 		"description": "Voedsel",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2088,9 +1834,6 @@
 		"description": "Kleding",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2101,9 +1844,6 @@
 		"description": "Huishouding",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2114,9 +1854,6 @@
 		"description": "Boodschappen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2127,9 +1864,6 @@
 		"description": "Hulp gebruiken",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2140,9 +1874,6 @@
 		"description": "Samenleving",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2153,9 +1884,6 @@
 		"description": "Besluitvorming",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2166,9 +1894,6 @@
 		"description": "Vrijetijdsbesteding",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"00574285-9784-4850-b15e-100e3738660d"
 		]
 	},
 	{
@@ -2179,9 +1904,6 @@
 		"description": "Natuur",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"d579d115-d2c5-4f72-ab06-d9a9e002b154"
 		]
 	},
 	{
@@ -2192,9 +1914,6 @@
 		"description": "Biologie",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"d579d115-d2c5-4f72-ab06-d9a9e002b154"
 		]
 	},
 	{
@@ -2205,9 +1924,6 @@
 		"description": "Gedragsregels",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"d579d115-d2c5-4f72-ab06-d9a9e002b154"
 		]
 	},
 	{
@@ -2218,9 +1934,6 @@
 		"description": "Weer",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"d579d115-d2c5-4f72-ab06-d9a9e002b154"
 		]
 	},
 	{
@@ -2231,9 +1944,6 @@
 		"description": "Gereedschap",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ab291f4e-4c77-4b17-9af9-23e340faf84b"
 		]
 	},
 	{
@@ -2244,9 +1954,6 @@
 		"description": "Natuurkunde",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ab291f4e-4c77-4b17-9af9-23e340faf84b"
 		]
 	},
 	{
@@ -2257,9 +1964,6 @@
 		"description": "Lichaamsschema",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -2270,9 +1974,6 @@
 		"description": "Plaatsbepaling",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -2283,9 +1984,6 @@
 		"description": "Navigatie",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -2296,9 +1994,6 @@
 		"description": "Inrichtingsaspecten herkennen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -2309,9 +2004,6 @@
 		"description": "Levensstijl",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"af88f310-f637-4545-a89e-38ccfd15bd68"
 		]
 	},
 	{
@@ -2322,9 +2014,6 @@
 		"description": "Dagindeling",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -2335,9 +2024,6 @@
 		"description": "Plannen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -2348,9 +2034,6 @@
 		"description": "Verleden ordenen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -2361,9 +2044,6 @@
 		"description": "Bekende bronnen gebruiken",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"dd4e228f-1e07-43c4-af9f-eb71053b2ccc"
 		]
 	},
 	{
@@ -2374,9 +2054,6 @@
 		"description": "Verhalen maken",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ede24f53-d3d9-4f75-bf70-a33368afb369"
 		]
 	},
 	{
@@ -2387,9 +2064,6 @@
 		"description": "Vormgeving",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ede24f53-d3d9-4f75-bf70-a33368afb369"
 		]
 	},
 	{
@@ -2400,9 +2074,6 @@
 		"description": "Beeldende vorming",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ede24f53-d3d9-4f75-bf70-a33368afb369"
 		]
 	},
 	{
@@ -2413,9 +2084,6 @@
 		"description": "Beeld en communicatie",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"ede24f53-d3d9-4f75-bf70-a33368afb369"
 		]
 	},
 	{
@@ -2426,9 +2094,6 @@
 		"description": "Zingen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"6861c35b-56f2-4454-8c1e-658c5990ba66"
 		]
 	},
 	{
@@ -2439,9 +2104,6 @@
 		"description": "Muziek maken",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"6861c35b-56f2-4454-8c1e-658c5990ba66"
 		]
 	},
 	{
@@ -2452,9 +2114,6 @@
 		"description": "Bewegen op muziek",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"6861c35b-56f2-4454-8c1e-658c5990ba66"
 		]
 	},
 	{
@@ -2465,9 +2124,6 @@
 		"description": "Muziek beleven",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"6861c35b-56f2-4454-8c1e-658c5990ba66"
 		]
 	},
 	{
@@ -2478,9 +2134,6 @@
 		"description": "Drama",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"18917337-4256-4baa-b271-05ad6fa09fea"
 		]
 	},
 	{
@@ -2491,9 +2144,6 @@
 		"description": "Spel en werkelijkheid",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"18917337-4256-4baa-b271-05ad6fa09fea"
 		]
 	},
 	{
@@ -2504,9 +2154,6 @@
 		"description": "Bewegingsvormen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -2517,9 +2164,6 @@
 		"description": "Spelgebieden",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -2530,9 +2174,6 @@
 		"description": "Gevaar bij zwemmen",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -2543,9 +2184,6 @@
 		"description": "Spel en beweging",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -2556,9 +2194,6 @@
 		"description": "Sport en spel",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
-		],
-		"tag_id": [
-			"8dbe4ba2-5ca0-4057-8b24-324e0b4e3faf"
 		]
 	},
 	{
@@ -2572,9 +2207,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		]
 	},
 	{
@@ -4687,9 +4319,6 @@
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
 		],
-		"tag_id": [
-			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
-		],
 		"replaces": [
 			"54e49a11-cd0a-4519-ac01-7b8ec5d4d763"
 		]
@@ -4702,9 +4331,6 @@
 		"description": "Meten en rekenen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222"
-		],
-		"tag_id": [
-			"62d2bc5d-5d53-4bf0-b5a9-48a65ab375a6"
 		],
 		"replaces": [
 			"903da933-56e3-4f36-a9fb-8cc69c5ff453"
@@ -4722,9 +4348,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
 		"replaces": [
 			"df68701e-38c2-4566-8090-d7d77ff97a83"
 		]
@@ -4740,9 +4363,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		],
 		"replaces": [
 			"ac7ef88b-8488-4063-b469-ee6617f8ee63"
@@ -4760,9 +4380,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
 		"replaces": [
 			"70dfeae0-a16f-46f2-9dc4-00ae2fbfdefc"
 		]
@@ -4778,9 +4395,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		],
 		"replaces": [
 			"3502e44e-78e7-4766-aaf5-5a7cbc8ab330"
@@ -4798,9 +4412,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
 		"replaces": [
 			"70101196-23ec-4bf8-917e-2886436b2b35"
 		]
@@ -4816,9 +4427,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		],
 		"replaces": [
 			"e7b32d6b-8dfc-43d2-96ce-556e3b9d8bf0"
@@ -4836,9 +4444,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
 		"replaces": [
 			"161a016a-7115-4127-aa63-1074a434b181"
 		]
@@ -4854,9 +4459,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		],
 		"replaces": [
 			"5b90f4ab-71bc-4951-9099-2f9ff166c41d"
@@ -4874,9 +4476,6 @@
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
 		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
-		],
 		"replaces": [
 			"121ca959-3df5-43b7-bd4a-1134ea7dcaf6"
 		]
@@ -4892,9 +4491,6 @@
 			"d617dd33-ec39-479f-ac9f-4ab219cab54d",
 			"bdc4744f-79df-4795-8795-2fee50c7416a",
 			"35ca5594-679e-4c7b-a178-88322dce8971"
-		],
-		"tag_id": [
-			"7f18fe04-6e53-439f-8c33-5682fd090de5"
 		],
 		"replaces": [
 			"77185597-05d1-42b2-9488-39917a061673"
