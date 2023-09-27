@@ -4,13 +4,14 @@
   "description": "Curriculum Kerndoelen Context",
   "main": "context.json",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/test.mjs"
   },
   "author": "SLO",
   "license": "MIT",
   "dependencies": {
     "ajv": "^6.5.5",
     "jsondiffpatch": "^0.3.11",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "curriculum-js": "^0.4.1"
   }
 }
