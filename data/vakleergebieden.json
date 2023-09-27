@@ -329,101 +329,6 @@
 		]
 	},
 	{
-		"id": "2ada9077-c2f1-46a8-9ec4-67a2f5b7a819",
-		"title": "Nederlands",
-		"kerndoel_domein_id": [
-			"fcdae226-0095-4eec-8584-96919df2b2d1",
-			"4e5ab73d-86bf-4825-bc59-4deb5d76503f",
-			"34d6bd9c-565c-45fe-9b21-d6497cd3f0d1"
-		],
-		"vakleergebied_id": [
-			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
-		],
-		"kerndoel_id": [
-			"bd54ffca-45c2-457e-9f48-651e6a121332",
-			"93f8577e-74c9-4357-b02d-75abdb0762ff",
-			"bfce0140-e664-4c29-8e17-7a045b03d6f4",
-			"e566f28b-7d92-4f4f-8a8c-0e5c844d3b24",
-			"c7faa76d-b823-41f4-b868-0042234adcf8",
-			"0cc4836e-1dc3-45ca-ba73-11c839a0e2c9",
-			"f1f662b1-ed18-403b-9e1c-23712915961d",
-			"11365e7f-ce64-4b37-9a0e-a2a16dc6f397",
-			"cbd4ade3-157f-4d38-aae2-ff3b72cdd839",
-			"281ab061-ddb9-4791-ace3-768628eb98e1",
-			"41f817e1-e743-4e04-819f-76429801c1e9",
-			"3967df0b-be30-4f74-9553-2a63213785c4",
-			"d0fc39a3-71ba-4578-a717-c82af1945e3c",
-			"47842fff-8d08-469c-85b3-5934a5854a76",
-			"e8fd6bb8-5091-4980-a818-593118ac394e",
-			"2db04ce9-02d7-4685-be3a-188d87dfb69b",
-			"4fb8ad0d-26bf-4b66-bb1e-69b36cd9b54a",
-			"6bf1317d-87de-44a2-b8f2-b503b390e157",
-			"3029d34a-7550-417d-ba49-5972996dee81",
-			"56dd5786-6119-4425-9903-0d174a28d19a",
-			"f7275bef-08c2-44b8-9c22-dde0072a155e",
-			"58904b66-44c1-45a2-9f4c-ef2a2f73cf61",
-			"01465efb-c155-4971-a4ab-5d7f6b38df6b",
-			"b20390ef-16c9-4f97-9563-83dc4c8c775d",
-			"15c88e85-ad63-4634-9df4-96296ff0bee9",
-			"56224ecb-f170-4ebb-94dc-55412fc41396",
-			"3515c3cc-19cd-4f04-9795-0ab98c058699",
-			"cc692195-abce-4698-85b2-b7aaa15ee996",
-			"025e27e4-37f1-4f94-a0d4-621fb3114663",
-			"d31d0863-8a7b-48e7-8d21-71643ddfe805",
-			"9ce0a17d-cc6f-4443-8a8b-00567c4c6f12",
-			"81de4604-5a7c-4ebe-a4ae-82f6171615f6"
-		],
-		"replaces": [
-			"41236270-1d6f-46e4-bb9c-1e0f06726437"
-		]
-	},
-	{
-		"title": "Rekenen en wiskunde",
-		"id": "b6224471-366b-47c1-a35a-e41203ca356d",
-		"kerndoel_domein_id": [
-			"3cc8018e-edf7-46e9-8599-964485fbd80d",
-			"62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
-			"4ce80c28-7ca0-4718-b301-6c5fd61e57d5"
-		],
-		"vakleergebied_id": [
-			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
-		],
-		"kerndoel_id": [
-			"d7dbdc00-5043-4276-8a94-4ee735003bfa",
-			"03570d3a-d328-4c94-9d4b-90d366f39302",
-			"e70be7be-2141-4053-9d81-32a4e2e36ed1",
-			"a9df5770-860a-41a5-8e83-11941c0849c6",
-			"c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
-			"e7493653-7879-4239-96bf-61d286419cd0",
-			"148c452a-7914-46d5-9707-2e03408b21a4",
-			"bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
-			"958cdbbd-933c-446a-b64f-eeef1a9bc087",
-			"67576835-17d8-4f43-a636-829d3e0d7671",
-			"83026f39-9d22-4822-b43e-5c65ac812506",
-			"5832c312-85a0-4db5-b836-fec0dbb791a0",
-			"1e3af19f-b357-4bb4-b495-93357397e8c2",
-			"f515e0a8-27ff-413c-adfb-b9c63de2bd39",
-			"967883b6-e137-4709-92a0-feeebd9093ba",
-			"100e80ce-cf5e-4dff-b23e-09371a073b47",
-			"2e7ab641-7625-4800-9d02-03a4b7b6fd24",
-			"7875481a-70f9-4427-9ff4-d85e4e9b57aa",
-			"2c2b8134-7dde-4738-9607-6bd9ad333b69",
-			"4b65d91e-17e6-4c5d-a435-5d894a7219d8",
-			"6cba90d2-5c38-4032-a07e-346e99833d39",
-			"9ddb6566-b5be-431d-b0dc-f479406b2e9e",
-			"e4f1ef53-2ae2-4699-a747-061fd8fe5761",
-			"79846213-e0df-4dda-8997-9b9e913a4fc9",
-			"b4e05e00-336e-44b3-82d7-08931b832b92",
-			"a4434fd6-0efd-4451-9395-c10cf07ae67b",
-			"de9c1793-b2e7-4808-8e9b-e78ec26e3225",
-			"bc4b39c5-968b-4ba4-b9b9-026112504b6e",
-			"d78f6437-c5fb-4fcf-bb13-eccaba72cb85"
-		],
-		"replaces": [
-			"545b1f8a-77e7-480c-bd0f-623ece62faee"
-		]
-	},
-	{
 		"id": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
 		"title": "Fries",
 		"kerndoel_domein_id": [
@@ -649,6 +554,103 @@
 		],
 		"replaces": [
 			"d9b9cc45-14d7-4001-b7e7-e0dc402dce80"
+		]
+	},
+	{
+		"id": "d474c122-303b-4e7e-9d29-85ee2c4cdaad",
+		"title": "Nederlands",
+		"kerndoel_domein_id": [
+			"fcdae226-0095-4eec-8584-96919df2b2d1",
+			"4e5ab73d-86bf-4825-bc59-4deb5d76503f",
+			"34d6bd9c-565c-45fe-9b21-d6497cd3f0d1"
+		],
+		"vakleergebied_id": [
+			"e41b8c50-d002-4a9f-be8b-9b5da0008656"
+		],
+		"kerndoel_id": [
+			"bd54ffca-45c2-457e-9f48-651e6a121332",
+			"93f8577e-74c9-4357-b02d-75abdb0762ff",
+			"bfce0140-e664-4c29-8e17-7a045b03d6f4",
+			"e566f28b-7d92-4f4f-8a8c-0e5c844d3b24",
+			"c7faa76d-b823-41f4-b868-0042234adcf8",
+			"0cc4836e-1dc3-45ca-ba73-11c839a0e2c9",
+			"f1f662b1-ed18-403b-9e1c-23712915961d",
+			"11365e7f-ce64-4b37-9a0e-a2a16dc6f397",
+			"cbd4ade3-157f-4d38-aae2-ff3b72cdd839",
+			"281ab061-ddb9-4791-ace3-768628eb98e1",
+			"41f817e1-e743-4e04-819f-76429801c1e9",
+			"3967df0b-be30-4f74-9553-2a63213785c4",
+			"d0fc39a3-71ba-4578-a717-c82af1945e3c",
+			"47842fff-8d08-469c-85b3-5934a5854a76",
+			"e8fd6bb8-5091-4980-a818-593118ac394e",
+			"2db04ce9-02d7-4685-be3a-188d87dfb69b",
+			"4fb8ad0d-26bf-4b66-bb1e-69b36cd9b54a",
+			"6bf1317d-87de-44a2-b8f2-b503b390e157",
+			"3029d34a-7550-417d-ba49-5972996dee81",
+			"56dd5786-6119-4425-9903-0d174a28d19a",
+			"f7275bef-08c2-44b8-9c22-dde0072a155e",
+			"58904b66-44c1-45a2-9f4c-ef2a2f73cf61",
+			"01465efb-c155-4971-a4ab-5d7f6b38df6b",
+			"b20390ef-16c9-4f97-9563-83dc4c8c775d",
+			"15c88e85-ad63-4634-9df4-96296ff0bee9",
+			"56224ecb-f170-4ebb-94dc-55412fc41396",
+			"3515c3cc-19cd-4f04-9795-0ab98c058699",
+			"cc692195-abce-4698-85b2-b7aaa15ee996",
+			"025e27e4-37f1-4f94-a0d4-621fb3114663",
+			"d31d0863-8a7b-48e7-8d21-71643ddfe805",
+			"9ce0a17d-cc6f-4443-8a8b-00567c4c6f12",
+			"81de4604-5a7c-4ebe-a4ae-82f6171615f6"
+		],
+		"replaces": [
+			"41236270-1d6f-46e4-bb9c-1e0f06726437",
+			"2ada9077-c2f1-46a8-9ec4-67a2f5b7a819"
+		]
+	},
+	{
+		"title": "Rekenen en wiskunde",
+		"id": "96552012-d8f9-44e8-bce2-609d5ac42849",
+		"kerndoel_domein_id": [
+			"3cc8018e-edf7-46e9-8599-964485fbd80d",
+			"62c736fb-84a4-4a1b-9ad1-57fde81e6a1c",
+			"4ce80c28-7ca0-4718-b301-6c5fd61e57d5"
+		],
+		"vakleergebied_id": [
+			"fdd97fff-f5e5-4b82-b937-9ab302666c50"
+		],
+		"kerndoel_id": [
+			"d7dbdc00-5043-4276-8a94-4ee735003bfa",
+			"03570d3a-d328-4c94-9d4b-90d366f39302",
+			"e70be7be-2141-4053-9d81-32a4e2e36ed1",
+			"a9df5770-860a-41a5-8e83-11941c0849c6",
+			"c7b77268-f2ff-439d-9693-0b0cfbd34f7e",
+			"e7493653-7879-4239-96bf-61d286419cd0",
+			"148c452a-7914-46d5-9707-2e03408b21a4",
+			"bbe1637d-1418-4caf-b3b8-c0da5a5987ea",
+			"958cdbbd-933c-446a-b64f-eeef1a9bc087",
+			"67576835-17d8-4f43-a636-829d3e0d7671",
+			"83026f39-9d22-4822-b43e-5c65ac812506",
+			"5832c312-85a0-4db5-b836-fec0dbb791a0",
+			"1e3af19f-b357-4bb4-b495-93357397e8c2",
+			"f515e0a8-27ff-413c-adfb-b9c63de2bd39",
+			"967883b6-e137-4709-92a0-feeebd9093ba",
+			"100e80ce-cf5e-4dff-b23e-09371a073b47",
+			"2e7ab641-7625-4800-9d02-03a4b7b6fd24",
+			"7875481a-70f9-4427-9ff4-d85e4e9b57aa",
+			"2c2b8134-7dde-4738-9607-6bd9ad333b69",
+			"4b65d91e-17e6-4c5d-a435-5d894a7219d8",
+			"6cba90d2-5c38-4032-a07e-346e99833d39",
+			"9ddb6566-b5be-431d-b0dc-f479406b2e9e",
+			"e4f1ef53-2ae2-4699-a747-061fd8fe5761",
+			"79846213-e0df-4dda-8997-9b9e913a4fc9",
+			"b4e05e00-336e-44b3-82d7-08931b832b92",
+			"a4434fd6-0efd-4451-9395-c10cf07ae67b",
+			"de9c1793-b2e7-4808-8e9b-e78ec26e3225",
+			"bc4b39c5-968b-4ba4-b9b9-026112504b6e",
+			"d78f6437-c5fb-4fcf-bb13-eccaba72cb85"
+		],
+		"replaces": [
+			"545b1f8a-77e7-480c-bd0f-623ece62faee",
+			"b6224471-366b-47c1-a35a-e41203ca356d"
 		]
 	}
 ]
