@@ -2643,5 +2643,35 @@
 		"types": [
 			"kerndoel_vakleergebied"
 		]
+	},
+	{
+		"id": "6db136e4-b9ad-4695-9d23-a2225a744b7e",
+		"title": "Fries",
+		"kerndoel_domein_id": [
+			"5fa0ce5f-d8e9-431a-83f8-c804fcfa6260",
+			"dc54e70a-b969-48b6-963d-d257fc20f89f",
+			"bae14315-61e3-4b3a-8b80-936a3d6c754e"
+		],
+		"vakleergebied_id": [
+			"6e29642b-d99d-4085-8dc5-971cabb6b693"
+		],
+		"kerndoel_id": [
+			"995032a1-de4a-4a07-988c-b8c7c2de197b",
+			"b2e4a065-2dda-4a1e-aa20-40d0da1cfc45",
+			"7e1f0ed5-e46b-4d3e-b3bd-d412cd4b4031",
+			"875cd9c5-9924-45ff-8cba-d7fac8d97ed2",
+			"d53370af-1b9c-4e00-bf8d-c17f3c078f74",
+			"60dd1636-925e-4de3-a0c7-76fe77816f76",
+			"e1ea3c39-8ecd-48a5-96e9-2d8a2f720397"
+		],
+		"replaces": [
+			"68bc0428-d73f-40aa-9a11-676ed996c4a1"
+		],
+		"replacedBy": [
+			"eb1f3fde-c7c4-4140-aa81-679488fd6d61"
+		],
+		"types": [
+			"kerndoel_vakleergebied"
+		]
 	}
 ]
