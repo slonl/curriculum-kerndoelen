@@ -593,7 +593,7 @@
 	},
 	{
 		"id": "d7154bff-93d8-4cf9-834b-c11283c8c3f3",
-		"title": "Kunstzinnige  oriëntatie",
+		"title": "Kunstzinnige oriëntatie",
 		"kerndoel_id": [
 			"c846d825-2f59-4c70-94e3-bcd5a77cd6a5",
 			"73393b22-0e24-43c0-9a9b-02f808a6304f",
@@ -1710,7 +1710,7 @@
 		"id": "54e49a11-cd0a-4519-ac01-7b8ec5d4d763",
 		"title": "De leerlingen leren eenvoudige meetkundige problemen op te lossen.",
 		"description": "Meetkundige problemen",
-		"prefix": "SO nl/ml Kerndoel LS 47:  Meetkundige problemen",
+		"prefix": "SO nl/ml Kerndoel LS 47: Meetkundige problemen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
@@ -1729,7 +1729,7 @@
 		"id": "903da933-56e3-4f36-a9fb-8cc69c5ff453",
 		"title": "De leerlingen leren meten en leren te rekenen met eenheden en maten, zoals bij tijd, geld, lengte, omtrek, oppervlakte, inhoud, gewicht, snelheid en temperatuur.",
 		"description": "Meten en rekenen",
-		"prefix": "SO nl/ml Kerndoel LS 48:  Meten en rekenen",
+		"prefix": "SO nl/ml Kerndoel LS 48: Meten en rekenen",
 		"niveau_id": [
 			"f9b25c20-9017-425b-8d3c-360ab6b5c222",
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
