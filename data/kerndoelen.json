@@ -1641,7 +1641,7 @@
 		"id": "c85ea24c-f622-41dc-9715-ef085c213532",
 		"kerndoelLabel": "Praktische  redzaamheid",
 		"title": "De leerlingen leren hun dagelijkse activiteiten en behoeften zoveel mogelijk zelfstandig realiseren.",
-		"description": "Praktische  redzaamheid",
+		"description": "Praktische redzaamheid",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
 		]
@@ -1790,7 +1790,7 @@
 		"prefix": "SO zml/mg Kerndoel LS 23",
 		"id": "4a61d950-6090-431c-bc2d-1cd0b6d57811",
 		"kerndoelLabel": "Seksuele diversiteit",
-		"title": "De leerlingen leren de seksuele verschillen respecteren tussen jongens  en meisjes en leren op een weerbare en open wijze omgaan met de eigen lichamelijkheid en die van anderen.",
+		"title": "De leerlingen leren de seksuele verschillen respecteren tussen jongens en meisjes en leren op een weerbare en open wijze omgaan met de eigen lichamelijkheid en die van anderen.",
 		"description": "Seksuele diversiteit",
 		"niveau_id": [
 			"edea6b04-1b3f-45f6-a7c9-4e64e59eb503"
@@ -3410,7 +3410,7 @@
 		]
 	},
 	{
-		"prefix": "VSO Kerndoel DB 54.8 ",
+		"prefix": "VSO Kerndoel DB 54.8",
 		"id": "47df51c8-8ad0-43be-ba66-f8c7bd42bff3",
 		"kerndoelLabel": "Omgaan met druk en tegenslag",
 		"description": "Omgaan met druk en tegenslag",
